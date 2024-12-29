@@ -1,0 +1,14 @@
+WellLadder_Name {  Studnia }
+Plh_0 { *Głęboka studnia. Przyglądasz się temu. Jest tylko czerń.* }
+Plh_2 { Cześć! }
+Plh_9 { $GVAR:EVars_Player.Name$ jest świetny! }
+Plh_15 { Uderz go w twarz, mówi Kopacz... }
+Plh_11 { (wrzuć monetę) }
+Plh_4 { (zbadaj studnię) }
+Plh_8 { (schodzić) }
+Plh_3 { Witam... Witam... }
+Plh_10 { ... to przynęta... to przynęta... }
+Plh_16 { ...mniej...mniej... }
+Plh_13 { * Wrzucasz monetę w ciemność i patrzysz, jak znika. Teraz jesteś o jedną monetę biedniejszy.* }
+Plh_5 { *Dostrzegasz coś — wygląda to jak woda.* }
+Plh_6 { *Zaglądając do studni, widać dno. Nie jest strasznie głęboki. Mógłbyś zejść na dół.* }

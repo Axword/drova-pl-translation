@@ -1,0 +1,5 @@
+Title { Długi to Mit }
+Entry_01 { Lindon ma dużo długów. Mam zdobyć listę dłużników od Friedel, aby mógł się z niej skreślić. Friedel mieszka w dużych ruinach w Górnej Dzielnicy. }
+Entry_02A { Boris może zdobyć dla mnie tę listę. Dałem mu $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$  monet, a listę mogę odebrać od niego jutro. }
+Entry_03 { Mam listę dłużników Friedel. Teraz muszę ją dostarczyć Lindonowi. }
+Entry_04 { Lindon ma listę i może wyjść z długów. Wynagrodził mnie za moje wysiłki. }

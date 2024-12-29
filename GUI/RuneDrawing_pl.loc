@@ -1,0 +1,5 @@
+draw { Rysuj }
+delete { Usuń }
+move { Przesuń }
+close { Zamknij }
+confirm { Potwierdź }

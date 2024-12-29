@@ -1,0 +1,17 @@
+Workbench { Stół roboczy }
+Furnace { Dymarka }
+Fireplace { Ognisko }
+Personal { Osobiste }
+Recipes { Przepisy }
+Title_Panel { Rzemiosło }
+Toggle_CraftableOnly { Wyświetlaj tylko przepisane przedmioty do wytworzenia }
+Foldout_Throw { Narzędzia }
+Foldout_Ammo { Amunicja }
+Foldout_Trinkets { Biżuteria }
+Foldout_Food { Jedzenie }
+Foldout_Heal { Leczenie }
+Foldout_Unsorted { Nieposortowane }
+Title_CraftingStation { Obszar pracy }
+Prefix_RequiredWorkbench { Wymagane: }
+Foldout_Potion { Mikstury }
+Foldout_Crafting { Przetwarzanie }

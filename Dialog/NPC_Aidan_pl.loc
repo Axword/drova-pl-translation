@@ -1,0 +1,57 @@
+Plh_12 { Jaki eliksir robisz? }
+Plh_33 { Czego dokładnie brakuje Ci do sporządzenia eliksiru? }
+Plh_36 { Gdzie mogę znaleźć takie zioło? }
+Plh_48 { Oto bazalt. }
+Plh_34 { *uśmiecha się* Znalazłem stary tekst, który twierdzi, że eliksir trwale poprawi twoją siłę. Bardzo potężny eliksir, ale składniki są bardzo trudne do znalezienia. }
+Plh_11 { Bazaltowy korzeń. Znalezienie czegoś nie jest łatwe. }
+Plh_32 { Sam Bazaltowy korzeń uczyni cię silniejszym, ale jako eliksir uczyni cię znacznie silniejszym! }
+Plh_35 { Koniecznie sięgnij po niego, jeśli go znajdziesz! }
+Plh_37 { Jest wiele potężnych ziół. Bazaltowy korzeń rośnie tylko w głębokich podziemnych jaskiniach. }
+Plh_38 { Nie jestem wojownikiem, więc nie mogę się tam dostać. I nikt tu tego nie sprzedaje. }
+Plh_39 { W Nemeton jest handlarz, który to sprzedaje, ale... No cóż... Nie wpuszczą mnie do Nemeton. }
+Plh_40 { Jeśli przyniesiesz mi to zioło, będziesz mógł wypić eliksir. Chcę się tylko dowiedzieć, czy to działa. }
+Plh_41 { Nie jesteś pewien, czy eliksir zadziała? }
+Plh_45 { Dla mnie to brzmi trochę podejrzanie. }
+Plh_42 { Mogę iść się rozejrzeć. }
+Plh_43 { Cóż, sam nigdy tego nie próbowałem... Ale teksty są na ten temat całkiem jasne. Oczywiście nadal może... }
+Plh_44 { ...nie będzie dla ciebie dobre. }
+Plh_46 { Pomyśl o tym – te rzeczy zawsze niosą ze sobą pewne ryzyko. *uśmiecha się* }
+Plh_47 { Pamiętaj, bazalt rośnie w jaskiniach. }
+Plh_49 { Ach, to wygląda bardzo dobrze. }
+Plh_52 { Zbliżać się... }
+Plh_53 { Mieszanie... Mandragora... Gotowanie. }
+Plh_54 { To wygląda bardzo dobrze. }
+Plh_55 { To powinno wystarczyć. Teraz musimy tylko sprawdzić, czy to zadziała. }
+Plh_56 { Nie przestawaj ich przybywać! }
+Plh_57 { Czy uważasz, że eliksir jest dobrze wymieszany? }
+Plh_59 { Wolałbym przejść. }
+Plh_61 { *Czujesz w sobie ciepło. Moc przepływa przez Twoje ciało. Czujesz się silniejszy i bardziej wypoczęty.* }
+Plh_63 { Dobrze? }
+Plh_65 { Czuję się niepokonany. }
+Plh_64 { Wygląda na to, że to działa. }
+Plh_66 { Łatwy. Być może to cię wzmocniło, ale Eugen wciąż może cię znokautować. }
+Plh_67 { Tekst wydaje się być prawdziwy i takich roślin jest więcej. Jeśli chcesz, mogę Ci sprzedać przepisy. }
+Plh_58 { Ktoś kiedyś przelał to na papier, ale to wszystko mogło być kłamstwem. Nie mogę ci tego powiedzieć na pewno. }
+Plh_60 { W takim razie spróbuję! }
+Plh_62 { Czuję się niesamowicie! To zadziałało! }
+Plh_14 { Co dokładnie robisz? }
+Plh_13 { Czy możesz mi pokazać, jak samemu to wszystko zrobić? }
+Plh_18 { Jeśli pokażesz mi, jak samemu to zrobić, zapłacę ci. }
+Plh_29 { Oto monety $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$. }
+Plh_15 { Potrafię robić różne rzeczy, ale uwielbiam przygotowywać eliksiry. }
+Plh_16 { Oczywiście wszystko też jest na sprzedaż — w ten sposób możesz zarobić dużo monet. *uśmiecha się* }
+Plh_17 { Jeśli ci to pokażę, będziesz mógł śmiało go sprzedać. Zapomnij o tym. }
+Plh_22 { *mruczy* przydałoby mi się kilka monet... }
+Plh_23 { Widzisz! Co powiesz na monety $GVAR:QuestVars_AlrauneForAidan_Config.PlayerOffer$? }
+Plh_27 { Za monety $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$ chętnie poświęcę część mojego czasu, ucząc Cię czegoś. }
+Plh_30 { Ach, monety! Wspaniały! }
+Plh_31 { Więc, co chcesz wiedzieć? }
+Plh_51 { Mogę cię nauczyć, jak robić pułapki, bomby i amunicję. Możesz też warzyć maści i mikstury. }
+Plh_20 { *uśmiecha się* Rozejrzyj się. }
+Plh_5 { Nie ma mowy! }
+Plh_68 { Miałem to wcześniej... dlaczego przestało działać? }
+Plh_6 { Co się stało, stary? }
+Plh_8 { *wzdryga się* Zaskoczyłeś mnie! Nie widzisz, że pracuję? }
+Plh_10 { Co tu robisz? }
+Plh_9 { Majsterkowanie. Jestem w trakcie opracowywania eliksiru zwiększającego moją siłę. Ale jakoś to nie działa jak należy... Jakby wciąż czegoś ważnego brakowało. }
+Plh_21 { Mam rzeczy do zrobienia. Czego chcesz? }

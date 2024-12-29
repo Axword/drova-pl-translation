@@ -1,0 +1,59 @@
+Plh_44 { Praca sama się nie zrobi. }
+Plh_6 { Powodzenia w kopalniach! }
+Plh_7 { Hej, kolego! }
+Plh_8 { Słyszałem, że rozmawiałeś z szefem Wyrobiska. Chcesz dużo srebra? Coś słyszałem! }
+Plh_9 { Ale musi być jakiś haczyk... }
+Plh_10 { Wyjdź z tym. }
+Plh_11 { Nie jestem zainteresowany. }
+Plh_12 { Nie ma haczyka. Po prostu potrzebuję do tego kogoś innego... }
+Plh_13 { Pospiesz się! Pokażę ci! }
+Plh_14 { Oczywiście, że jesteś zainteresowany! Chodzi o srebro! }
+Plh_15 { Ach, w końcu tu jesteś. Więc teraz jest... }
+Plh_17 { ...srebro. *uśmiecha się* }
+Plh_19 { Poważnie? Chcesz mnie oszukać? }
+Plh_20 { Więc po prostu weź srebro. (przekaż $GVAR:EVars_Emko_Config.AmountOfSilverForScam$ srebro) }
+Plh_21 { Nie przysiadasz ode mnie! }
+Plh_22 { To nie było osobiste, kolego. Mursel też co wieczór bierze od nas srebro. Tak to właśnie tu działa. }
+Plh_23 { I po prostu zgodziłeś się, że Mursel cię wykorzystuje? }
+Plh_26 { Nie mamy wyboru. No cóż, tak – Mursel dostanie albo nasze srebro, albo nasze głowy na tacy… }
+Plh_30 { Jeśli połączymy siły, mamy przeciwko niemu szansę... }
+Plh_69 { Jesteśmy po prostu łagodnymi Kopaczami. }
+Plh_66 { Jeśli będziemy się trzymać razem, będzie miał przewagę liczebną. }
+Plh_33 { Mmmmm... }
+Plh_34 { W sumie masz rację, do cholery. Dlaczego to znosimy? Nie będzie miał szans, jeśli będzie miał przewagę liczebną! }
+Plh_68 { Dobrze. Ogółem. Teraz! }
+Plh_27 { Nie miej nam tego za złe, kolego. Życie w kopalniach jest trudne. To każdy dla siebie. }
+Plh_67 { Powodzenia w kopalniach! }
+Plh_28 { Żartujesz sobie z nas? Nie masz dość srebra! }
+Plh_29 { W takim razie chyba nie ma innego wyjścia. }
+Plh_35 { Mursel! Mamy dość! Skończyliśmy z dawaniem ci srebra w zamian za sen! }
+Plh_36 { Dlaczego się tak zachowujesz? Czy piłeś sos? }
+Plh_37 { Wystarczy! }
+Plh_38 { To koniec! }
+Plh_39 { My, Kopacze, od teraz będziemy tu spać za darmo! (walka z Murselem) }
+Plh_40 { Mursel, nie powinniśmy znosić tych bzdur! (walka z Emko) }
+Plh_41 { Zobaczymy o tym. A teraz chodź! }
+Plh_42 { *uśmiecha się* Nie ma za co. }
+Plh_43 { Żartujesz sobie? Wrr... }
+Plh_49 { Wystarczy, Mursel! Nie będziesz już oszukiwał nas, Kopaczów! }
+Plh_53 { Masz, na co zasłużyłeś, Mursel! }
+Plh_54 { Nie dostaniesz już mojego srebra, draniu. }
+Plh_55 { *przygryza wargę* Wy, małe pissany, naprawdę myślicie, że ujdzie wam to na sucho? }
+Plh_56 { Poczekaj, aż będziesz musiał uporać się z Ocalonymi — są znacznie wytrzymalsi. }
+Plh_50 { Teraz będziemy tu spać, nie oddając żadnego srebra. Rozumiem? }
+Plh_57 { Tak. Teraz mnie to nie obchodzi. Rób co chcesz. }
+Plh_58 { Dziękujemy, że nam pomogłeś. I przykro mi, że chcieliśmy cię oszukać, kolego. Czasami jest tu naprawdę ciężko. }
+Plh_59 { Zapomnij o tym. }
+Plh_60 { Nigdy ci tego nie wybaczę. }
+Plh_61 { *pociera szyję* To było okropne z mojej strony. }
+Plh_63 { Zatem teraz możemy pracować. Dla siebie, nie dla innych ludzi. Do zobaczenia! }
+Plh_62 { Przepraszam. Ale nic na to nie można poradzić. }
+Plh_46 { To był naprawdę genialny pomysł... *jęczy* }
+Plh_65 { A teraz znowu znasz swoje miejsce! Wracaj do pracy! }
+Plh_70 { Kurczę, właśnie odleciałeś. Wynoś się stąd! }
+Plh_51 { Wygrałeś. Zostawimy cię w spokoju. }
+Plh_52 { To nie ma nic wspólnego z tobą, kolego. Jest tu ciężko. }
+Plh_45 { Dzięki za pomoc Teraz możemy spać spokojnie. }
+Plh_48 { Masz usta jak kanał ściekowy. Wynoś się stąd! }
+Plh_47 { *uśmiecha się* Wybrałeś złą stronę, przyjacielu. }
+Plh_71 { Już raz uderzyłem Mursela w usta, drugi mu nie zaszkodzi. Zbliżać się. }

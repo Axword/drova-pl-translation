@@ -1,0 +1,42 @@
+Plh_48 { O twoich rzeczach... }
+Plh_35 { Długo tu jesteś? }
+Plh_36 { Jak oślepłeś? }
+Plh_37 { Nie masz rodziny, która może Cię wesprzeć? }
+Plh_7 { Tutaj, mam twoje rzeczy. (podaj niedźwiedzią skórę) }
+Plh_20 { Tutaj, mam twoje rzeczy. (oddaj kożuch) }
+Plh_50 { Nadal nad tym pracuję. }
+Plh_9 { O, w końcu niedźwiedzia skóra. Jest taki miękki. Mówię ci, moje życie jest już wystarczająco ciężkie. }
+Plh_10 { To był młody niedźwiedź. }
+Plh_11 { Gdzie są moje monety? }
+Plh_8 { Jestem bardzo wdzięczny. Wyjmij monety z torby. Nie widzę ich. }
+Plh_12 { (Weź wszystkie monety $GVAR:QuestVars_OldMan_Config.AllMoney$ z worka) }
+Plh_13 { (Wyjmij monety $GVAR:QuestVars_OldMen_Config.DefaultValue$ z torby) }
+Plh_14 { Nie chcę żadnych monet. }
+Plh_17 { Nie pamiętam kiedy ostatni raz nie było mi zimno w nocy. Ale dziś wieczorem będzie inaczej... }
+Plh_18 { Ty... Po prostu dajesz mi skórę? Już dawno nie spotkałem się z taką życzliwością. Niech Kruk cię chroni. }
+Plh_21 { *głaska futro* Wreszcie niedźwiedzia skóra! Takie miękkie, takie piękne... ale... Takie małe? Czy niedźwiedzie nie są większe? }
+Plh_51 { Poczekam tu na ciebie. }
+Plh_38 { Ha! Mam prawie tyle lat, co sam Nemeton! }
+Plh_41 { Nie możesz sobie wyobrazić, co tu widziałem. Kiedy Nemeton był wspaniały... Miejsce, którego nikt nie chciał opuszczać... }
+Plh_42 { Ale potem przyszli Ocaleni... }
+Plh_43 { Molvina powinna była zrobić więcej w sprawie Ocalonych. Ona jest słaba! Zupełnie jak jej ojciec! Już wtedy był tchórzem! }
+Plh_39 { Czy uwierzyłbyś mi, gdybym ci powiedział, że kiedyś byłem dzielnym wojownikiem, ale zostałem pokonany i ukarany przez moich wrogów? }
+Plh_46 { Tak. }
+Plh_47 { NIE. }
+Plh_44 { W takim razie zostawmy to. }
+Plh_45 { To dobrze o Tobie świadczy, że nie jesteś typem człowieka, który wierzy we wszystko, co mówią ludzie. Wiek mnie po prostu dogonił. }
+Plh_40 { Myślisz, że byłbym tutaj, gdybym taki miał?! }
+Plh_23 { Cześć? Cześć? Czy ktoś tam jest? }
+Plh_24 { Tak. Ja jestem. }
+Plh_25 { NIE. }
+Plh_27 { Ach! }
+Plh_6 { Jestem Gilwar. Uwierz mi, chętnie zostawiłbym Cię w spokoju, ale w tej chwili nie mam wyboru... }
+Plh_5 { Spójrz na mnie. Jestem stary i ślepy. Potrzebuję pomocy. Brzmisz młodo i silnie. Czy możesz mi przynieść z targu cztery jabłka, nóż do chleba, trzy kawałki jarzębiny i skórę niedźwiedzia? Tobie też za to zapłacę. }
+Plh_31 { Oczywiście! Pomogę ci. }
+Plh_32 { Nie mam na to czasu... }
+Plh_33 { Więc są tu jeszcze jacyś przyzwoici ludzie! Wszystko znajdziesz tutaj, na rynku. }
+Plh_34 { Hmph. Szkoda. Jeśli zmienisz zdanie, będę tu. Może jeszcze ktoś dołączy... }
+Plh_28 { Hmph. Nie potrzebuję niczyjej pomocy, żeby się ośmieszyć. }
+Plh_29 { Słyszę cię! }
+Plh_30 { Tak, jestem tutaj... }
+Plh_22 { Czy to znowu ty? }

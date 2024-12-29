@@ -1,0 +1,1 @@
+Desc { Staraj się utrzymać igłę w niebieskim polu. $INPUT:Lockpick_Left$: Przesuń igłę w lewo $INPUT:Lockpick_Right$: Przesuń igłę w prawo. Gdy zielony wskaźnik się napełni, otworzyłeś zamek. Im bardziej czerwony wskaźnik się napełnia, tym większe ryzyko, że wytrych się złamie. }

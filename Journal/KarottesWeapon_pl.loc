@@ -1,0 +1,5 @@
+Title { Broń Karotte }
+Entry_01 { Znowu Karotte zniszczył swoją broń. Wstydzi się pokazać z nią u Chunnaica. Obiecałem, że się tym zajmę, więc dał mi $GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney$ monet. }
+Entry_02 { Chunnaic naprawił broń, ale od razu zauważył, że należy do Karotte. }
+Entry_03 { Karotte odzyskał swoją broń. }
+Entry_04 { Karotte nie potrzebuje już swojej broni. }

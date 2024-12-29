@@ -1,0 +1,11 @@
+ExpPoints { Doświadczenie }
+Name_Strength { Siła }
+Name_Mind { Umysł }
+Name_Dex { Zręczność }
+Name_Armor { Pancerz }
+Name_MagicResist { Odporność na Magię }
+Learned { Nauczone }
+LearnPoint { Punkt Nauki }
+LearnPoints { Punkty Nauki }
+MaximumHealth { Maksymalne Zdrowie }
+Name_Orientationpunkt { Bazowa Koncentracja }

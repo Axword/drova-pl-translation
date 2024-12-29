@@ -1,0 +1,70 @@
+Plh_5 { Muszę zadbać o jedzenie. Możemy porozmawiać później. }
+Plh_15 { Jak się masz? Czy jesteś ciężko ranny? }
+Plh_69 { Hej, Bruna – co tu robisz? }
+Plh_50 { Musimy się wyrwać. I jakby teraz! }
+Plh_112 { Hej, Bruno! Jak się dzisiaj czujesz? }
+Plh_114 { Miło, że pytasz $GVAR:EVars_Player.Name$ ... Znowu czuję się mniej więcej dobrze. Nadal trochę boli, kiedy się poruszam, ale jestem twardszy, niż wyglądam. }
+Plh_115 { Och, ach, moje żebro... }
+Plh_116 { Idź powoli. Twoje ciało potrzebuje czasu na regenerację. }
+Plh_117 { Nie wydajesz mi się taki twardy. }
+Plh_118 { Masz rację... }
+Plh_119 { Odpocznę trochę. Lepiej weź się do pracy — może dzisiaj naprawdę znajdziesz to, czego szukają. }
+Plh_14 { *jęczy* Ach... Ja... Wszystko w porządku. Nic nie jest zepsute – myślę. Proszę się nie martwić. }
+Plh_16 { Przepraszam, że nie mogłem być wcześniej. }
+Plh_18 { Odwdzięczę się Lanzo za to... }
+Plh_26 { *uśmiecha się* To nie twoja wina... }
+Plh_27 { Ja... Wolałbym zrobić to sam... }
+Plh_70 { *uśmiecha się* Miło cię widzieć. Teraz wszystko jest inne... Wyjechałem do Nemeton – jestem wolny. I powinnam być szczęśliwa, ale... }
+Plh_72 { Ty i Dalin... Pracujecie teraz razem? }
+Plh_73 { Wszystko jest lepsze niż uwięzienie w jaskini. }
+Plh_74 { Dalin powiedział, że możemy spróbować szczęścia w Nemeton. Dlaczego nie...? }
+Plh_75 { Zgadza się. Ja też wciąż muszę dojść do siebie po tym wszystkim – to była ciężka próba. Dziękuję za wszystko. }
+Plh_29 { Dlaczego nie musisz iść do Wyrobiska, jak wszyscy inni? }
+Plh_34 { Jak tu trafiłeś? }
+Plh_30 { Każą mi dbać o prowiant, chociaż umiem posługiwać się kilofem znacznie lepiej niż niektórzy z tych słabeuszy. Ale przynajmniej nie jest tu niebezpiecznie. }
+Plh_120 { Jeśli też chcesz trochę prowiantu, przyjdź do mnie po swojej zmianie. }
+Plh_46 { *wzdycha* To po prostu przeznaczenie. }
+Plh_47 { Jaki los? }
+Plh_36 { Wędrowałem po Czerwonych Wrzosowiskach z moim bratem Liamem. Nie mieliśmy już jedzenia, a wszędzie były krwawe muchy. A Liam, cóż... }
+Plh_37 { Broniliśmy się, a Liam włożył w to całe swoje siły. Potem natknęliśmy się tutaj na tych mężczyzn. Pomogli nam... dali nam jedzenie... }
+Plh_38 { Myśleliśmy, że jesteśmy bezpieczni... }
+Plh_40 { Nie wydają się do końca godni zaufania. }
+Plh_41 { To był błąd. }
+Plh_42 { Byliśmy u kresu wytrzymałości i nie mieliśmy wyboru... }
+Plh_107 { Chcieli nas wciągnąć do tej jaskini. Byłam wyczerpana i nie mogłam już wstać. Wtedy Liam walczył ostatnim tchem, krzycząc, że tego nie zniesie... }
+Plh_43 { Trzymał swoje, ale było ich za dużo... }
+Plh_108 { Był takim dobrym człowiekiem. Zawsze troszczę się o wszystkich. Stanął w obronie słabych... }
+Plh_121 { Robię to wszystko dla niego. Jego siła nie może zostać utracona dla tego świata. }
+Plh_44 { Tak. Ale było już za późno... }
+Plh_7 { *mruga* Niczego więcej nie pragnę, ale bez broni jesteśmy bezsilni... }
+Plh_52 { W magazynie znajduje się trochę broni, ale Mali zawsze się tam kręci. }
+Plh_55 { Może możemy coś z tym zrobić. Powiedz Mali, że zmieniłem się na gorsze. Zaopiekowała się mną wczoraj, więc pewnie zrobi to jeszcze raz... i będzie rozproszona. }
+Plh_58 { Ale i tak będziesz musiał jakoś otworzyć drzwi... Nie mam klucza. }
+Plh_122 { Chcę się tylko stąd wydostać... }
+Plh_12 { Więc... zadbałeś o jedzenie... }
+Plh_13 { Dzięki... }
+Plh_19 { Proszę... To twoja porcja na dzisiaj. }
+Plh_99 { ... }
+Plh_20 { Już drugi dzień. Wygląda na to, że dajesz sobie z tym radę, co? Lepiej nie oddalaj się za bardzo od Hasso. W tych ruinach może być niebezpiecznie... }
+Plh_68 { *bierze głęboki wdech* *kaszle* }
+Plh_110 { Jak się masz, Bruno? }
+Plh_111 { Nigdy lepiej. Może trochę bólu i bólu, ale warto znowu być wolnym. Potrzebuję teraz trochę czasu dla siebie. Dziękuję za wszystko, $GVAR:EVars_Player.Name$. }
+Plh_80 { Lanzo, co mam ugotować, jeśli nic mi nie przyniesiesz? Gulasz z kamienia i mchu? }
+Plh_81 { Gdyby wypełniło mi żołądek, nawet bym to wypolerował. Ale ich żołądki nie są w stanie niczego znieść. $GVAR:EVars_Player.Name$ zbierze dzisiaj pyszne grzyby. Może nawet uda ci się zdobyć trochę mięsa od świnki morskiej. }
+Plh_106 { Mam nadzieję, że się nie przewrócisz. W przeciwnym razie będziemy musieli sięgnąć po nasze zapasy. A tego nikt nie chce zrobić. Zdecydowanie nie. }
+Plh_82 { Zbieranie grzybów jest niebezpieczne. Powinien to zrobić ktoś z was — nie mamy żadnej zbroi ani broni! }
+Plh_83 { Ostrożnie, Bruno. Lepiej zachowaj swoje rady dla siebie. Zarządzać będzie $GVAR:EVars_Player.Name$. Jeśli nie... to żadna strata. }
+Plh_84 { Cholerny śmiecie... Nienawidzę go... ON CHCE, żebyśmy cierpieli! }
+Plh_85 { Tam jest niebezpiecznie, więc uważaj. }
+Plh_87 { Dam sobie radę, nie martw się. }
+Plh_88 { Teraz trochę się boję. }
+Plh_86 { Ostatnia wysłana tam osoba też to powiedziała – tuż przed tym, jak rozpłynął się w powietrzu. }
+Plh_90 { Czekaj, mam tu coś, czego Lanzo nie znalazł... }
+Plh_89 { Weź to ze sobą. Może uratuje ci tyłek, jeśli znajdziesz się w trudnej sytuacji. }
+Plh_93 { Miejmy nadzieję, że nie będzie mi to potrzebne... }
+Plh_92 { A co właściwie mam dla ciebie kupić? }
+Plh_94 { też mam taką nadzieję... }
+Plh_95 { Przynieś mi $GVAR:BanditMineBrutus_Day03.CountMushrooms$ shadeshrooms i $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ jaskiniowe grzyby. To powinno wystarczyć każdemu. }
+Plh_96 { Mięso też byłoby świetne, ale nie jest warte ryzyka. Po prostu wróć w jednym kawałku. }
+Plh_97 { Wystarczy udać się do Koliny. Znajdziesz ją, gdy udasz się na południe od kwater sypialnych. Ona pełni służbę wartowniczą. }
+Plh_91 { Dam ci dobrą radę: weź tylko tyle, ile potrzebujemy, i od razu wróć. Bez niepotrzebnego ryzyka. }

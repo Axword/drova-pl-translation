@@ -1,0 +1,13 @@
+Title { Głos Borisa w sprawie dołączenia do Ocalonych }
+Entry_00 { Jeśli chcę, żeby Boris ręczył za mnie, aby mnie przyjęto do Ocalonych, muszę odebrać paczkę od Asmusa w Nemetonie. Do Nemetonu! }
+Entry_01 { Boris dał mi trzy paczki Rdzawego zielska i kazał mi sprzedać je Drwalom za nie mniej niż  $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$  monet za paczkę. Jeśli to dla niego zrobię, ręczy za mnie. }
+Entry_02A { Ja i Kora podzieliliśmy się Rdzawym zielskiem, więc sprzedałem jej za $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ monet. Różnicę będę musiał pokryć z własnej kieszeni. }
+Entry_02B { Kora kupiła Rdzawe zielsko za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+Entry_03 { Cord kupił paczkę czerwonego złota za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+Entry_03_1 { Sprzedałem trochę Rdzawego zielska Gritowi. }
+Entry_03_2 { Sprzedałem trochę Rdzawego zielska Sędze. }
+Entry_04 { Liandra kupiła paczkę Rdzawego zielska za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+Entry_05 { Zjednałem sobie Borisa. Ręczy za mnie. Ale jeśli chcę dołączyć do jego załogi, będę musiał przekonać również resztę, w tym Eugena. }
+Entry_01B { Nie sprzedałem rzeczy dla Borisa. }
+Entry_Sold { Sprzedałem wszystko i powinienem zameldować się u Borisa. }
+Entry_06 { Mog ma trochę Rdzawego zielska. Otrzymałem za to $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }

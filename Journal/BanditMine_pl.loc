@@ -1,0 +1,28 @@
+Title { Zaginiony }
+Entry_Main_01 { Jeden z pracowników Georga, facet o imieniu Hasso, zaginął. Chciał tylko na chwilę wpaść do karczmy „Bezgłowy Rozpruwacz”, ale nigdy nie wrócił. }
+Entry_Main_02 { W obozie Ocalonych, Kora martwi się o swojego przyjaciela Baltusa. Poszedł na piwo do „Bezgłowego Rozpruwacza”, ale nigdy nie wrócił. }
+Entry_Main_03 { W obozie na południe od obozu Ocalonych, Pwyll szuka swojego przyjaciela Winda, który był w drodze do „Bezgłowego Rozpruwacza”. }
+Entry_Main_04 { Kilka osób z karczmy zaginęło. Wszyscy mieli do czynienia z Fawini. Powinienem z nią porozmawiać. }
+Entry_Main_04_01 { Podobno Hasso opuścił karczmę w nocy, kierując się w stronę Farmy George'a. }
+Entry_OutSideFoundGuys { Grupa ludzi była przetrzymywana w kopalni na torfowisku. Poprosili mnie o pomoc w ucieczce. }
+Entry_Main_05 { Zostałem schwytany. Wszystkie moje rzeczy zniknęły. Taki sam los spotkał Hasso i innych zaginionych. }
+Entry_Main_06 { Bez pomocy innych ucieczka stąd będzie trudna. Powinienem się z nimi sprzymierzyć. }
+Entry_Day1_01 { Boli mnie głowa... Ludzie tutaj czegoś szukają, a my mamy to wykopać. Hasso mówi, żebym poszedł z nim. I cokolwiek zrobię, lepiej, żebym nie kazał strażnikom czekać. }
+Entry_Day1_02 { Rozmawiałem z szefem porywaczy. Hasso i ja mamy oczyścić drogę. Zastanawiam się, czego szukają? }
+Entry_Day1_03 { Lanzo kazał mi usunąć gruz. Dopiero po zakończeniu pracy będę mógł się położyć. A jutro kontynuujemy. }
+Entry_Day2_01 { Dzień 2: Nadal musimy usuwać skały i gruz. Czy to będzie trwało wiecznie? }
+Entry_Day2_02 { Hasso i ja wykopaliśmy pokój z Minionych Czasów. Czy może być w nim coś interesującego? }
+Entry_Day2_03 { Odkryliśmy starą komnatę, ale akurat w tym momencie pojawił się strażnik. Na dziś koniec, mam się położyć. }
+Entry_Day3_01 { Dzień 3: Kończy nam się jedzenie. Dostałem zadanie zdobycia jedzenia i przyniesienia go Brunie. Przynajmniej to zmiana w rutynie... }
+Entry_Day3_02 { Bruna chce, żebym zdobył $GVAR:BanditMineBrutus_Day03.CountMushrooms$ cavernshrooms i $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ shadeshrooms. Podobno tam, gdzie rosną te grzyby, żyją digpigs. A mięso przyda się nam wszystkim. }
+Entry_Day3_03 { Lanzo pobił Brunę. Teraz nie może gotować... Więc oczywiście to ja mam przygotować jutrzejsze jedzenie. }
+Entry_Day3_04 { Zrobione... Nareszcie koniec na dziś... Wreszcie czas, by się położyć... }
+Entry_Day4_01 { Dzień 4: Wygląda na to, że jesteśmy blisko tego, czego szukamy. Zamierzam coś zjeść, a potem wracamy do pracy. Może wypuszczą nas stąd, jak już coś znajdziemy. }
+Entry_Day4_01_1 { Musimy tylko usunąć jeszcze trochę gruzu, a wtedy powinniśmy zobaczyć nasz cel. }
+Entry_Day4_02 { Strażnicy mają swój artefakt, a teraz nie będą już nas potrzebować. Jeśli przekonam Winda i Brunę, żebyśmy uciekli razem — i jakoś dostaniemy się do zbrojowni — uda nam się uciec. }
+Entry_Main_08 { Wind się zgodził. }
+Entry_Main_09 { Muszę się jakoś dostać do zbrojowni. Bruna powiedziała, że powinna poprosić Mali o pomoc, żeby opuściła zbrojownię bez strażnika. }
+Entry_Main_09_1 { Bruna się zgodziła. }
+Entry_Main_010 { Zaczynamy. Wszystko na jedną kartę. Wolność czeka! }
+Entry_Main_GoodEnd { Udało mi się uratować wszystkich i wyprowadzić ich z tej jaskini. Jesteśmy wolni! }
+Entry_Main_KilledFawini { Fawini mnie zaatakowała, ale udało mi się obronić. Powiedziała coś o zabraniu mnie na torfowisko. Może powinienem się tam rozejrzeć. }

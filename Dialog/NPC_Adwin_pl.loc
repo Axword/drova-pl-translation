@@ -1,0 +1,51 @@
+Plh_66 { Usłyszałem kłótnię. Jennifer powiedziała, że ​​skończyło ci się drewno? }
+Plh_72 { Czy mam przynieść ci drewno? }
+Plh_52 { Oto twoje drewno. (przekaż kłody $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$) }
+Plh_67 { Zgadza się. Więc? }
+Plh_73 { Mógłbym to dla ciebie zdobyć. }
+Plh_68 { Naprawdę? Uratowałbyś mi tyłek. Junali jest ogromnie wkurzony, bo wszystko zniknęło… }
+Plh_69 { Właściwie Swenn powinien był przynieść nam kłody $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$. Ale teraz czekamy wiecznie. }
+Plh_70 { Jeśli przyniesiesz nam trochę drewna, oczywiście zapłacę ci za to. }
+Plh_53 { Wreszcie możemy kontynuować pracę. To też trochę uspokoi Junali. Była już dość zirytowana tym, że wszystko trwało tak długo. }
+Plh_54 { I Swenn po prostu przekazał drewno, tak po prostu? }
+Plh_55 { Tak, potrzebował tylko kogoś, kto by to przetransportował. }
+Plh_56 { Nie byłem u Swenna. Sam to dostałem. }
+Plh_57 { Leniwy pies, zmuszający innych do ciągnięcia, podczas gdy on stoi i liczy monety. }
+Plh_59 { Naprawdę nam w tym pomogłeś. To jest dla ciebie. }
+Plh_60 { No dalej, weź to. Uczciwa praca, godziwa płaca, proste. Jeśli podasz rękę, otrzymasz za to zapłatę. Tak to właśnie działa u nas, rzemieślników. }
+Plh_58 { Jesteś zdecydowanie bardziej niezawodny niż tutejsi kupcy. Ciągle się z nimi kłócimy... }
+Plh_11 { O co chodzi z kamieniami granicznymi? }
+Plh_16 { Gdzie powinien znaleźć się kamień graniczny? }
+Plh_61 { Jak dokładnie działają te kamienie graniczne? }
+Plh_12 { Żyjemy w harmonii z Wielkim Krukiem i stawiamy mu kamienie graniczne. Zabezpieczamy jego terytorium, a w zamian pozwala nam tu żyć. }
+Plh_13 { Życie w harmonii z Boskością jest czymś wyjątkowym. Daj trochę, weź trochę. Jesteśmy jednością. }
+Plh_17 { Jeden kamień graniczny w gaju jabłoniowym nie spełnia już swojego zadania. Tamtejsza wieś kwitła. Teraz rozprzestrzenia się Czerwone Wrzosowisko. Tak karze nas Boskość... }
+Plh_19 { Należy zbudować kamienie graniczne Boskości. W przeciwnym razie Drova nigdy nie stanie się Krainą Legend. }
+Plh_62 { Boskość lubi kamienie graniczne. Budujemy je, żeby sprawiały przyjemność. Nemeton robią wszystko, aby pozostać w łaskach Boskości. }
+Plh_63 { Dlatego umieściliśmy te kamienie graniczne w okręgu wokół Nemetonu. Teraz wszystko tu kwitnie. Nic nie jest tak zniszczone jak w obozie Ocalonych. }
+Plh_64 { Bóg dziękuje nam za naszą służbę i w zamian daje nam tę żyzną ziemię. To coś dla nas robi. I coś dla tego robimy. }
+Plh_6 { Miło widzieć tu nową twarz. Jestem Adwin. }
+Plh_7 { Nazywam się $GVAR:EVars_Player.Name$. Co tu robisz? }
+Plh_9 { Ustawiamy kamień graniczny, aby rozszerzyć strefę wpływów Wielkiego Kruka. Na pewno zauważyłeś te kamienie wokół Nemetonu? }
+Plh_21 { *zaskakuje* Czego tu chcesz? }
+Plh_22 { Właśnie miałem cię o to samo zapytać. }
+Plh_26 { Czy jesteś tym gościem, który niszczy ściany? }
+Plh_24 { Chcę po prostu odpocząć. Dużo do zrobienia, mało pracy. Ale... Co cię to obchodzi? Wynoś się stąd. }
+Plh_27 { Facet? To ja mówię prawdę o tym, co robią Nemeton! }
+Plh_28 { Spójrz na Pradawną Puszczę! Zabili Boskość. Kruk nie istnieje. Wszystko jest kłamstwem i zamierzam to zdemaskować! }
+Plh_31 { Powiedz to Gerdwinowi. On cię szuka. }
+Plh_32 { Gerdwina? Ha! Nie rozumie, co Nemeton nam robią. Byłeś na wyprawie... Wiesz, co się stało! Ty także powinieneś wykrzykiwać prawdę i pisać ją na ścianach! }
+Plh_29 { Gerdwin uważa, że ​​dostaniesz to, co cię czeka. }
+Plh_39 { Albo pójdziesz teraz do Gerdwina, albo ja cię do niego zabiorę. }
+Plh_30 { Najlepiej będzie, jak przestaniesz to robić, a ja powiem Gerdwinowi, że już się tym zajęto. }
+Plh_37 { Właściwie, masz rację. Daj mi ten pędzel. }
+Plh_38 { Ja? Zabiłeś Bóstwo, mówię to na głos i mam za to zostać ukarany. }
+Plh_40 { Prawda zostanie ujawniona. }
+Plh_41 { Zabieraj swoje brudne ręce ode mnie! idę. }
+Plh_42 { Hm. Gerdwin nie okazał Kendrickowi litości. Zrozumiałem. poddaję się. }
+Plh_51 { Miejmy nadzieję, że Ocaleni docenią, gdy ludzie mówią prawdę. Idę stąd... }
+Plh_43 { Podoba mi się to! }
+Plh_44 { Wygląda interesująco, ale... Czy Gerdwin naprawdę mnie szuka? }
+Plh_46 { Jest na tablicy ogłoszeń. }
+Plh_47 { Wtedy naprawdę mogę się cieszyć, że to TY mnie znalazłeś. Ale kto wie, co się wydarzy... }
+Plh_20 { *spogląda na ciebie* Czego chcesz? }

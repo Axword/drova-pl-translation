@@ -1,0 +1,181 @@
+Plh_7 { Wróciłem z Pradawnej Puszczy. Teraz wiem, jak ominąć Czarny Płomień. }
+Plh_69 { Jestem gotowy na Czerwoną Wieżę. }
+Plh_225 { Wróciłem z Pierwotnego Lasu i przyniosłem Boski Kryształ. }
+Plh_237 { *przygląda się Boskiemu Kryształowi* Wygląda na to, że jest równie pusty jak pozostałe. Mombert miał rację co do Boskiego Kryształu – musimy go naładować. }
+Plh_226 { Ty sam zdecydowałeś się to zrobić. Jako dziedziczka Maura nie mogę tego tolerować. Być może miałeś na myśli nasze dobro, ale musimy współpracować. }
+Plh_227 { Pokażę ci coś. Przychodzić. }
+Plh_228 { (podążać) }
+Plh_232 { Naczynie runiczne Kruka. Źródło pokoju w Nemeton. Kruk tworzy wszystko, co widzisz. }
+Plh_233 { To, co stworzyliśmy, jest kruche. Ale jesteśmy bliżej celu niż kiedykolwiek wcześniej... }
+Plh_240 { Mieszkańcy Puszczy Leśnej nie odzyskają dawnego życia... }
+Plh_241 { Nemeton wkrótce będzie domem dla wszystkich. }
+Plh_242 { Nie każdy cel uświęca środki. }
+Plh_243 { Nie sądzę, że byłoby to dla mnie łatwe. Ale to, co zrobiliśmy Potężnemu Dzikowi, było konieczne. }
+Plh_244 { Gdy wejdziemy do Czerwonej Wieży, przeszłość stanie się nieistotna. Moc Bóstw zwycięży i ​​cała Drova zostanie przemieniona. Stanie się Krainą Legend, w której wszyscy będą mogli żyć w pokoju... }
+Plh_245 { Trzeba będzie ponieść ofiary, ale nigdy nie możemy tracić z oczu celu. }
+Plh_234 { A Boskie Kryształy nas tam zabiorą. Mombert miał rację. Musimy ich zaatakować, żeby pomogli nam dotrzeć do Czerwonej Wieży. }
+Plh_248 { Zanieś Boski Kryształ Mombertowi. Jest na Czerwonych Wrzosowiskach i szuka Boskości. Musi być miejsce, w którym będziemy mogli nasycić wszystkie kryształy magiczną mocą. }
+Plh_249 { *sięga do jej szyi i rozluźnia naszyjnik* Noszę symbol Nemetona. Ten naszyjnik przekazał mi mój ojciec, Dorian. To on założył Nemeton... a wraz z nim marzenie o naszej przyszłości. }
+Plh_251 { Marzenie, które teraz może się spełnić. Weź symbol. Będzie cię chronić. }
+Plh_252 { Gdy już naładujesz Boskie Kryształy, będziemy gotowi wykonać swoją część. Przygotujemy rytuał, dzięki któremu wejdziemy do Czerwonej Wieży. }
+Plh_255 { Nie zawiodę Cię. }
+Plh_246 { Powiedziałbyś to komuś, kto umiera z głodu? Kogoś, kogo potwory rozdzierają... bo się zawahałem? }
+Plh_247 { Nie. Nie wolno mi się cofać. }
+Plh_75 { Zbliżać się. }
+Plh_217 { Potrzebuję trochę ciszy i spokoju. }
+Plh_155 { Po pierwsze, idź do Lio i przynieś swój kamień runiczny. Potem porozmawiamy. }
+Plh_224 { Daję ci ostatnią szansę. Jeśli odzyskasz Boski Kryształ, wybaczymy ci zdradę. }
+Plh_318 { Molvina, zrobiłem to dla Nemetona. }
+Plh_319 { Mombert mnie do tego zmusił. }
+Plh_320 { Nie obchodzi mnie, dlaczego to zrobiłeś. Teraz masz szansę. Chwyć to. }
+Plh_313 { Słyszałem już od Momberta, że ​​Twoja wyprawa zakończyła się sukcesem. Żeby Gradan nie umarł na próżno... }
+Plh_315 { Tymczasem przygotowaliśmy Święto Ognia. Ufaliśmy, że wszystkim się uda. I mieliśmy rację. }
+Plh_314 { Teraz zasłużyłeś na prawo do świętowania. }
+Plh_45 { Święto Ognia odbywa się tylko raz w roku. Powinieneś się tym cieszyć. }
+Plh_39 { Znajdź sposób na przedostanie się przez Czarny Płomień. }
+Plh_321 { Straciliśmy Gradana, ale zyskaliśmy ciebie i Karotte. }
+Plh_322 { Stworzenie spokojnej Drova zawsze było ważne dla Gradana. Dowiedz się, gdzie znajdują się inne Boskie Kryształy. W ten sposób zbliżymy się do celu jego Gradana. }
+Plh_164 { *uśmiecha się* Cóż, mam nadzieję, że ostro imprezowaliście. Dziś jest twój wielki dzień. }
+Plh_165 { Nadszedł czas, abyś zdobył swój kamień runiczny. Lio i Karotte już na Ciebie czekają. }
+Plh_257 { Wiedziałem, że jest tam niebezpiecznie. Ale nadal nie doceniłem niebezpieczeństwa. Musimy wysłać nowych wojowników. }
+Plh_276 { Organizuję nową wyprawę, ale do jej realizacji będę potrzebować... }
+Plh_259 { Nasyciłem Boskie Kryształy magią. (oddać) }
+Plh_260 { Co? Ty sam? Wyczuwam tę moc. To jest... }
+Plh_261 { Nie ma mowy! Uszedłeś z życiem? Najpierw mandragora, a teraz przetrwałeś Knawd Moor? Zwariowany! }
+Plh_265 { Ja też wyczuwam magiczną moc. Powinno działać. Mamy moc Potężnego Dzika i Boskie Kryształy... to mogłoby wystarczyć. Zaraz wszystko przygotuję. }
+Plh_264 { $GVAR:EVars_Player.Name$, sprowadź tu Momberta. Zaraz. Jest potrzebny w Czerwonej Wieży. }
+Plh_266 { Ale Mobert jest... On jest... niedysponowany. Wątpię, czy jest gotowy na to, co go czeka. }
+Plh_267 { Nie możemy się doczekać. Ale z drugiej strony nie możemy się bez niego obejść. Poza tym nikt nie pragnie bardziej wejść do Czerwonej Wieży. }
+Plh_262 { Heniku, przygotuj swoich wojowników. Umieścimy Boskie Kryształy na miejscu, a potem wejdziemy do Czerwonej Wieży. }
+Plh_263 { Ale... }
+Plh_268 { *wysuwa brodę* Za Nemetona! }
+Plh_269 { $GVAR:EVars_Player.Name$, idź do Momberta. Pewnie odpoczywa z druidami. Powiedz mu, że jest tu potrzebny. }
+Plh_271 { Może Henik ma rację, a Mombert jest za słaby. }
+Plh_275 { Gdy Mombert tu dotrze, możemy zaczynać. }
+Plh_273 { Bez Momberta nie wejdziemy do Czerwonej Wieży. Nie tylko dlatego, że będziemy potrzebować jego wiedzy, ale jeśli go zostawimy, obdarzy nas wszystkich nową. }
+Plh_5 { Postój! Jestem Molvina, dziedziczka Maurów. Skąd przekonanie, że masz prawo tu być? }
+Plh_9 { Angus mnie przysłał. Chcę dołączyć do Nemetonu. }
+Plh_10 { Jestem godzien stać się częścią Nemetonu. }
+Plh_11 { Jesteś tu więc, żeby złożyć przysięgę i stać się częścią rodziny. }
+Plh_14 { Cóż, przekonałeś Angusa swoimi umiejętnościami. Powiedz mi – dlaczego chcesz do nas dołączyć? }
+Plh_15 { Szukam władzy i chcę, żeby coś się wydarzyło. }
+Plh_16 { Solidarność jest ważna. Chcę być częścią społeczności. }
+Plh_17 { Władza i wpływy? To coś, co mogą ci zaoferować wojownicy. }
+Plh_19 { Chcesz należeć do nas? Musisz złożyć przysięgę lojalności. }
+Plh_20 { Powtórz, co powiedziała kiedyś pierwsza Dziedziczka Maurów... }
+Plh_21 { Przysięgam służyć Nemetonowi i przedkładać dobro rodziny nad własne. }
+Plh_23 { Słowo Dziedziczki Maurów jest moim prawem. }
+Plh_25 { Przysięgam wieczną lojalność. }
+Plh_27 { Dziedziczka Maurów usłyszała twoje słowa. Twoja przysięga wiąże cię teraz z Nemetonem. Na zawsze. }
+Plh_159 { Teraz w końcu jesteś godny noszenia zbroi z insygniami Nemetona, aby wszyscy w Drovie mogli to zobaczyć. Mówić! Walczysz w lekkiej czy ciężkiej zbroi? }
+Plh_160 { Jaka jest różnica? }
+Plh_161 { Chciałbym lekką zbroję. }
+Plh_162 { Chciałbym ciężką zbroję. }
+Plh_163 { Ciężki pancerz zapewnia lepszą ochronę przed ciosami, ale lekki pancerz ułatwia uniki. }
+Plh_29 { Pamiętaj, Nemetonowie są teraz twoją rodziną. Jeśli skrzywdzisz jednego członka, skrzywdzisz całą rodzinę. Za każde przestępstwo grozi tylko jedna kara: śmierć. }
+Plh_316 { Jestem Mombert, wysoki druid Nemetonu. Witamy w naszej rodzinie. }
+Plh_183 { Więc... mam ten kamień, który mam zanieść druidom w Nemeton. (oddaj to) }
+Plh_184 { Kamień? }
+Plh_185 { *unosi brwi* Czy to kryształ minionych czasów? }
+Plh_186 { Wygląda zupełnie jak rysunki w starożytnych tekstach. Prawda, Mombercie? }
+Plh_187 { Relikt minionych czasów... dzięki temu moglibyśmy... *Molvina i on wymieniają spojrzenia* }
+Plh_188 { Ale nie bez Boskości. Ten kryształ... możemy go użyć, aby skupić magię Boskości. Potężny Dzik — }
+Plh_30 { Cichy. Czysta fantazja. Straciliśmy już zbyt wielu dobrych ludzi przez Czarny Płomień. }
+Plh_31 { Czarny Płomień? }
+Plh_193 { Na zachód stąd, niedaleko Gospody Bezgłowego Rozpruwacza, zaczyna się Leśna Pradawa. To tam płonie Czarny Płomień. }
+Plh_194 { *patrzy w dal* Płonie głęboko w Pierwotnym Lesie. To tam szukaliśmy Potężnego Dzika. Wielu tam zginęło... moi przyjaciele. }
+Plh_195 { Diemo i jego ludzie faktycznie mieszkają bardzo blisko Czarnego Płomienia. To zbuntowany druid. Chętnie się dowiem, jak udaje im się przetrwać. }
+Plh_197 { Plotka głosi, że handlarz imieniem Tristan regularnie handluje z Diemo. Więc może mógłby nam pomóc... }
+Plh_198 { To musi być znak, że teraz przynosisz nam ten kryształ. A Twoja szansa na wykazanie się przed nami swoimi umiejętnościami... }
+Plh_199 { Znajdź Tristana w gospodzie. Zapytaj go, jak grupie Diemo udaje się przetrwać w Pradawnej Lesie pośród Czarnego Płomienia. }
+Plh_200 { Znam Diemo dobrze. Inteligentny, ale wprowadzony w błąd. Musiał znaleźć sposób na pokonanie Czarnego Płomienia. }
+Plh_34 { Czy mógł używać magii? }
+Plh_201 { Może. Może to być zaklęcie, konkretny rytuał... Albo znają bezpieczne ścieżki przez płomienie. Właśnie tego musisz się dowiedzieć. }
+Plh_36 { Porozmawiaj z Tristanem. Jeśli naprawdę dociera do ludzi w Pradawnej Lesie, to musi to być możliwe także dla nas. }
+Plh_190 { Byłem już w Pradawnym Lesie – wiem, jak przedostać się przez Czarny Płomień. }
+Plh_191 { Co?! }
+Plh_43 { Nie wchodź do Pradawnego Lasu, jeśli nie jesteś przygotowany. Skontaktuj się z Chunnaic w Dzielnicy Rzemieślników. Jeśli powiesz jej, że cię przysłałem, dostarczy ci dobrą broń. }
+Plh_192 { Angus zawsze poszukuje ludzi, którzy wykonają swoją pracę. Sprawdź tablicę ogłoszeń. Jako wojownik Nemetonu znajdziesz tam pracę. }
+Plh_38 { A teraz idź z błogosławieństwem Dziedziczki Maurów. Jesteś częścią Nemetonu. Pokaż to. Żyj tym. }
+Plh_18 { Jesteśmy społecznością. I jesteśmy przekonani, że tylko zjednoczeni możemy zbudować w Drovej coś, o czym do tej pory krążą jedynie legendy. }
+Plh_13 { To nie ty o tym decydujesz. Może to zrobić tylko Dziedziczka Maurów. }
+Plh_40 { Nie masz powodu tu być! }
+Plh_209 { Co to za stworzenie u twojego boku? }
+Plh_210 { To iskra. Link do Boskości. Jego światło odpycha Czarny Płomień. }
+Plh_152 { *pochyla się w stronę iskry* Poczułem tę moc już wcześniej... wtedy, w Pierwotnej Lesie... }
+Plh_216 { Dzięki tej istocie moglibyśmy osiągnąć Boskość. Może nas ochronić przed Czarnym Płomieniem, jeśli $GVAR:EVars_Player.Name$ mówi prawdę. Molwina? }
+Plh_204 { Mam wątpliwości. Przechodzą mnie dreszcze, kiedy myślę o tym, ile osób straciliśmy. A teraz mamy wierzyć, że ta... iskra wystarczy, żeby historia się nie powtórzyła? }
+Plh_205 { Nie możemy po prostu czekać i zobaczyć. Nie, musimy patrzeć w przyszłość. Kolejna wyprawa to z pewnością śmiałe przedsięwzięcie, ale musimy się jej podjąć. Daj mi swoje błogosławieństwo, Molvino. Proszę. }
+Plh_153 { *wzdycha* Masz moje błogosławieństwo. Jeśli myślisz, że da się to zrobić, nie stanę ci na drodze, Mombert. Skontaktuj się z Angusem. Zbierze dla ciebie oddział wojowników. }
+Plh_206 { Żywisz wątpliwości. Ale nie zawiodę cię, Dziedzico Maurów! To nasza jedyna w życiu szansa na osiągnięcie Boskości. I przynieś pokój Drovie. }
+Plh_207 { DLA NEMETONA! }
+Plh_220 { *mruga* Dla Nemetona. }
+Plh_221 { DLA NEMETONA! }
+Plh_222 { Dla Nemetona... }
+Plh_208 { Mombert... po prostu bądź ostrożny. Odwróć się, jeśli iskra nie działa. Nie chcę stracić więcej ludzi. Ale jeśli naprawdę możesz osiągnąć Boskość... }
+Plh_211 { Będę ostrożny. }
+Plh_44 { A ty... przyłączasz się do wyprawy. Tylko dzięki twojej wiedzy o Czarnym Płomieniu i twojej iskrze możesz tego dokonać. }
+Plh_213 { Nie zawiodę Cię. Dla Nemetona. }
+Plh_214 { A co się stanie, gdy odnajdziemy Boskość? }
+Plh_218 { Co wydarzy się podczas tej wyprawy? }
+Plh_42 { Zgłoś się do Angusa w Kwaterze Wojowników. Liczyć się! Dobrze przygotowany! }
+Plh_219 { Boskość stworzyła Pierwotny Las. Musimy zbadać jego moc i nauczyć się... móc ją ujarzmić. }
+Plh_215 { Mombert prowadzi grupę wojowników, w tym ciebie, do Pradawnej Puszczy. Razem odnajdziecie Boskość. }
+Plh_145 { Czego się dowiedziałeś? }
+Plh_147 { Tamtejsi ludzie żyją w harmonii z Boskością. Daje im iskrę ochronną. }
+Plh_148 { Iskra? Co to jest? }
+Plh_203 { To jest połączenie z Boskością. Iskra brzęczy wokół człowieka i odpycha Czarny Płomień. }
+Plh_150 { Zatem iskra mogłaby pozwolić nam dotrzeć do Boskości bez szwanku? }
+Plh_151 { Tak, mam już jednego. iskra! }
+Plh_291 { Jero! To nie może być! }
+Plh_370 { Jak to w ogóle mogło się wydarzyć...? Byliśmy tak blisko... }
+Plh_307 { Bitwa była nieunikniona! }
+Plh_282 { Mój brat — zdrajca Nemetona — nie żyje... Bóstwa prowadziły moją rękę... }
+Plh_285 { Jero, TY mnie do tego doprowadziłeś... to musiało zostać zrobione. Dla każdego. Dla Drovy. }
+Plh_312 { Teraz czeka nas spokojne życie... Wspólnota... }
+Plh_306 { Krąg runiczny — czy został wygaszony?! Magiczna moc już nie płynie... Twoja walka musiała ją zakłócić... }
+Plh_371 { Jero zostaje pokonany. Mam prawo po swojej stronie. To też musisz zobaczyć, Darwin. }
+Plh_283 { Molwina — nasz przywódca! }
+Plh_286 { Jero... nasz przywódca... Jak może taka być wola Bóstw?! }
+Plh_288 { Eugen, zostaw to... }
+Plh_289 { Moi wojownicy zajęli obóz Ocalonych. Przegrałeś. }
+Plh_284 { Uklęknij przede mną. Przysięgnij mi lojalność. }
+Plh_290 { Lub wejdź na ring, jeśli odważysz się rzucić wyzwanie mojemu autorytetowi i dołącz do Jero z Divinities! Ufam Twojemu osądowi. }
+Plh_279 { Rzucam ci wyzwanie! Bóstwa mają wydać wyrok! }
+Plh_280 { (uklęknąć) }
+Plh_308 { Co się stało z kręgiem runicznym? Już nie świeci. }
+Plh_299 { Co ty tam robisz, w imię Bóstw? Straciłeś rozum? }
+Plh_300 { Ktoś powstaje przeciwko Molwinie?! }
+Plh_301 { Naprawdę się odważysz? Niech tak będzie. Niech Bóstwa ogłoszą kolejny wyrok! }
+Plh_303 { *szepcze* Ja, dziedziczka Maurów, zwyciężę... }
+Plh_294 { Fulk... $GVAR:EVars_Player.Name$... Co tam robisz? }
+Plh_295 { Wyrok Bóstw został podjęty. Molvina będzie nas teraz prowadzić. }
+Plh_292 { Dla Molviny! Dziedziczka Maurów jest władczynią Drova! }
+Plh_296 { Naczynia runiczne są teraz pod moją władzą. Drova stanie się Krainą Legend. Powstańcie, mieszkańcy Nemetonu. Od dzisiaj znów jesteśmy jednością. }
+Plh_297 { Podążaj za mną, Nemetonie! Zdobędziemy naczynia runiczne. }
+Plh_309 { To niedobrze, może być tak... }
+Plh_310 { Cisza! }
+Plh_311 { Uklęknij i przysięgnij mi wierność! Zaakceptuj mnie jako swojego przywódcę. Wtedy będziemy dowodzić statkami runicznymi. Drova stanie się przepowiedzianym Nemetonem! }
+Plh_70 { Czy jesteś pewien? Kiedy rozpoczniemy naszą misję, nie będzie już odwrotu. }
+Plh_71 { Jestem pewien. }
+Plh_72 { Będę potrzebował chwili. }
+Plh_73 { Zacznijmy! Wszyscy na stanowiskach! }
+Plh_324 { Henik, Mombert, Asmus i $GVAR:EVars_Player.Name$... najlepsi wojownicy Nemetonu. }
+Plh_372 { Pójdziemy razem do Czerwonej Wieży. Przyniesiemy pokój Drovie! }
+Plh_325 { DLA NEMETONA! }
+Plh_328 { Dla Drovy! }
+Plh_329 { ZACZYNAĆ! }
+Plh_373 { Jesteśmy gotowi. Nie będziemy w stanie tego utrzymać długo, musisz... }
+Plh_374 { Zaczynaj, jesteśmy gotowi! }
+Plh_323 { Nie wiemy dokładnie, co nas czeka w Czerwonej Wieży. Zachowaj czujność. Bądź gotowy na wszystko. }
+Plh_375 { My – nie możemy tego wytrzymać! }
+Plh_376 { WYBIERZ BROŃ! }
+Plh_377 { Przygotować! }
+Plh_74 { Przygotuj się dobrze. I zakończ wszystko, co nadal chcesz zakończyć. }
+Plh_378 { Co robisz?! }
+Plh_379 { Jero, coś jest nie tak z kręgiem runicznym! }
+Plh_381 { Nie mam wyboru... }
+Plh_382 { MUSIMY SIĘ UWOLNIĆ! }
+Plh_383 { Niezła próba... }
+Plh_384 { Właśnie się rozgrzewam! }
+Plh_385 { Nie pozostawiasz mi wyboru, bracie. }

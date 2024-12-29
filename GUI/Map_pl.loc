@@ -1,0 +1,15 @@
+Title_Maps { Mapy }
+MapName_World_Rough { Prymitywna Mapa }
+MapName_World_Detailed { Mapa Świata }
+MapName_World_Shrines { Kapliczki }
+MapName_Nemeton { Nemeton }
+MapName_Ruincamp { Obóz Ocalonych }
+MapName_Leuchtwald { Prastary Las }
+MapName_Tristan { Mapa Tristana }
+MarkerPlaced { Oznaczone na Mapie }
+NoInk { Potrzebuje Tuszu }
+Title_Markers { Pieczęć }
+Hour_Minute_Separator { : }
+PlaceMarker { Umieść Znacznik }
+DeleteMarker { Usuń Znacznik }
+Hint_Ink { Kup tusz, aby oznaczać miejsca na mapie. }

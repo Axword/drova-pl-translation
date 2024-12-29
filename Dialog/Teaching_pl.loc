@@ -1,0 +1,60 @@
+Strength1 { Stałeś się silniejszy. Widzę to po twojej posturze i ramionach. Dobra robota! }
+Strength2 { Myślę, że teraz jesteś w stanie zadawać przyzwoite ciosy w walce. }
+Strength3 { Siła pochodzi z wnętrza. Skoncentruj się na uderzeniach i pamiętaj o utrzymaniu bezpiecznej postawy. }
+Skill1 { Stałeś się już bardziej zręczny. Po prostu tak trzymaj. }
+Skill2 { Przysiad sprawia, że ​​jesteś bardziej zwinny. Nie stój w jednym miejscu! }
+Skill3 { Liczy się szybkość! Jeśli jesteś wystarczająco zwinny, nikt nie może cię skrzywdzić! }
+Mind1 { Stałeś się bardziej skupiony. }
+Mind2 { Wyostrz swój umysł. Stań się jednością ze sobą. Zrobiłeś krok bliżej siebie. }
+Mind3 { Jeśli skoncentrujesz się na oddechu, łatwiej będzie Ci zablokować to, co nieistotne. }
+Generic { Nauczyłeś się tego talentu. }
+Axe_01_00 { W walce toporami liczy się siła i technika. Na początku musisz się nauczyć, że zamach musi pochodzić z ramienia i barku. }
+Axe_02_00 { Jeśli wykonasz kombinację ataków w następujący sposób, ustawisz się w pozycji umożliwiającej wykonanie niszczycielskiego trzeciego ataku. Spróbuj! }
+Axe_03_00 { Aby się rozwijać, musisz stać się jednością ze swoim toporem. Poczuj każdy opór, każdą kroplę krwi i każde cięcie – jakbyś sam był toporem. }
+Axe_BattleFrenzy_00 { Sekret siekiery tkwi w jej bezwładności. Użyj ciężaru jego ostrza, a zauważysz, jak poprawia się Skupienie Twoich ataków. }
+Sword_Axe_Reduce_StaminaCost { Przygotowując się do ataku, rozluźnij mięśnie. W przeciwnym razie zmęczysz się szybciej niż biegnący rozpruwacz! }
+Axe_FinalGrace_00 { Jeśli twoi przeciwnicy stracą równowagę, wykorzystaj okazję i pozwól swojemu toporowi zadać im niszczycielskie obrażenia! }
+Sword_01_00 { Do tej pory źle trzymałeś miecz. Tutaj – kiedy nie atakujesz, trzymaj go w jednej ręce. Dzięki temu będziesz mógł zaatakować w każdej chwili! }
+Sword_02_00 { Możesz także dźgnąć mieczem. Patrzeć! Jest to szczególnie przydatne, gdy odpowiednio zestawiłeś swoje pierwsze dwa ataki. }
+Sword_03_00 { Jeśli chcesz zostać mistrzem szermierki, musisz przyjąć swój miecz jako część siebie. Twój miecz to Twoje życie! }
+Sword_Accuracy_00 { Uważnie przestudiuj ruchy przeciwnika. W ten sposób możesz wykryć słabe punkty. Użyj ich, aby zadać ciężkie obrażenia mieczem! }
+Sword_Chancer_00 { Wykorzystaj impet, jaki uzyskasz po trafieniu krytycznym mieczem. Potem Twoje specjalne zdolności staną się dla Ciebie naturalne. }
+Dagger_01_00 { Pamiętaj, im większe skupienie uzyskasz podczas dźgania sztyletami, tym większe obrażenia zadasz. Żaden inny rodzaj broni nie jest tak szybki i elastyczny. }
+Dagger_02_00 { Używaj sztyletów szybko i precyzyjnie. Pozostań zrelaksowany, ale uderzaj celowo. W ten sposób w mgnieniu oka pokonasz swoich przeciwników! }
+Dagger_03_00 { Całkowicie chwyć swoje sztylety. Poczuj je tak, jakby były częścią ciebie. W ten sposób będziesz w stanie pokonać nawet najsilniejszego przeciwnika! }
+Daggers_GoingWithTheFlow_00 { Ataki specjalne można płynnie łączyć z atakami sztyletami. Żadna inna broń nie wymaga i nie zapewnia takiego skupienia. }
+Daggers_EfficientStrikes_00 { Sztylety są bronią lekką. Atakuj precyzyjnie i celowo, a nigdy nie będziesz musiał martwić się o swoją wytrzymałość. }
+Daggers_SurpriseAttack_00 { Obrona to najlepszy atak! Unikaj ataków przeciwnika, zanim wykonasz ukierunkowane ataki sztyletami i zadasz niszczycielskie obrażenia! }
+Spear_01_00 { Trzymaj włócznię luźno. Rozluźnij ramiona. Zdobądź trochę praktyki, a w mgnieniu oka będziesz polować na swoich przeciwników! }
+Spear_02_00 { Dostosowując swoją postawę bojową, możesz atakować włócznią jeszcze szybciej. Szybko i precyzyjnie — Twoi przeciwnicy nawet nie będą wiedzieć, co ich trafiło. }
+Spear_03_00 { Poczuj włócznię jako przedłużenie ramienia. Jeśli wiesz, gdzie to jest, nawet z zamkniętymi oczami, oznacza to, że opanowałeś włócznię! }
+Spear_PeakPerformance_00 { Z pewnością zauważyłeś czubek swojej włóczni? TO jest klucz do zwycięstwa. Zadasz największe obrażenia, jeśli uda ci się go użyć do zadania precyzyjnego ciosu. }
+Spear_FocusedStrikes_00 { Włócznia jest bronią wymagającą precyzji. Skieruj swoje ataki w stronę przeciwnika, a zauważysz wzrost Skupienia. }
+Spear_Agility_00 { Włócznia doskonale nadaje się do użycia trucizn. Pokażę ci prosty sposób, aby to zrobić — wystarczy, że zadasz dobry cios. }
+Sling_01_00 { Staraj się być zrelaksowany podczas noszenia. W ten sposób łatwiej będzie wytrącić przeciwnika z równowagi. }
+Sling_02_00 { Spróbuj wyczuć rezonans swojej procy i pozwól mięśniom podążać za nim. W ten sposób będziesz rzucał po mistrzowsku! }
+Sling_Concussion_00 { Jeżeli precyzyjnym strzałem wytrącisz przeciwnika z równowagi, wykorzystaj okazję i zaatakuj! W ten sposób zadasz znacznie większe obrażenia! }
+Sling_DoubleTheLoad_00 { Co jakiś czas będziesz mógł załadować do swojej procy dwa kamienie. Żaden przeciwnik tego nie przewiduje. }
+Shield_01_00 { Podczas blokowania rozluźnij ramię i ramię. W przeciwnym razie będzie to kosztować całą twoją wytrzymałość. Bądź zrelaksowany, ale gotowy. }
+Shield_02_00 { Rozluźnij rękę podczas blokowania. Zbyt mocne trzymanie tarczy będzie kosztować cenną wytrzymałość. }
+Shield_BalanceBreaker_00 { Jeżeli w ostatniej chwili odeprzesz atak, wytrącisz przeciwnika z równowagi. W ten sposób nie tylko unikniesz obrażeń, ale także skorzystasz z okazji, aby zadać więcej obrażeń! }
+Shield_IsThatAllYouGot_00 { Jeśli zostaniesz zaatakowany, zachowaj zimną krew. Użyj swojej tarczy, aby blokować i zwiększać swoją koncentrację. }
+Bow_01_00 { Jeśli spędzisz zbyt dużo czasu na celowaniu, stracisz siły. Staraj się celować tylko do momentu namierzenia celu, a następnie puść. Zauważysz, że Twoja strzała zadaje w ten sposób znacznie większe obrażenia. }
+Bow_02_00 { Podczas celowania nie powinieneś się wahać – w przeciwnym razie będziesz spięty. Trzymaj palce rozluźnione, aż same się otworzą. To prawdziwa sztuka łucznika. }
+Bow_Bullseye_00 { W przypadku łuku sztuka polega na znalezieniu i wykorzystaniu słabych punktów. Jeśli ci się to uda, zadasz duże obrażenia. }
+Bow_Quickdraw_00 { Jeśli trzymasz strzałę w pogotowiu przed uniknięciem ataku, możesz wystrzelić ją natychmiast po tym! }
+Crafting_01_00 { Masz odpowiednie umiejętności, aby zostać wielkim rzemieślnikiem! Tak trzymaj! }
+Crafting_02_00 { Opanowałeś swoje rzemiosło! Jeśli masz odpowiedni przepis, możesz stworzyć wszystko! }
+Sneaking_00 { Początkowo stąpając śródstopiem, wyciszysz odgłosy swoich kroków podczas chodzenia. Jeśli będziesz to kontynuować, nikt nie usłyszy, że nadchodzisz! }
+TearClaw { Wykonuj małe nacięcia nożem, aby poluzować pazury, a następnie wyciągnij je – szybko i mocno! }
+Skinning { Za pomocą ostrego sztyletu ostrożnie odetnij skórę od ciała. Ale uważaj, żeby tego nie zepsuć! }
+ExtractSecretion { Aby wydobyć posokę, należy ścisnąć koniec gruczołu. Zwiększ ciśnienie bliżej otworu, ale nie ściskaj zbyt mocno! W przeciwnym razie gruczoł pęknie i nic nie dostaniesz. }
+BrewPotion { Używając moździerza i tłuczka, stosując odpowiednią temperaturę i dokładnie odmierzając... teraz możesz to wszystko zrobić. Ale najważniejszy jest dobry przepis! }
+LearnIntro { Czego chciałbyś się nauczyć? }
+CantTeachAnymore { Nie mam już nic więcej do nauczenia. }
+CantTeachAnymore1 { Nauczyłeś się wszystkiego, czego mogę cię nauczyć. }
+CantTeachAnymore2 { Będziesz musiał znaleźć innego nauczyciela. Nie mam już czego cię nauczyć. }
+ComeBackSoon { Wróć, kiedy będziesz gotowy. }
+ComeBackSoon1 { Wróć, gdy będziesz miał ochotę się czegoś nauczyć. }
+Plh_34 { Nauczyłeś się ode mnie wystarczająco dużo. Tylko Farlan może cię teraz nauczyć więcej o walce na miecze. Znajdziesz go w Górnej Dzielnicy. }
+LockPick { Jeśli spróbujesz otworzyć trudny zamek, pamiętaj, aby zachować szczególną ostrożność przy korzystaniu z wytrycha. Spróbuj wyczuć opór zamka i delikatnie mu przeciwdziałaj. To trochę jak z miłością: zmuszanie się donikąd nie zaprowadzi. }

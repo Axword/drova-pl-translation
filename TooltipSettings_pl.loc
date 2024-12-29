@@ -1,0 +1,64 @@
+healingText { Przywraca [MaxStack] zdrowia w ciągu [StackTime] sekund. }
+damage { Obrażenia }
+attack { Obrażenia fizyczne }
+flowgain { Koncentracja }
+physicalblock { Blok fizyczny }
+magicalblock { Blok magiczny }
+physicalresistance { Pancerz }
+magicalresistance { Odporność na magię }
+flowcosts { Koszt koncentracji }
+strength { Siła }
+dexterity { Zręczność }
+mind { Umysł }
+health { Zdrowie }
+healing { Przywraca [VALUE] twojego maksymalnego zdrowia. }
+learningpoints { LP }
+talentlearned { Nauczone }
+talentcannotlearned { Jeszcze nie do nauczenia }
+talentcanbelearned { Możliwe do nauczenia }
+unknownteacher { Nieznane }
+talentnotknown { Nie odkryłeś jeszcze tego talentu. }
+foodText { Powoli regeneruje zdrowie aż do momentu, gdy [MaxStack] zdrowia zostanie wyleczone. Jeśli twój pasek zdrowia jest pełny, leczenie zostaje wstrzymane. }
+recipe_requirements { Wymagane: }
+buffAdditionalDescription { (Nowe jedzenie zastępuje efekt sytości) }
+maxHealth { Maksymalne zdrowie [VALUE] }
+flowGain { Koncentracja [VALUE] }
+magicDamage { Obrażenia magiczne [VALUE] }
+bleedingChance { Szansa na krwawienie [VALUE] }
+weaponDamage { Obrażenia broni [VALUE] }
+movementSpeed { Prędkość poruszania się [VALUE] }
+poiseDamage { Obrażenia postawy [VALUE] }
+magicResistance { Odporność na magię [VALUE] }
+staminaReg { Regeneracja wytrzymałości [VALUE] }
+flowReg { Regeneracja koncentracji [VALUE] }
+armor { Pancerz [VALUE] }
+healAdditionalDescription { (Podobny przedmiot zastępuje efekt buffa) }
+flowPhysical { Zdolność }
+flowMagical { Zaklęcia }
+flowOneTime { Zwój zaklęć }
+learnspell { Użyj tego przedmiotu, aby nauczyć się zdolności }
+learnrecipe { Użyj tego przedmiotu, aby nauczyć się przepisu }
+alreadylearned { Już nauczyłeś się }
+trashtotrade { Dodaj śmieci do wartości towarów }
+craftingItem { Materiał rzemieślniczy }
+saleitem { Przedmiot do sprzedaży }
+weaponDamage_single { Obrażenia broni [VALUE] }
+critchance { Szansa na krytyczne uderzenie }
+critchance_Value { Szansa na krytyczne uderzenie [VALUE] }
+orientationpoint { Podstawowa koncentracja [VALUE] }
+stat_change_str { +$STATCHANGE:PhysDmg$ obrażenia fizyczne }
+stat_change_dex {  +$STATCHANGE:CritChance$ szansa na krytyczne uderzenie }
+stat_change_mind { +$STATCHANGE:MagDmg$ obrażenia magiczne + $STATCHANGE:Focus$ podstawowa koncentracja }
+
+helmet_cosmetics { (Hełmy są wyłącznie kosmetyczne i nie mają wpływu na twoją postać.) }
+mainHandWeapon { Broń jednoręczna }
+offHandWeapon { Broń w drugiej ręce }
+twoHandedWeapon { Broń dwuręczna }
+munition { Amunicja }
+drug_description { Przytępia twoje zmysły }
+LearnSpell { Uczy umiejętności walki bronią }
+flowText { Generuje [HealValue] koncentracji w ciągu [StackTime] sekund. }
+needrunestone { Wymaga runy }
+strength_value { Siła [VALUE] }
+dex_value { Zręczność [VALUE] }
+mind_value { Umysł [VALUE] }

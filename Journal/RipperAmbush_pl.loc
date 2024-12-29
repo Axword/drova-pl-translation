@@ -1,0 +1,9 @@
+Title { Dostatniość }
+Entry_01 { W drodze do Nemetonu, Hansi i Gawan zostali zaatakowani przez rozpruwaczy. Hansi stracił życie — a wraz z nim cenny ładunek: żółty kamień z glifem. Gawan chce, żebym przyniósł mu ten kamień, aby mógł go sprzedać w Nemetonie. Gawan podzieli się zyskiem ze mną i obiecuje, że obaj się wzbogacimy. }
+Entry_02 { Dałem Gawanowi kamień z glifem. Chce wyruszyć do Nemetonu, aby go tam sprzedać. Monety, monety, monety! }
+Entry_03 { Gawan wydał monety, które otrzymał za kamień z glifem, na kilka owiec i obiecuje, że interes owczy pozwoli podwoić moje monety w mgnieniu oka. Chce, żebym zainwestował $GVAR:QuestVars_RipperAmbush.SheepCosts$ monet. }
+Entry_04 { Teraz jestem w interesie owczym. Gawan myśli, że wkrótce będziemy kąpać się w monetach. }
+Entry_05 { Z żabami, które przeszukują bagno w poszukiwaniu skarbów, Gawan chce POTROIĆ nasze monety! Jeśli chcę dołączyć, będę musiał zainwestować $GVAR:QuestVars_RipperAmbush.YCosts$  monet. }
+Entry_06 { Jestem w! Gawan chce rozpocząć poszukiwania w pobliżu farmy Jerzego. Mam nadzieję, że warto. }
+Entry_07 { Otrzymałem swoją część monet. Gawan miał rację. }
+Entry_Exit { Zdecydowałem się nie wchodzić w interesy z Gawanem. }

@@ -1,0 +1,5 @@
+Title { Stary człowiek na rynku }
+Entry_01 { Spotkałem starca, który chce, żebym przyniósł mu różne rzeczy z rynku. Poprosił mnie o $GVAR:QuestVars_OldMan_Config.AmountApple$ jabłek, $GVAR:QuestVars_OldMan_Config.AmountDagger$ noża do chleba, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ Kwiat Wiosenny i niedźwiedzią skórę. Mówi, że wszystko to mogę kupić na rynku. }
+Entry_02 { Femke nie chce mi sprzedać niedźwiedziej skóry. Powiedział, że mogę wcisnąć starcowi owczą skórę zamiast niedźwiedziej. I tak nie zauważy różnicy. }
+Entry_03 { Enya powiedziała, że Femke przechowuje swoje skóry pod straganem. W nocy mogę odwiedzić to miejsce... }
+Entry_04 { Dałem starcowi jego rzeczy. Był bardzo zadowolony. }

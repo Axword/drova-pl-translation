@@ -1,0 +1,7 @@
+Title { Sny o innym świecie }
+Entry_01 { Lorthiz podszedł do mnie w karczmie i powiedział, że śnił o mnie. W swoim śnie zobaczył również dziwny skamielinę, którą narysował. Może to w jakiś sposób pomoże? }
+Entry_02 { Lorthiz znowu o mnie śnił. Mówił o tym, jak drzwi się otworzyły, a za nimi była kolejna skamielina. Zrobił kolejny rysunek swojego snu — może to pomoże mi ją znaleźć. }
+Entry_03 { Lorthiz wydaje się coraz bardziej szalony. Teraz uważa, że widział mnie na Czerwonym Torfowisku, z latarnią, wręczającego skamielinę dziwnym stworzeniom, które dały mi w zamian pierścień. Nie wiem, co o tym myśleć... }
+Entry_End { Lorthiz miał rację we wszystkim. Teraz mam dziwny pierścień. }
+Entry_FoundFossil { Znalazłem kolejną skamielinę. Może Lorthiz będzie wiedział, co z nią zrobić. }
+Entry_NoDreamToday { Lorthiz jeszcze nie miał kolejnego snu i nie może mi pomóc. Może powinienem wrócić później. }

@@ -1,0 +1,27 @@
+Plh_5 { No cóż, nowa twarz tutaj. }
+Plh_26 { Witamy na pokładzie. Zawsze pamiętaj – w okolicy nic nie przebije dobrego snu, a do tego potrzebne jest dobre łóżko. Właśnie otwarto miejsce, w którym można złapać trochę shuteye. Jakby szyte na zamówienie dla Ciebie. }
+Plh_27 { Cóż za szczęście, muszę przyznać... }
+Plh_28 { Gdzie jest to łóżko? }
+Plh_29 { A jaki jest haczyk? }
+Plh_30 { Prawidłowy? *uśmiecha się* }
+Plh_31 { To jest tam. }
+Plh_7 { Dobrze, pokaż mi łóżko. }
+Plh_8 { Nie, wcale nie jestem zmęczony. }
+Plh_9 { Jak chcesz. Ale w końcu się zmęczysz, więc wróć do mnie, jeśli chcesz łóżko. }
+Plh_33 { Nikt tutaj nie może zapewnić ci wygodniejszego miejsca na rozbicie się. Nikt inny nie może zaoferować Ci ŻADNEGO rodzaju łóżka. }
+Plh_32 { Jaki haczyk? Chcesz spać, mam łóżko. Jaki może być haczyk? }
+Plh_46 { W porządku, podążaj za mną. }
+Plh_6 { Oto łóżko. Będzie Cię to kosztować zaledwie $GVAR:EVars_Blanda.PriceBed$ monet. }
+Plh_10 { W porządku, proszę bardzo. (daj monety $GVAR:EVars_Blanda.PriceBed$) }
+Plh_11 { Zmieniłem zdanie. W końcu nie potrzebuję łóżka. }
+Plh_16 { Dam ci za to monety $GVAR:EVars_Blanda.HalfPriceBed$. }
+Plh_13 { Co, zapłacić? Ale tutaj jest mnóstwo łóżek. }
+Plh_17 { Dobrze płatny sen to najlepszy sen! }
+Plh_25 { Próbujesz mnie oszukać? Nie masz wystarczająco dużo! }
+Plh_39 { Zapomnij o tym. I przestań marnować mój czas. }
+Plh_14 { Teraz przeszliśmy całą tę drogę tutaj. Wszystko ci pokazałem, wyjaśniłem, a potem... }
+Plh_34 { ... WTEDY decydujesz, że tego nie chcesz? Albo twój mózg nie działa, bo jesteś bardzo zmęczony, albo po prostu wyszedłeś na lunch. Ostatnia szansa, albo dam ją komuś innemu. }
+Plh_12 { Prawidłowy. Możesz spać gdziekolwiek. Ale uwierz mi – kiedy już prześpisz się w PRAWIDŁOWYM łóżku, obudzisz się w znacznie lepszym nastroju. }
+Plh_35 { Albo po prostu opadnij na jakąś obwisłą stertę słomy. Lepsze to niż nic, ale jeśli chcesz naprawdę odpocząć, kup łóżko. }
+Plh_47 { Czy tego chcesz? Dam ci to. }
+Plh_48 { Więc też nie marnuj mojego czasu. }

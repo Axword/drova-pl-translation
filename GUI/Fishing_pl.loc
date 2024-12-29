@@ -1,0 +1,1 @@
+FishingTutorial { Staraj się utrzymać igłę w niebieskim polu.<br>$INPUT:Lockpick_Left$: Przesuń igłę w lewo <br> $INPUT:Lockpick_Right$: Przesuń igłę w prawo.<br> Kiedy zielony wskaźnik się napełni, złapałeś rybę. }

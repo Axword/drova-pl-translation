@@ -1,0 +1,7 @@
+Entry_01 { Olga i Luten potrzebują ekstraktu z Kalagrzybów do stworzenia talizmanu, który chcą podarować Helmie. Humbert może mi powiedzieć, gdzie znaleźć te grzyby. }
+Entry_03 { Humbert mówi, że potrzebuje $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ Kalagrzybów, aby zrobić ekstrakt. Powinienem ich poszukać na zewnątrz Nemeton, na Czerwonym Torfowisku. }
+Entry_04 { Mam ekstrakt. Teraz muszę go dostarczyć Oldze i Lutenowi. }
+Entry_05 { Olga i Luten otrzymali ekstrakt z Kalagrzybów i byli w stanie stworzyć talizman. Czekają na mnie przed Chatą, żebyśmy mogli wręczyć go Helmie razem. }
+Entry_06 { Prezent Olgi i Lutena bardzo się spodobał. }
+Title { Talizman dla Helmy }
+Entry_07 { Festiwal Ognia dobiegł końca. }

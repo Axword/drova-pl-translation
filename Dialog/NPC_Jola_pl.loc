@@ -1,0 +1,162 @@
+Plh_222 { Gdzie mogę znaleźć Ostrza Jero? }
+Plh_230 { Eugen jest legendą w Drova – jest najpotężniejszym wojownikiem, jaki istnieje. Pokonuje wszystkich i wszystko swoim wiernym toporem. }
+Plh_245 { Ale niestety, obecnie spędza czas pijąc w tawernie, marnując całą tę siłę. Znudziło mu się wszystko. Jednak nadal szuka wyzwania. }
+Plh_229 { Borys macza palce w wielu ciastach. To dobry wojownik, ale nieprzewidywalny. Myślę, że zarabia kilka monet na jakichś... nieprzyjemnych czynnościach. Jakiego rodzaju, nie wiem. }
+Plh_244 { Jego słowo ma tutaj dużą wagę. Jego chatę znajdziesz nieco na zachód, niedaleko tawerny. }
+Plh_49 { Jak leci, Jola? }
+Plh_67 { Znalazłem kilku nowych pracowników. }
+Plh_122 { Chcę pracować w Wyrobisku. W notatce jest napisane, że to ty tu rządzisz? }
+Plh_231 { Słyszałem, że możesz mnie zabrać do Otchłani. Czy to prawda? }
+Plh_25 { O Aldo... }
+Plh_91 { Chodź, rozejrzyj się. Zobaczysz korzyści z bycia tutaj. }
+Plh_250 { Jeśli szukasz łóżka, wszyscy Kopacze śpią w starej kopalni, na wschód od wejścia. Można tam złapać pryczę. }
+Plh_256 { *mierzy cię* }
+Plh_258 { Najwyraźniej wybrałeś Nemetona. Niedobra decyzja. }
+Plh_259 { Czy mogę wejść do obozu Ocalonych? }
+Plh_260 { Nemeton bardziej mi odpowiada. }
+Plh_261 { Chcę zostać w Drowej i żyć tu w spokoju. }
+Plh_264 { Możesz. Możesz handlować, obstawiać, pić. Ale nie oczekuj, że wojownicy będą cię dobrze traktować. Wchodzisz na własne ryzyko. }
+Plh_263 { To twoja decyzja. Ale to nie byłoby moje. }
+Plh_262 { Nie chcemy kłócić się z Nemetonem. Mamy własne cele. Każdy z was może tu zostać i robić, co uważa. }
+Plh_257 { Hej, ty tam! }
+Plh_265 { Nemetonowa szumowina! Wynoś się stąd! }
+Plh_266 { Schowaj broń, Florinie. Jero powiedział tylko, że nikt z Nemeton nie ma wstępu do Lasu Zalewowego. Nie chcemy wojny. }
+Plh_267 { *grml* }
+Plh_268 { *ciężko oddycha* Czego tu chcesz? }
+Plh_269 { Przyszedłem handlować. }
+Plh_270 { Chcę zobaczyć kilka walk na arenie. }
+Plh_271 { Jestem jednym z wojowników Proximusa. }
+Plh_280 { Możesz wejść do środka. Ale uważaj... Nemetonowie nie są przyjaciółmi Ocalonych. }
+Plh_274 { Znam cię. Jesteś $GVAR:EVars_Player.Name$! }
+Plh_275 { Twoja walka z Liandrą była legendarna. Nigdy nie myślałem, że wygrasz. }
+Plh_276 { Pewnie, że jej pokazałeś! }
+Plh_277 { ...i wygrał! }
+Plh_278 { *kaszle* Florin! Uważaj na swoje położenie. }
+Plh_279 { Przepraszam. }
+Plh_281 { Nie widziałem cię jeszcze walczącego na arenie. }
+Plh_282 { Proximus mówił o $GVAR:EVars_Player.Name$. }
+Plh_286 { Możesz wejść, ale nie sprawiaj kłopotów! }
+Plh_165 { Nie chcę przegapić ognia. Wreszcie jakaś akcja. }
+Plh_199 { Wyprawa powraca! Porozmawiamy później. }
+Plh_4 { Hej, nie widziałem cię tu wcześniej. Jestem Jola. *uśmiecha się* I szczerze... Nie wyglądasz najlepiej, naprawdę. Czy potrzebujesz czegoś? }
+Plh_212 { Widziałem już wiele twarzy, ale nie przypominam sobie, żebym widział twoją. Czy jesteś tu pierwszy raz? }
+Plh_213 { Naprawdę muszę się dostać do Nemetona. }
+Plh_234 { Jestem nowy w Drova i szukam Nemetona. }
+Plh_236 { Jesteś daleko od Nemetonu. To jest obóz Ocalonych. Co cię interesuje w Nemeton? }
+Plh_216 { Mam pokazać ten kamień druidowi. }
+Plh_217 { Chcę tam porozmawiać z druidem. }
+Plh_239 { W takim razie nie musisz przechodzić przez Czerwone Wrzosowiska. Mamy tu także druidów. Kiedyś byliśmy częścią Nemetonu, ale jakiś czas temu zostawiliśmy tych wariatów ich własnym sprawom. }
+Plh_219 { Dobrze wiedzieć. Gdzie mogę znaleźć twoich druidów? }
+Plh_240 { W Akademii. Ale to dotyczy tylko Ocalonych. }
+Plh_243 { Jeśli chcesz dołączyć do Ocalonych, będziesz musiał przekonać jedno z Ostrzy Jero — Borysa i Eugena — aby Cię zaakceptowało. Musisz także należeć do jednego z ich oddziałów. }
+Plh_169 { Hej! Jesteś teraz jednym z ludzi Eugena, prawda? }
+Plh_170 { Zgadza się. }
+Plh_171 { Skąd to wiesz? }
+Plh_172 { Dobrze dla ciebie. A skoro już jesteśmy przy tym temacie... }
+Plh_174 { Następnym razem, gdy go spotkasz, możesz go o coś zapytać? }
+Plh_175 { O co chodzi? }
+Plh_176 { Zapytaj go sam. }
+Plh_177 { Cóż, Eugen nie przychodzi tu zbyt często – właściwie tylko wtedy, gdy się upije i pójdzie na polowanie. }
+Plh_179 { I... chciałbym go lepiej poznać, jeśli rozumiesz mój dryf. }
+Plh_180 { Lubisz go? }
+Plh_181 { ... co? }
+Plh_182 { Nie tak głośno! }
+Plh_183 { Nie mogę po prostu do niego podejść i powiedzieć, że chcę porozmawiać. }
+Plh_184 { Ale jeśli zdarzy się, że przyjdzie – jeśli możesz to zrobić… }
+Plh_185 { Jasne, zrobię to. }
+Plh_186 { Zapomnij o tym. Coś takiego, musisz to zrobić sam. }
+Plh_187 { Dzięki! }
+Plh_189 { Tutaj. Ponieważ chcesz mi pomóc. Eugen uwielbia te rzeczy. Ale nie mów mu, że to ode mnie. }
+Plh_188 { Och... *patrzy w dół* }
+Plh_190 { OK, zapomnij o tym. }
+Plh_178 { *rumieni się* Nie mogę! }
+Plh_173 { Wieść szybko się rozniesie tutaj, w obozie. }
+Plh_204 { Przeżyłeś – to naprawdę wspaniale. Zgłoś się do Kiliana. On czeka na ciebie. }
+Plh_205 { Co się tutaj wydarzyło? }
+Plh_207 { Pospieszę się! }
+Plh_208 { Nemeton rzeczywiście próbował nas zaatakować. Próbowali przemycić się do obozu, ale odkryliśmy ich podstęp. A potem z nimi walczyliśmy. }
+Plh_209 { Wygraliśmy, ale następnym razem mogą nas zaatakować z jeszcze większą siłą. }
+Plh_36 { Powiedz, czy nie wybiegłeś z obozu zupełnie nago po ciemku, żeby nikt cię nie złapał? To był piekielny widok, wszystko podskakiwało w północnym powietrzu! }
+Plh_164 { Chyba Eugen nieźle się z tobą bawił. Następnym razem możesz zachować trochę większą ostrożność, w przeciwnym razie możesz zaplątać się w krzaki, haha! }
+Plh_284 { Bardzo dobrze. Ale potrzebujemy więcej Kopaczów w naszej kopalni. To srebro samo się nie ociosuje. }
+Plh_51 { Jeśli możesz przestraszyć jeszcze jakichś pracowników, proszę, niech tu przyjdą. }
+Plh_203 { Potrzebujemy teraz czterech osób. Za każdą parę rąk zapłacę Ci monety $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$. }
+Plh_54 { Jakich ludzi powinienem szukać? }
+Plh_55 { Kogo mogę zapytać? }
+Plh_56 { Przyprowadzę ci kilku nowych pracowników. }
+Plh_57 { Jeśli jakieś znajdę, dam znać. }
+Plh_59 { Powinni umieć kopać. To wystarczy. }
+Plh_60 { Każdy, kto kręci się po okolicy z palcem w dupie. W tawernie Olafa przechadza się mnóstwo ludzi bez pracy. }
+Plh_61 { Melunę mógłbyś przekonać w obozie Ocalonych. Właściwie to pomagała nam przy rąbaniu, ale od jakiegoś czasu siedzi na tyłku. }
+Plh_62 { Bardzo dobry! Jak mówiłem, wystarczą cztery osoby. Wyślij je prosto do mnie. }
+Plh_252 { Czy są tu jacyś nauczyciele, którzy mogliby mnie przeszkolić? }
+Plh_254 { Jest tu mnóstwo dobrych wojowników, ale większość nauczy cię tylko wtedy, gdy należysz do Ocalonych. }
+Plh_255 { Polecam wypróbować wojowników na arenie. Znajdziesz je przechodząc przez tawernę, obok areny. I weź ze sobą trochę monet. }
+Plh_68 { Tak, niektóre osoby już mi się zgłosiły! }
+Plh_69 { Zatrzymał się ktoś, kto zadzwonił do Jurka z jednego z gospodarstw. Wygląda na to, że mógłby nieźle rzucać. To dokładnie taki typ, jakiego szukam! }
+Plh_70 { Ruhan tu przyszedł. Wydaje się trochę słaby — ale sprawimy, że będzie silny! }
+Plh_71 { Nigdy bym nie pomyślał, że jeszcze usłyszymy Melunę! }
+Plh_285 { Była zaparowana, ale nie obchodzi mnie to. }
+Plh_72 { Przyjechał tu Agilo z drwali. Zapytałem o tego Gero. Bardzo chciał być z nami, ale kimkolwiek jest ten Gero, nie mogę powiedzieć. }
+Plh_74 { Doskonały! Dzięki Twojej rekrutacji dołączyło do nas jeszcze kilka osób. Nie pozostanie to bez nagrody. Zgodnie z obietnicą. *mruga* }
+Plh_76 { Potrzebuję jeszcze więcej ludzi. Miejcie więc oczy i uszy otwarte! }
+Plh_119 { Zawsze szukamy dobrych Kopaczów. Jest w tym coś także dla Ciebie – dach nad głową, dobre jedzenie, mnóstwo monet… nie musisz się do niczego zobowiązywać! Możesz pracować tak długo, jak chcesz. }
+Plh_125 { Co muszę tam zrobić? }
+Plh_128 { Pracujesz w kopalni i wydobywasz srebro. Pod naszą ochroną. Każdemu, kto z nami kopie – pilnujemy jego pleców. Pod każdym względem. }
+Plh_129 { Niedawno przyniosłem trochę do Wyrobiska... }
+Plh_200 { Hmm, właściwie Mottek powinien być w pobliżu. Chciał wrócić do Otchłani i mógł zabrać cię ze sobą... }
+Plh_131 { Nie radzę Ci jechać sam. Niebezpieczny. }
+Plh_133 { Kim jest Mottek? }
+Plh_201 { Innymi słowy, to, co mówi Levin, jest prawdą? }
+Plh_134 { Gdzie dokładnie znajdę Mottek? }
+Plh_136 { Mottek był kopaczem. Teraz jest jednym z wojowników w obozie Ocalonych. Odkrył srebrną żyłę w Otchłani i zyskał łaskę Levina. Teraz jest jednym z nas! }
+Plh_202 { Levin sprawdza, czy ktoś może wejść do Górnej Dzielnicy, ale my podążamy za Jero. On jest naszym przywódcą. Levin to pierwszy krok w kierunku dotarcia do niego. }
+Plh_137 { Pewnie znowu włóczy się gdzieś po arenie. Wpadł mu do głowy pomysł, aby zostać wojownikiem na arenie. Jeśli go znajdziesz, powiedz mu, że cię przysłałem. }
+Plh_233 { Do Wyrobiska można też dojść samemu, jednak nie jest to bezpieczne. }
+Plh_141 { Rozumiem. Dzięki. }
+Plh_248 { Po prostu daj mi wskazówki. }
+Plh_139 { Jedź drogą na północny wschód. W pewnym momencie dotrzesz do kapliczki. Następnie skręć na wschód i podążaj polną ścieżką. }
+Plh_140 { Następnie wystarczy podążać ścieżką i powinieneś dotrzeć do Otchłani. W okolicy kręcili się bandyci, ale powinni już zniknąć. }
+Plh_249 { Uważaj na siebie i nie daj się nabrać. Jeśli nie jesteś pewien, poszukaj Mottek. }
+Plh_130 { A nie chcesz być Kopaczem? No cóż, mam nadzieję, że gdzie indziej będzie ci lepiej. I żeby nikt w nocy nie poderżnął Ci gardła. }
+Plh_0 { Zawsze słyszysz o tym, kto wchodzi i wychodzi z obozu Ocalonych, prawda? }
+Plh_23 { Nie możesz mi po prostu powiedzieć, czy widziałeś Aldo? }
+Plh_1 { Tak, zawsze jestem blisko wejścia. Dlaczego? }
+Plh_2 { Czy Aldo opuścił ostatnio obóz? }
+Plh_3 { Aldo? Kupiec? Hm. W jakiś sposób jego twarz jest niewyraźna w moich oczach. Jeśli mógłbyś mi pomóc przypomnieć sobie – żeby było jaśniej... }
+Plh_5 { Rozumiem. Ile? }
+Plh_6 { Może uderzenie głową przywróci ci wspomnienia. }
+Plh_7 { Chcę wyświadczyć Fulkowi przysługę. Więc? }
+Plh_17 { A co z Aldo? Rozmawiać! A może chcesz więcej kłopotów? }
+Plh_210 { Wrócę. (zakończ rozmowę) }
+Plh_8 { Wreszcie ktoś, kto nie potrzebuje pomocy wizualnych. W takim razie powiem wprost: monety $GVAR:QuestVars_TheDoppelgangers_Config.PriceForJola$. }
+Plh_19 { Oto monety. Więc? (przekaż monety) }
+Plh_14 { Nie potrzebuję twojej pomocy. }
+Plh_22 { Och, to cud! Pamięć do mnie wraca! *odchrząkuje*... Aldo... }
+Plh_21 { To nie wystarczy. Wróć, gdy będziesz miał więcej. }
+Plh_167 { Zatem powodzenia w poszukiwaniach. }
+Plh_10 { Chciałbym to przemyśleć. Uderzenie głową bez głowy byłoby dość trudne. To dzieje się szybciej niż myślisz... }
+Plh_251 { Nie obchodzi mnie dla kogo coś robisz. Informacja ma swoją cenę. }
+Plh_18 { W porządku. Masz więcej na głowie, niż myślałem... }
+Plh_211 { Wiesz, gdzie mnie znaleźć. }
+Plh_26 { To było kilka dni temu... Aldo wieczorem opuścił obóz i udał się na wschód. Wyglądał, jakby chciał udać się do Ocalonych z kimś innym. Wydawał się zestresowany i pośpieszny. }
+Plh_168 { Zawsze jest taki cichy, ale najwyraźniej pokłócili się. }
+Plh_27 { Czy wiesz dokąd poszli? }
+Plh_28 { Kim była ta druga osoba? }
+Plh_31 { Widziałeś coś jeszcze? }
+Plh_29 { Opuścili obóz. Dalej nie widziałem nic. Dość często przechadzał się po obozie Ocalonych. Po prostu podążaj drogą na północny wschód, przejdź przez rzekę, a ich zobaczysz. }
+Plh_30 { Nie mam pojęcia. Miał na sobie kapelusz czy coś w tym stylu i nie widziałem jego twarzy. To był mężczyzna... Jestem tego całkiem pewna. I wydawało się, że ta dwójka w jakiś sposób się zna. }
+Plh_32 { Nie. Tylko... Poczekaj... Potem wrócił Aldo i minął mnie. Zapytałem go o miejsce pobytu przyjaciela, ale był całkowicie pochłonięty własnymi myślami i zignorował mnie. Nie wiem, co się z nim działo. Zwykle przestaje ze mną rozmawiać. }
+Plh_33 { W porządku. Hmm... }
+Plh_34 { Masz dobry prawy sierpowy, muszę przyznać. Porozmawiaj z Kilianem. Przydałyby nam się ludzie tacy jak ty. W kopalniach zawsze jesteś mile widziany. }
+Plh_35 { Cokolwiek tam zobaczył, mogło też czekać, żeby na ciebie zaatakować. Będziesz potrzebować dobrej broni i grubej zbroi, inaczej będziesz trupem. To darmowa porada. }
+Plh_103 { Kim jest Jero? }
+Plh_109 { Ale... Czy to nie jest Kraina Legend? }
+Plh_246 { To nasz przywódca. On jest naszym wybawicielem. }
+Plh_106 { Przez długi czas wierzył w Nemetona. Chciał tu zbudować kraj, zgodnie z przepowiednią. Ale wkrótce przekonał się, że to był błąd. }
+Plh_247 { Przekonał innych, że muszą się odłączyć i tak powstał obóz Ocalonych – sanktuarium dla tych, którzy nie dadzą się oślepić Nemetonowi. }
+Plh_113 { Zamiast gonić za marzeniem, Jero robi wszystko, abyśmy mogli opuścić Drovę. I zrobimy wszystko, co w naszej mocy, aby mu się udało. }
+Plh_112 { KŁAMSTWO! Kłamstwo rzucane na każdego, kto tu przychodzi, a kto nawet CHCE tu przyjść. Drova jest więzieniem i zostało opuszczone. Ale wciąż możemy uciec, zanim wszystko pochłonie Mgła Śmierci... }
+Plh_100 { Kim są Ocaleni? }
+Plh_94 { W Drova istnieją dwie główne frakcje: Ocalonych – czyli my – i Nemeton. Nie mamy zamiaru wiecznie mieszkać w tych ruinach... Chcemy się stąd wydostać. Nie tylko z obozu Ocalonych, ale z dala od tego świata! }
+Plh_237 { Powrót do domu. Z dala od Drova. Nie możemy tu zbudować życia. Jero nas ocali. On nas wyzwoli. }

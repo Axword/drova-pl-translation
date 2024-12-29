@@ -1,0 +1,10 @@
+Mog { Mog jest mi winien monety $GVAR:QuestVars_Debt_Config.MoneyFromMog$.  }
+	
+Meluna { Ponieważ Meluna została okradziona, ona również jest mi winna monety $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$.  }
+	
+Lindon { Lindon był odważny.<br>Jest mi winien monety $GVAR:QuestVars_Debt_Config.MoneyFromLindon$.  }
+	
+Bady { Szanowny Bady zaciągnął pożyczkę w postaci monet $GVAR:QuestVars_Debt_Config.MoneyFromBady$.  }
+	
+Lore { Lore jest mi winien monety $GVAR:QuestVars_Debt_Config.MoneyFromLore$.  }
+	

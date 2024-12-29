@@ -1,0 +1,21 @@
+Entry_Created { Nowy wpis w dzienniku }
+Entry_Updated { Dziennik zaktualizowany }
+OthersUpdated { +$JOURNAL:Others$  Różne }
+Tab_Quests_Finished { Ukończone }
+Tab_Quests_Running { Bieżące }
+Tab_Letters { Listy }
+Group_Bandits { Łupieżcy Ruin }
+Group_Nemeton { Nemeton }
+Group_RuinCamp { Obóz Ocalonych }
+Group_Tavern { Karczma }
+Group_Woodcamp { Obóz Drwal }
+Group_World { Świat }
+Group_Unsorted { Nieposortowane }
+Group_Magielager { Schronienie }
+Group_RedTower { Czerwona Wieża }
+Group_Mine { Wyrobisko }
+Group_MainQuest { Główne Zadanie }
+Group_Dungeon_Library { Biblioteka }
+Group_Dungeon_City { Miasto w Prastarym Lesie }
+Group_Dungeon_Auwald { Wzgórze w Zatopionym Lesie }
+Group_TreasureMaps { Mapy Skarbów }

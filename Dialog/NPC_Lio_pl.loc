@@ -1,0 +1,57 @@
+Plh_5 { Twoja twarz pojawiała się już w moich snach. Wiedziałem, że do mnie przyjdziesz. Jestem Lio, tkacz run z Nemetonu. }
+Plh_95 { Co robisz w tej jaskini? }
+Plh_96 { Co jest nie tak z twoimi oczami? }
+Plh_97 { Mieszkam tutaj. Aby studiować magię i przewód mocy i ducha. Bez mocy nie można stworzyć magicznej mocy. Musisz walczyć, aby Twoje ciało mogło wytworzyć magiczną moc. }
+Plh_99 { A magiczna moc ma swoją cenę. Tracę wzrok i więdnę od środka. Ale w końcu wszyscy zwiędniemy. }
+Plh_19 { Zacznijmy... }
+Plh_30 { Nadszedł czas. Wreszcie! }
+Plh_20 { Karotte i $GVAR:EVars_Player.Name$. Przyprowadziłeś do domu Potężnego Dzika i uwolniłeś jego moc. Teraz ta moc ci pomoże. }
+Plh_21 { O Boskość! Pobłogosław ten kamień runiczny. Niech to będzie naczynie twojej potęgi! Żyła magii! }
+Plh_32 { Stań się jednością z Boskością! Stań się jednością z tą runą! Stanie się częścią Twojego ciała! }
+Plh_35 { Rytuał jest zakończony. Jeden kamień runiczny był związany z Karotte, drugi z $GVAR:EVars_Player.Name$. }
+Plh_36 { Kamień runiczny jest bezużyteczny bez zaklęcia. Lio odciśnie pierwsze zaklęcie na twoim kamieniu runicznym. }
+Plh_38 { Przyjdź do mnie, Karotte. }
+Plh_24 { Twój kamień runiczny będzie z tobą związany. Dopiero śmierć może zniszczyć tę więź. }
+Plh_40 { Weź swój kamień runiczny i noś go z honorem, Karotte. }
+Plh_41 { *chwyta kamień runiczny* Czuję mrowienie w dłoni. }
+Plh_42 { To jest więź między tobą a kamieniem. Tylko ty możesz używać tego kamienia runicznego. }
+Plh_52 { $GVAR:EVars_Player.Name$, teraz ty. }
+Plh_44 { (przenosić) }
+Plh_46 { Twój kamień runiczny — moc Potężnego Dzika — jest teraz częścią ciebie. }
+Plh_47 { Dobra robota, Lio. Zasłużyłeś na przerwę. }
+Plh_48 { Karotte i $GVAR:EVars_Player.Name$, pamiętajcie, noszenie kamienia runicznego wiąże się z wielką odpowiedzialnością. Teraz reprezentujesz Nemetona. Cała społeczność znajdzie odzwierciedlenie w każdym twoim uczynku. Pamiętaj o tym. }
+Plh_49 { Będę pielęgnować mój kamień runiczny. }
+Plh_58 { Nie zawiodę Cię. }
+Plh_57 { Dla Nemetona! }
+Plh_50 { Karotte, zgłoś się do Henika. Czeka Cię kolejne zadanie. A ty, $GVAR:EVars_Player.Name$, zostań tutaj. Musimy o czymś porozmawiać. }
+Plh_61 { Nadszedł czas. Dzięki temu dostaniemy się do Czerwonej Wieży. }
+Plh_68 { Gdyby Jero o tym wiedział... ale to my dostaniemy się do Czerwonej Wieży. }
+Plh_69 { Czerwona Wieża znajduje się na terytorium Ocalonych. Zaatakujemy ich? }
+Plh_67 { Nie. Ich wojownicy są silni, a Jero jest potężnym przywódcą. Ale dzięki Boskim Kryształom i Potężnemu Dzikowi przynajmniej mamy szansę. *uśmiecha się* }
+Plh_64 { Będziemy potrzebować magicznej mocy do podróży runicznej, aby pokonać barierę wokół Czerwonej Wieży i wejść. }
+Plh_71 { Ta podróż będzie wymagała ogromnej mocy. Moc Potężnego Dzika jest ograniczona, ponieważ uwięziliśmy go w naczyniu runicznym. }
+Plh_72 { Czy nie możemy uwolnić Boskości i ujarzmić jej moc? }
+Plh_77 { Jak zdobędziemy wystarczającą moc? }
+Plh_73 { Nie, to skierowałoby jego gniew na nas. Stracilibyśmy kontrolę nad Dzikiem, a Gradan umarłby za darmo... }
+Plh_74 { Boski Kryształ! Moc Boskości może być w niej przechowywana i możemy ją wykorzystać podczas podróży runicznej. }
+Plh_76 { Ten Boski Kryształ nie zawiera już żadnej boskiej mocy. Musimy to nasycić ponownie. Jednak pojedynczy kryształ nie może pomieścić jego wystarczającej ilości. }
+Plh_75 { Musimy dowiedzieć się, czy istnieje więcej tych Boskich Kryształów. Mombert, musisz wymyślić sposób na nasycenie Boskich Kryształów boską mocą. }
+Plh_79 { Jest miejsce, gdzie prawdopodobnie możemy dowiedzieć się więcej o istnieniu Boskich Kryształów. To starożytna biblioteka. Wewnątrz ruin. Nie wiemy dokładnie gdzie. }
+Plh_78 { Istnieje niewielka grupa ludzi, którzy nazywają siebie Poszukiwaczami Ruiny. Wiem, że byli już w tej Bibliotece. }
+Plh_93 { Jakiś czas temu skontaktowałem się z osobą o imieniu Reija. Biblioteką interesujemy się odkąd zdobyliśmy Boski Kryształ. Może nas tam zabrać. }
+Plh_100 { W tej chwili jest w pobliżu Zajazdu. Spotkaj się z nią tam. Powiedz jej, że cię przysłałem. }
+Plh_94 { To bardzo ważne zadanie, $GVAR:EVars_Player.Name$. Jestem pewien, że jesteś na to gotowy. Potrzebujemy wszelkich informacji na temat kryształów, jakie możesz zdobyć. }
+Plh_80 { Nie zawiodę Cię. }
+Plh_85 { Jako Strażnik Nemetonu będziesz potrzebować porządnej zbroi. }
+Plh_86 { Mogę dać ci lekką zbroję, która zapewni większą zwinność, ale nie zapewni tak dużej ochrony. Lub ciężki pancerz, który zapewni znacznie lepszą ochronę, jeśli zostaniesz trafiony. }
+Plh_87 { Magia, która nas otacza, jest wszędzie. Mogę ci również zaoferować druidyczną zbroję. Nie zapewni to tak dużej ochrony, ale wzmocni twoje duchowe połączenie. }
+Plh_88 { Chciałbym lekką zbroję. }
+Plh_89 { Chciałbym ciężką zbroję. }
+Plh_90 { Chciałbym magiczną zbroję. }
+Plh_92 { Teraz jest dużo lepiej. Jeśli potrzebujesz nowej broni, powinieneś udać się do Chunnaic. A Lio może odcisnąć nowe zaklęcia na twoim kamieniu runicznym. }
+Plh_91 { Walcz o Nemetona! Walcz o nasze marzenie! }
+Plh_6 { Co to jest tkacz run? }
+Plh_8 { Tworzę kamienie runiczne. Są przepojeni mocą Boskości. Możemy więc używać ich do rzucania zaklęć pochodzących bezpośrednio z królestwa Bóstw. }
+Plh_10 { Jak dokładnie robi to tkacz run? }
+Plh_55 { Pomyśl o mocy Boskości jak o pajęczej sieci. Jako Tkacz Run muszę poruszać się po jego skomplikowanych ścieżkach. Wymaga praktyki i dużej siły. }
+Plh_56 { Musimy poczekać na Molvinę. }

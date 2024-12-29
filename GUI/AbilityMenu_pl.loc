@@ -1,0 +1,10 @@
+Title_MainSpells { Umiejętności }
+Title_ConsSpells { Zwoje Zaklęć }
+header_physicalAbilities { Umiejętności }
+header_magicalAbilities { Zaklęcia }
+header_memory { Pamięć }
+Orientationpoint_Label { Bazowa Koncentracja: }
+Orientationpointtooltip_Header { Bazowa Koncentracja }
+Orientationpointtooltip_Description { Z czasem koncentracja będzie regenerować się do tego poziomu. }
+MaxLeben { Maks. Zdrowie }
+StaminaCosts { Koszt Wytrzymałości }

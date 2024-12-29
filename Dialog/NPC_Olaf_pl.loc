@@ -1,0 +1,206 @@
+Plh_87 { Czy nadal masz pokój, w którym mogę spać? }
+Plh_157 { Zaginęła osoba, którą ostatnio widziano w Twojej tawernie. }
+Plh_33 { Zamieściłeś tę notatkę o polowaniu na rozpruwacze? }
+Plh_54 { Faol i ja zajęliśmy się zrywakami. Oto głowa. }
+Plh_34 { Problem z Rozpruwaczami został rozwiązany. Oto głowa. }
+Plh_13 { szukam pracy. }
+Plh_6 { Przyprowadziłem Liesl z powrotem do Evi. Znowu uciekła. }
+Plh_302 { Poszedłem do Evi. Liesl uciekła... i zmarła. }
+Plh_14 { Szukam tu jednego Tristana. }
+Plh_29 { Oto pieniądze na mój rachunek. (Zapłać monetami $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$) }
+Plh_220 { Jednak wszystko w porządku? }
+Plh_221 { Ja? Tak. Jest tu wielu rannych. Na szczęście mieszkańcy Pradawnej Puszczy znają swoją sztukę uzdrawiania... }
+Plh_222 { O, Boskość! Na szczęście dla nas przybyli w samą porę. Ścigała ich cała Pradawna Puszcza. Ledwo udało im się dotrzeć w bezpieczne miejsce. Wszyscy by tam zginęli. }
+Plh_199 { Znalazłem owcę. Z wyjątkiem Liesl żadna owca nie przeżyła. }
+Plh_299 { Żadna z owiec nie przeżyła. Nawet Liesl nie przeżyła... }
+Plh_233 { Znalazłem Liesl. Ona żyje. }
+Plh_234 { Ach, mała Liesl! Taron jest na zewnątrz i opiekuje się małym prosiakiem. Dziękuję. Myślę, że Liesl będzie z nim lepiej niż z Evi. }
+Plh_236 { Proszę, znajdź także wszystkie inne owce. W sumie uciekło pięciu. }
+Plh_84 { Jestem w drodze do Nemetonu. }
+Plh_85 { Cóż, już prawie jesteś na miejscu. Po prostu podążaj ścieżką na wschód przez Czerwone Wrzosowiska. }
+Plh_86 { Ale bądź ostrożny. Czerwone Wrzosowiska nie są całkiem bezpieczne. A wieczorami jest śmiertelnie. Kilka osób już zniknęło w ciemności. Znaleźliśmy tylko ich fragmenty. }
+Plh_88 { Na górze znajdziesz łóżko. Będzie Cię to kosztować $GVAR:EVars_Olaf.BedCosts$ monet. }
+Plh_277 { Dlaczego zamiast tego nie miałbym po prostu spać gdzieś na zewnątrz? }
+Plh_89 { Oto monety. }
+Plh_278 { Cóż, daj spokój! }
+Plh_279 { MOŻESZ spać na zewnątrz. Jeśli nie przeszkadza Ci wiatr i zimno! Nie będzie to jednak spokojny sen. A jeśli naprawdę będziesz miał pecha, rozpruwacz może odgryźć ci ucho. Dosłownie! }
+Plh_280 { W jednym z moich pokoi nie ma to żadnego znaczenia! Po prostu idź na górę, zdejmij obciążenie i dobrze się wyśpij. A jutro Twoja przygoda będzie kontynuowana. }
+Plh_91 { Po prostu idź na górę. Przejdź do pokoju całkowicie w lewo. Można tam odpocząć. }
+Plh_297 { Ale pamiętaj... Kiedy już pójdziesz na górę i skończysz spać, ten klucz wróci do mnie! }
+Plh_92 { Jeśli nie masz wystarczającej ilości monet, możesz spać na zewnątrz, na sianie. Ale spokojniej jest spać w łóżku. Obudzisz się o wiele bardziej wypoczęty i uzupełniony siłami. Twój wybór. }
+Plh_136 { Zapomnij o tym. Jestem tu naprawdę zawalony. Każdy Tom, Dick i Harry chcą spać u mnie. Jestem pewien, że znajdziesz trochę miejsca w cichym kącie, gdzie możesz odpocząć. }
+Plh_239 { Ede prosiła, żebym ci powiedział, że tropimy Drivaniusa. }
+Plh_240 { Naprawdę?! Wreszcie jakieś dobre wieści! Więc jeśli Ede cię przyśle, czy to oznacza, że ​​jesteś w to w jakiś sposób zamieszany...? }
+Plh_241 { Tak. Znalazłem kilka reliktów, które są powiązane z całą sprawą. }
+Plh_242 { Musimy porozmawiać. Przejdźmy do ogniska, gdzie jest trochę przytulniej. Przyniosę nam trochę browarów. }
+Plh_162 { Czy nazwisko Aldrik coś mówi? }
+Plh_159 { *marszczy brwi* Przechodzi tędy stały strumień wszelkiego rodzaju ludzi. Zwykle podaję im tylko szybkie piwo. Zapytaj Sine, moją córkę. }
+Plh_163 { *marszczy brwi* Aldrik wysyła teraz ludzi czy co? }
+Plh_169 { Aldrik nie żyje. Nie będzie już tu przychodził. }
+Plh_171 { Oh? Cóż, to wystarczający powód. }
+Plh_172 { Ty i Aldrik porywaliście ludzi i zmuszaliście ich do wykopania czegoś w Otchłani. }
+Plh_173 { Aldrik jest powodem znikania ludzi. Porwał ich i kazał pracować w Otchłani. }
+Plh_175 { Och, czy to prawda? Nie wiem, ale radzę ci, żebyś nie chodził zbyt głośno i nie trzepał dziąsłami w miejscu, gdzie inni mogą cię usłyszeć. }
+Plh_176 { Może od czasu do czasu kupowałem coś od Aldrika – i co z tego? Co to ma wspólnego ze mną? }
+Plh_182 { Znalazłem list u Aldrika. Prosiłeś o relikt. }
+Plh_185 { *patrzy na relikt i marszczy brwi* To mogłoby być naprawdę interesujące. Dobra, słuchaj... }
+Plh_186 { Pokonałeś Aldrika. Więc prawdopodobnie masz coś na sumieniu. Oto klucz do tylnych drzwi. Idź prosto przez kuchnię. Za tawerną znajduje się wejście do jaskini. Spotkaj się tam z Ede i powiedz mu, że cię przysłałem. }
+Plh_187 { Jaka jest historia z reliktem? }
+Plh_188 { Co jest w jaskini? }
+Plh_189 { Może... }
+Plh_190 { Nie mam pojęcia. Nigdy wcześniej tego nie widziałem. To Ede wie o takich rzeczach. }
+Plh_191 { Odpowiedzi na Twoje pytania. }
+Plh_177 { Aldrik to idiota. Całą tę sprawę można było zaplanować znacznie mądrzej. No cóż. }
+Plh_180 { Miał to nadchodzące. }
+Plh_308 { Słyszałem, że współpracujesz z Łupieżcami Ruin? }
+Plh_309 { Kto by ci to powiedział? Chyba podałem im o jedno piwo za dużo. }
+Plh_310 { Udo tak. }
+Plh_314 { Wiarygodne źródło. Musisz to przyznać. }
+Plh_311 { *patrzy na ciebie poważnie* Czego chcesz? }
+Plh_312 { Chcę do ciebie dołączyć. }
+Plh_313 { Chciałbym dowiedzieć się więcej o Bygones. }
+Plh_315 { Zapomnij o tym. Złe doświadczenia z klientami przychodzącymi. Ostatni facet, który chciał robić interesy, nigdy nie wrócił. To samo z tymi, którzy później błąkali się po Czerwonych Wrzosowiskach. }
+Plh_316 { Zajmę się dla ciebie barem w tawernie. }
+Plh_319 { Szukam jednego Lorthiz. Przyszedł do tawerny i zniknął. }
+Plh_321 { Lorthiz? Nigdy o nim nie słyszałem. }
+Plh_322 { Przyszedł do tej tawerny. }
+Plh_323 { Znam wielu w Drowej i znam WSZYSTKICH w mojej tawernie. Nie ma tu żadnego Lorthiza. }
+Plh_4 { Witam w mojej skromnej tawernie. Jestem Olaf. Nigdy wcześniej cię nie widziałem. Ale wyglądasz, jakbyś desperacko potrzebował przerwy – i piwa! }
+Plh_73 { Jestem Olaf. Witamy w Gospodzie Bezgłowego Rozpruwacza! Po prostu przyjdź i porozmawiaj ze mną, jeśli będziesz potrzebować piwa lub łóżka. Oczywiście za wystarczającą ilość monet. }
+Plh_293 { Dobrze spałeś? Odpocząłeś trochę? }
+Plh_298 { Wtedy nie będziesz już potrzebował tego klucza. Jeśli będziesz potrzebowała znowu odpocząć, daj mi znać. }
+Plh_243 { Tutaj jest trochę ciszej. Chodź, usiądźmy. Muszę ci coś pokazać. }
+Plh_244 { (usiąść) }
+Plh_245 { Napij się piwa. Na koszt firmy. Ale tylko ten jeden raz. }
+Plh_247 { Nie odmówię temu. }
+Plh_246 { Nie chcę żadnego piwa. }
+Plh_248 { Przejdź do sedna. Czego ode mnie chcesz? }
+Plh_250 { Cieszyć się. Jeśli przekonałeś Ede to warto. }
+Plh_252 { Inni nazywają nas Łupieżcy Ruin, ponieważ grzebiemy w ruinach Bygone. Nie obchodzi nas, jak nas nazywają, ale nie napadamy też na te ruiny. Szukamy szczególnie jednej rzeczy. Znaleźliśmy list w ruinach starych miast. }
+Plh_253 { Patrzeć. }
+Plh_254 { *patrzy w ogień* }
+Plh_255 { Co to wszystko oznacza? }
+Plh_256 { Jakie było rozwiązanie Drivaniusa? }
+Plh_257 { My też nie wiemy. Jeszcze nie. Ale Drivanius wiedział o Czarnym Płomieniu, monolicie, Czerwonej Wieży i Bóstwach. A my nie. }
+Plh_258 { Musimy powiedzieć Jeroowi o Ocalałych! }
+Plh_259 { Musimy powiedzieć Molvinie w Nemeton! }
+Plh_260 { Co teraz zrobimy? }
+Plh_261 { zrobiłem. Wszyscy byli przywódcy nie chcieli mieć z tym nic wspólnego. Nie interesuje ich historia Bygone. huh. }
+Plh_262 { Weźmiemy nasz los w swoje ręce. Dzięki mojej tawernie znam wielu ludzi. A słyszę wiele rzeczy... }
+Plh_263 { Wiedziałem komu zaufać, żeby zebrać Łupieżców Ruin. }
+Plh_264 { Odkryjemy sekret Drivaniusa. Chciał uratować ten świat... I dowiemy się jak. }
+Plh_265 { Potrzebujemy więcej takich reliktów. }
+Plh_266 { Osobiście nie mam nic wspólnego z żadną frakcją i ich sporami. Niech robią swoje. Po prostu przechodzimy przez ruiny. Naprawdę nieszkodliwe. *uśmiecha się* }
+Plh_267 { Trzymaj się swojej frakcji. Nie chcę, żebyś się ich wyrzekł. Ale Ty też możesz do nas dołączyć. Jeśli chcesz. Nie masz takiego obowiązku. }
+Plh_268 { Jestem teraz częścią Was, Łupieżców Ruin. I to jest dobra rzecz. }
+Plh_269 { Pracuję tylko dla monet. }
+Plh_271 { Twoja lojalność po prostu rozgrzewa moje serce. Mamy tu dobrych ludzi. Mogą cię czegoś nauczyć. A Ede tutaj może zapewnić ci wszystko, czego pragniesz. }
+Plh_272 { A ponieważ jesteś teraz jednym z nas, możesz oczywiście spać tutaj za darmo. Weź klucz. Nie musisz już płacić. *uśmiecha się* }
+Plh_273 { Muszę wracać do pracy... }
+Plh_274 { No cóż, wracamy do pogoni za reliktami... }
+Plh_275 { Dobrze, że jesteś z nami, $GVAR:EVars_Player.Name$. }
+Plh_270 { No cóż. Dopóki będziesz dostarczać relikty, będziesz otrzymywać monety. I jest w tym coś ekstra dla Ciebie. }
+Plh_249 { Haha, właśnie tak mi się podoba. W porządku... }
+Plh_192 { Mam gdzieś starą skórzaną zbroję. Może się przydać komuś, kto jest tu nowy... Może Tobie? }
+Plh_193 { Co za to chcesz? }
+Plh_194 { Jasne, zdejmę to z twoich rąk. }
+Plh_195 { Nie potrzebuję tego. }
+Plh_196 { Szybko przyswajasz wiedzę. Ale tym razem nie chcę nic za to. }
+Plh_198 { W porządku, oto jest. Kiedyś dobrze mi służył. }
+Plh_197 { W porządku. }
+Plh_52 { Ci rozpruwacze stanowią coraz większe zagrożenie. Jeśli tak dalej pójdzie, wkrótce będę musiał zamknąć działalność. }
+Plh_137 { Jeszcze jeden...? }
+Plh_119 { Rozumiem, że ostatnio sprawy nie toczą się tak gładko? }
+Plh_122 { To gówno trafiło w wentylator! }
+Plh_124 { Odkąd Pradawna Puszcza została zniszczona, coraz więcej ludzi przybywa tu w poszukiwaniu bezpieczeństwa. Potem stworzenia wyszły z stolarki – dosłownie – i zaczęły nas atakować. }
+Plh_126 { Szukam Reiji. }
+Plh_216 { Czy mogę Ci w jakikolwiek sposób pomóc? }
+Plh_205 { Pomaga Birce przy rannych. Po prostu podążaj za krzykiem. }
+Plh_208 { Pójdę jej poszukać. }
+Plh_211 { Och, skoro już wychodzisz na zewnątrz, czy mógłbyś sprawdzić, co się dzieje z moimi owcami? Brakuje pięciu z nich. Mam nadzieję, że nadal żyją. }
+Plh_209 { W Heath było kiedyś bardzo spokojnie. Ale już nie. Podobno Evi nawet został zaatakowany przez niedźwiedzia. }
+Plh_217 { Evi został zaatakowany. Nie wiem, czy jakakolwiek owca tam przeżyła. }
+Plh_218 { Mam pięć owiec. Mam nadzieję, że nadal żyją. Muszą być gdzieś na Heath. }
+Plh_51 { Zrób to! }
+Plh_63 { *mierzy cię* Chcesz się tym zająć? W takim razie będziesz potrzebować szczęścia. }
+Plh_37 { Ktokolwiek wyeliminuje zagrożenie, otrzyma monety $GVAR:QuestVars_HuntTheRippers_Config.Reward$. Uczciwa praca za uczciwe monety! }
+Plh_305 { „Zajazd Bezgłowego Rozpruwacza”... I masz kłopoty z Rozpruwaczami? }
+Plh_40 { Gdzie mogę znaleźć te Rozpruwaczy? }
+Plh_39 { Zobaczę, co da się zrobić. }
+Plh_306 { Och, haha, naprawdę jesteś pierwszym, który wymyślił ten bardzo zabawny żart... }
+Plh_307 { Zachowuj się zgodnie z nazwą mojej tawerny! Przynieś mi głowę bestii! }
+Plh_41 { W drodze powrotnej do obozu Ocalonych dotrzesz do skrzyżowania na północy. Prowadzi na pagórek. O ile wiem, Faol chciał gdzieś w okolicy wybrać się na polowanie. }
+Plh_43 { Jakiś czas temu Faol przyszedł tutaj z powodu tego ogłoszenia. Tak samo jak ty. }
+Plh_110 { Możesz go znaleźć i pomóc mu upolować tych rozpruwaczy. Nie ma go o wiele za długo. Zwykle dość szybko kończy swoją pracę. }
+Plh_281 { Mam nadzieję, że nic mu nie jest. To dobrzy ludzie. I jeden z moich najlepszych klientów. }
+Plh_289 { I przynieś mi na dowód głowę największej ze zwierząt! }
+Plh_112 { Jeśli to takie niebezpieczne, przydałaby mi się pomoc. }
+Plh_113 { Cóż, dołączyłbym do ciebie, ale nie mogę uciec. Ale mogę zaoferować ci kawałek smażonego mięsa, który, mam nadzieję, wzmocni twoją zadziorność. }
+Plh_115 { To powinno być pomocne. Wrócę do ciebie. }
+Plh_116 { Czy przypadkiem nie miałbyś tam też dla mnie broni? }
+Plh_117 { *marszczy brwi* Chcesz też do tego frytki? Może zaklęcie, które unicestwi wszystkich rozpruwaczy w całej Drova? }
+Plh_292 { Jeśli chcesz broń, to kup ją – jak wszyscy inni. A teraz upewnij się, że pozbędziesz się tych rozpruwaczy. }
+Plh_294 { Zadbałeś o to? }
+Plh_231 { Zmęczeni pijacy szkodzą interesom. }
+Plh_45 { Jedynym dobrym rozpruwaczem jest martwy rozpruwacz – a im jest ich mniej, tym mniej kłopotów sprawiają nam wszystkim. }
+Plh_46 { To była ciężko zarobiona moneta. }
+Plh_47 { Musiałem włożyć naprawdę dużo wysiłku, żeby zdobyć te monety. }
+Plh_48 { Ale zasłużyłeś na nie! }
+Plh_50 { Do zobaczenia. }
+Plh_49 { Czy to prawda? W takim razie powinieneś częściej dla mnie pracować. }
+Plh_55 { Dobra robota. Zapłacę ci, gdy Faol tu dotrze. }
+Plh_57 { Fajny browar u Olafa po ciężkim dniu pracy! }
+Plh_58 { Takie jest życie! Dobra robota. }
+Plh_59 { To powinno wystarczyć na jedno lub dwa piwa. *uśmiecha się* }
+Plh_60 { Pah, wiesz jak to jest, kiedy jest tu tak tłoczno. Żaden dzbanek nie pozostaje pusty, a żadna moneta nie jest przy jego właścicielu. }
+Plh_290 { W porządku. To powinno być ostrzeżeniem dla kolejnych Rozpruwaczy. Muszą ominąć moją tawernę szerokim łukiem. }
+Plh_276 { Masz na myśli z wyjątkiem polowania na Rozpruwacza? Hmm... }
+Plh_62 { Jeśli chcesz zarobić kilka monet, powinieneś znaleźć Evi i pomóc jej. Powinna być gdzieś w okolicach Wrzosowisk, z owcami. Zawsze ma z nimi jakiś problem. }
+Plh_282 { Tylko upewnij się, że wykona swoją pracę. Gwarantuję ci, że ona znowu gdzieś się kręci... }
+Plh_8 { Ach, dobrze. Liesl ciągle ucieka, a ja mówiłem Evi TYSIĄC RAZY, że musi wyjątkowo uważnie pilnować tej owcy! }
+Plh_9 { Któregoś dnia wyszłam z tawerny i zobaczyłam Liesl pasącą się tuż przed nią, zupełnie się tym nie przejmując. }
+Plh_284 { Znowu uciekła, a Evi tego nie zauważyła. }
+Plh_10 { Tak czy inaczej, dobre monety za dobrą pracę. Oto twoja nagroda. }
+Plh_11 { Dzięki. Do zobaczenia. }
+Plh_303 { Liesl nie żyje? Biedna mała Liesl... }
+Plh_304 { Do cholery, Evi! W ogóle za co ci płacę? Po prostu przepuściłeś Liesl obok siebie, a potem... }
+Plh_93 { Hm. Pozwól mi pomyśleć. }
+Plh_97 { Tak, dokładnie. Tristana. Wynajmował pokój i wieczorami przesiadywał przy ognisku z książką. Ciągle zapisywał lub rysował najróżniejsze rzeczy. Cóż, a potem go nie było. }
+Plh_228 { Bez płacenia swojego rachunku. *mruczy* }
+Plh_94 { Pokazał mi mapę, którą właśnie narysował. Nie zrobił na mnie wrażenia człowieka, który po prostu rezygnuje z umowy, nie płacąc swojego rachunku. Poza tym wszystkie jego rzeczy wciąż są na górze, w jego pokoju. }
+Plh_95 { Naprawdę muszę go znaleźć. Czy mogę rzucić okiem na jego rzeczy? }
+Plh_229 { Może coś mu się stało. Pomóż mi go znaleźć. }
+Plh_96 { Oczywiście, że tak. Dam ci klucz i będziesz mógł rozejrzeć się po jego pokoju. A skoro już przy tym jesteśmy, dam ci też klucze do pozostałych pokoi, mojej piwnicy i wychodka. }
+Plh_99 { Mam. Co chcesz za klucz? }
+Plh_98 { To strasznie miło z twojej strony. }
+Plh_100 { Mogę ci dać jego klucz, jeśli zapłacisz resztę jego rachunku. Będą to monety $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$. }
+Plh_103 { Nie mam tylu monet. }
+Plh_104 { Oto monety $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ na kartę Tristana. }
+Plh_107 { W takim razie myślę, że będziesz musiał znaleźć tyle monet. }
+Plh_108 { Po prostu zapytaj innych klientów, czy nie potrzebują z czymś pomocy. }
+Plh_106 { *uśmiecha się* Dobrze. Oto klucz. Zawsze miło robić z tobą interesy. To pierwszy pokój na górze. }
+Plh_101 { Upadłeś i uderzyłeś się w głowę? Dlaczego myślisz, że dawałbym klucze do mojego pokoju każdemu Tomowi, Dickowi i Harry'emu, który przyjdzie na szczupak? Nikt nigdy nie chciałby u mnie wynająć pokoju! }
+Plh_102 { Potrzebuję informacji od Tristana. A jeśli coś mu się stało, muszę się dowiedzieć co. }
+Plh_230 { Powiedz mi tylko, ile będzie mnie kosztować twoja pomoc. }
+Plh_201 { ... gówno. GÓWNO. }
+Plh_301 { Liesl była naprawdę dobrym zwierzęciem... biedna Liesl... }
+Plh_144 { Moje biedne owieczki! Nie tylko przydali się nam przy mleku i w ogóle... Byli też — przyjaciółmi. }
+Plh_145 { Przysięgam, że kiedy to wszystko się skończy, znów będziemy mieć owce i będą SZCZĘŚLIWE! }
+Plh_153 { Ale to raczej cię nie zainteresuje. Tutaj, Twoja płatność. }
+Plh_300 { Ale przynajmniej Liesl tego nie zrozumiała. }
+Plh_295 { Bardzo dobrze. Cudowne trofeum dla Gospody Bezgłowego Rozpruwacza! }
+Plh_296 { Bardzo dobrze. Cudowne trofeum dla Gospody Bezgłowego Rozpruwacza! }
+Plh_291 { Witamy w Gospodzie Bezgłowego Rozpruwacza! }
+Plh_288 { Witamy w tawernie Olafa! }
+Plh_328 { Wiem, że dołączyłeś do frakcji. }
+Plh_329 { Niezależnie od tego, do której frakcji zdecydujesz się dołączyć – zawsze będziesz tu mile widziany. Jeśli chcesz. Bez zobowiązań. }
+Plh_324 { *mruczy* Jeśli ona się gdzieś włóczy, zamiast pracować, skop jej tyłek, dobrze? }
+Plh_325 { Ale dobrze. Już to przyszło. }
+Plh_326 { Ale nie przesadzaj! Potrzebuję jej, żeby wróciła do pracy. }
+Plh_330 { Myślę, że mijamy. Wiem, że Reija czegoś od ciebie chciała. Idź z nią porozmawiać. }
+Plh_331 { Reija kazała mi ci pomóc. }
+Plh_332 { Więc już mi pomóż. Znajdź moje owce. }
+Plh_333 { Byłem w komnacie Drivaniusa i znalazłem ten hełm Nexusa... }
+Plh_334 { Hej, czekaj... }
+Plh_335 { Nie tutaj. Powiedz to Ede. Muszę zająć się tutejszą tawerną. }
+Plh_336 { Dobra robota, $GVAR:EVars_Player.Name$. }

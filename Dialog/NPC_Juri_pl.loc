@@ -1,0 +1,15 @@
+Plh_13 { Hej, $GVAR:EVars_Player.Name$, twoja kolej. Wejdź na arenę. }
+Plh_46 { To była walka! Byłbym zachwycony, gdyby codziennie na arenie odbywały się walki. Zawsze coś się dzieje pomiędzy Naznaczonymi! }
+Plh_33 { Kim są Naznaczeni? }
+Plh_36 { Czy ja też mogę zostać wojownikiem? }
+Plh_35 { Są bojownikami Antoniusa Proximusa. Doświadczeni wojownicy na arenie, tylko najlepsi. }
+Plh_37 { *mierzy cię* Może, ale musiałbyś umieć dobrze walczyć. Decyduje Proximus. }
+Plh_38 { Po walce z Badym i Gra, odbędą się tutaj kolejne walki. Jeśli się postarasz, też będziesz miał szansę. }
+Plh_32 { W tej chwili szykuje się specjalna walka pomiędzy Badym i Gra. Wtedy arena zostanie ponownie otwarta dla Naznaczonych. }
+Plh_42 { Walka z $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ będzie zacięta. Ale bądź ostrożny. Wykorzystuje mgłę na swoją korzyść. I jest niepokonana. Zawsze na nią stawiałem. }
+Plh_43 { Mam zamiar wygrać. }
+Plh_41 { Widziałem walki $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ wiele razy. Zajmuje się walką wręcz. Więc trzymaj ją na dystans. Dużo szczęścia. }
+Plh_44 { Ebru zawsze walczy ze swoimi rozpruwaczami. Pokonanie ich nie pomaga, bo zawsze może ich sprowadzić z powrotem. Włóż Ebru prosto do ust. }
+Plh_40 { Postawiłem na ciebie. Powodzenia dzisiaj przeciwko $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+Plh_31 { Słyszałem o tobie, $GVAR:EVars_Player.Name$. Krążą wieści o Naznaczonych. Krew i żelazo! }
+Plh_30 { Jeśli chcesz powalczyć na arenie, idź porozmawiać z Antoniusem Proximusem. Organizuje tam walki. }

@@ -1,0 +1,34 @@
+Plh_24 { Mam pytanie... }
+Plh_28 { Kim jest Levin? }
+Plh_29 { *mruży oczy* On tu jest szefem. Uważaj, żeby się na ciebie nie rozzłościł. Inaczej będziesz w to wciągnięty. Ale jeśli on cię lubi... }
+Plh_3 { Wyglądasz na zmęczonego. }
+Plh_11 { Dlaczego dałeś się do tego wciągnąć? }
+Plh_8 { Czasami nierobienie niczego jest trudniejsze niż praca fizyczna. Musiałem tu stanąć na straży. }
+Plh_15 { Och, jak to ująć... Mógłbym powiedzieć o Levinie kilka rzeczy, które nie byłyby zbyt miłe. Mógł stać za mną i wszystko podsłuchiwać. Teraz muszę tu stać na straży i nic się nie dzieje. }
+Plh_41 { Nigdy więcej nie będę rozmawiać o Levinie. Na Bóstwa, przysięgam! }
+Plh_4 { *ziewa i przeciera oczy* Co się dzieje? }
+Plh_2 { *ziewa* OK, wejdź. Tylko nie schrzań! }
+Plh_46 { Co by schrzaniło? }
+Plh_5 { Co to za miejsce? }
+Plh_6 { Przyjechałem od Joli i chcę pracować w Wyrobisku. }
+Plh_47 { Jeśli to zrobisz, zauważysz to cholernie szybko. }
+Plh_12 { Wkroczyłeś do wiecznego Jabłkowego Gaju. Tutaj Bóstwa obdarzą cię swoją mocą. Tutaj nigdy nie będziesz głodny. Wszystko, co musisz zrobić, to pokonać mnie, Esderta Obserwatora, w szlachetnej walce! }
+Plh_18 { Więc walcz! }
+Plh_19 { Chyba żartujesz! }
+Plh_22 { To był tylko żart! Wow, czy jesteś naiwny, gdy ktoś rzuca na ciebie bzdury. }
+Plh_21 { *uśmiecha się* To jest kopalnia srebra. Zawsze przydałoby się nam kilku nowych Kopaczów. Można tu zarobić dużo monet, a także trochę jedzenia i dach nad głową. To znaczy, jeśli potrafisz dostać się na kij. }
+Plh_40 { Idź i zdaj raport Levinowi. Jest wzdłuż ścieżki. On może to wszystko wyjaśnić. }
+Plh_13 { Zatem jesteś we właściwym miejscu. Jestem Esdert i strzegę wejścia. Po prostu podążaj ścieżką, a znajdziesz Levina. }
+Plh_25 { Po drodze zostałem zaatakowany przez bandytów. }
+Plh_26 { Mógłbym zająć się bandytami. }
+Plh_27 { Bandyci nie będą już sprawiać Ci kłopotów. }
+Plh_30 { Cholera, myślałem, że się ich pozbyliśmy. Przegoniliśmy ich zaledwie kilka dni temu. Są gorsze niż plaga szczurów. Zajmę się nimi później, kiedy będę mógł uciec. }
+Plh_31 { *mierzy cię* Ty? Bez odpowiedniej broni i wyposażenia? Sam? Nie jestem pewien, czy chcę stać u twojego boku w bitwie, ale jesteś zabawnym facetem. }
+Plh_32 { Pozwól mi się tym martwić. Jeśli ich wypędzę, co mi to da? }
+Plh_35 { To prawda, lepiej zostanę z tyłu. }
+Plh_33 { Jeśli naprawdę przepędzisz bandytów, dam ci brzęczące monety $GVAR:QuestVars_BanditMine_Config.Reward$. Dobra praca jest tu zawsze nagradzana. }
+Plh_34 { Ale monety $GVAR:QuestVars_BanditMine_Config.Reward$ nie są warte twojego życia. I stracilibyśmy zdolnego Siekacza. }
+Plh_36 { Mimo wszystko nadal masz w sobie trochę rozsądku. }
+Plh_37 { *mierzy cię* Skończyłeś je?! Jak to zrobiłeś? }
+Plh_38 { Może stopniowo przestaniesz we mnie wątpić. }
+Plh_39 { *marszczy brwi* W takim razie prawdopodobnie cię nie doceniłem. Oto monety $GVAR:QuestVars_BanditMine_Config.Reward$. Odjęliście mi trochę pracy. }

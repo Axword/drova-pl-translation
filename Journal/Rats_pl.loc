@@ -1,0 +1,7 @@
+Entry_01 { Piwnica Bernolda jest zainfekowana szczurami, i potrzebuje kogoś, kto pomoże mu się ich pozbyć. Da mi trochę monet jako nagrodę. To powinno być tego warte. }
+Entry_02 { Jestem w piwnicy. Teraz muszę tylko pozbyć się szczurów. }
+Entry_03 { Szczury w piwnicy nie żyją. Bernold na pewno będzie z tego zadowolony. }
+Entry_03_A { Szczury wychodzą z jaskini i wchodzą do piwnicy Bernolda przez dziurę. Pewnie ucieszyłby się, gdybym się tym również zajął. }
+Entry_03_B { Szczury w ukrytej jaskini nie żyją. Kiedy już zajmę się tymi, które są jeszcze w piwnicy, powinienem zgłosić się do Bernolda. }
+Entry_04 { Bernold dotrzymał obietnicy. Dał mi monety, a jego problem został rozwiązany. }
+Title { Szczury! }

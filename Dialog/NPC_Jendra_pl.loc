@@ -1,0 +1,187 @@
+Plh_25 { Płacą ci $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$?! }
+Plh_30 { Tutaj $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ powinien to zrobić. (oddać) }
+Plh_32 { A co jeśli zaoferuję Ci $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ sztuk srebra? }
+Plh_36 { Almar dzisiaj nie przyjdzie. }
+Plh_99 { Po co tam kanarek? Ten w klatce? }
+Plh_217 { Chcę wejść do Głębokiej Kopalni. }
+Plh_26 { Oczywiście. I nadal opuszczą Deep Mine z dużym, grubym zyskiem. Dlatego wszyscy tak chętnie to robią. }
+Plh_27 { Jeśli tak mówisz... }
+Plh_28 { To jawna kradzież! }
+Plh_29 { Musisz się jeszcze nauczyć, że tutaj sprawy załatwiają się trochę inaczej... }
+Plh_179 { Dobrze? }
+Plh_31 { Mhm. Cóż, szkoda Almara. Ale masz swoje miejsce! Następnym razem zabiorę cię ze sobą. Daj mi znać, jak tylko będziesz gotowy. }
+Plh_89 { Możemy wejść do Głębokiej Kopalni. }
+Plh_90 { Potrzebuję jeszcze trochę czasu. }
+Plh_91 { Nie czekaj zbyt długo! }
+Plh_33 { Właściwie to mam z nimi umowę. W każdym razie Ella przyjdzie. Inaczej nie będzie w stanie zapłacić Laricowi, a on przybiegnie do mnie. }
+Plh_62 { $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ sztuk srebra. Weź to lub zostaw. }
+Plh_63 { Czy naprawdę chcesz stracić tak dużo srebra? }
+Plh_64 { *marszczy brwi* Hmm. To dużo. Może być warte miejsca Almara. . . }
+Plh_75 { Cóż, jeśli uda ci się zebrać wystarczającą ilość srebra, wyruszysz w głębinę. A raczej... w „głębokość”. Tak to nazywamy my, górnicy. }
+Plh_35 { Co? Ale musimy już iść! Gdzie mogę złapać kolejnego Kopacza? }
+Plh_67 { Dobrze... }
+Plh_66 { *odchrząkuje*... }
+Plh_180 { Jeden stoi tuż przed tobą. }
+Plh_181 { OTWÓRZ SWOJE KURWA OCZY! }
+Plh_68 { *zgrzyta zębami* Dobra. Możesz przyjść TYM CZASEM. Kiedy Almar wróci, znów będzie mógł pracować. Daj mi znać, kiedy będziesz gotowy. }
+Plh_224 { Jestem gotowy, aby wejść do Głębokiej Kopalni. }
+Plh_100 { Hm? Masz na myśli Falco? }
+Plh_101 { Jest wrażliwy na gazy na dole. Jeśli znajdziemy go martwego na podłodze klatki, będziemy wiedzieć, że musimy szybko się wydostać. }
+Plh_102 { Ten ptak wygląda na nieźle pobitego. }
+Plh_109 { Czy wiesz, że kanarki nie są mięsożercami? }
+Plh_103 { Nie sądzisz, że to trochę podłe? }
+Plh_104 { Przynajmniej ptak przydaje się. }
+Plh_105 { Cóż, jest zamknięty w klatce, w kopalni. Czego oczekujesz? Shona czasami mu coś przynosi. Ale nie widziałem jej z nim od dłuższego czasu. }
+Plh_108 { Włożyłem do klatki Falco kawałek ryby — z ryby, którą złowiłem w drodze do Wyrobiska. Ale on nie jest zainteresowany. }
+Plh_110 { Nie. Ale to jest ryba! }
+Plh_106 { Nie możemy uciec Drovie, a on nie może uciec ze swojej klatki. Takie jest życie. }
+Plh_107 { Tak, on tu zarechota, zanim my to zrobimy. }
+Plh_77 { Nie ma czasu. }
+Plh_69 { To dotyczy także ciebie — NIE wejdziesz do Głębokiej Kopalni! }
+Plh_71 { Co to jest Głęboka Kopalnia? }
+Plh_72 { Jestem tu tylko po to, żeby się rozejrzeć. }
+Plh_73 { *wzdycha* Każdy chce tam pojechać, bo tam można znaleźć najwięcej srebra. Ale to niebezpieczne, dlatego nie zabieram ze sobą więcej niż dwóch Kopaczów. }
+Plh_173 { Levin przydzielił MNIE, żebym poszedł do Głębokiej Kopalni z kilkoma Kopaczami. Zatem JA JESTEM TYM, który decyduje, kto przyjdzie. }
+Plh_8 { Zapamiętaj moje imię: Jendra! Na dole jestem szefem Wyrobiska. Tutaj wszystko, co powiem, jest przestrzegane. Levin mi ufa. *wysuwa podbródek* }
+Plh_9 { Czy to nie nazywa się „na dole”? }
+Plh_13 { Chcę wejść do Głębokiej Kopalni. }
+Plh_11 { Jestem tu nowy. }
+Plh_12 { W tej chwili po prostu się rozglądam. }
+Plh_10 { *twarz się rumieni* To właśnie powiedziałem! Wyjmij wosk z uszu! Nie na darmo jestem szefem Wyrobisku. Więc okaż mi szacunek, do którego mam prawo. Rozumiem? }
+Plh_14 { Oczywiście. Uważaj, żebyś nie zrobił nic głupiego. Wielu strażników w Otchłani nie ma większego poczucia humoru. }
+Plh_15 { Następnie rozejrzyj się po wałach. Trzeba jeszcze wydobyć srebro. }
+Plh_74 { Ha! Kopacza, który NIE zadręcza mnie w sprawie Głębokiej Kopalni? }
+Plh_97 { Uwierz mi, nie chcesz tego. A może interesują Cię potwory, zapadające się szyby i ciemność? To tylko dla ludzi, którzy URODZILI SIĘ w górnictwie. }
+Plh_17 { Zawarłem także umowę z dwoma Kopaczami. Płacą mi dobre srebro, a potem zabieram je ze sobą. }
+Plh_18 { Levin nie wspomniał nic o tym, że Kopacz musi płacić za pracę. }
+Plh_23 { Zabierz mnie do Głębokiej Kopalni. }
+Plh_19 { Cóż, teraz już wiesz. Kto zaoferuje najwięcej, może przyjść. Proste. }
+Plh_20 { I Levin nie ma z tym problemu? }
+Plh_21 { Więc wzbogacasz się na plecach Kopaczów... }
+Plh_60 { Dopóki do obozu Ocalonych dociera wystarczająca ilość srebra, jest zadowolony. A w Głębokiej Kopalni jest tego pod dostatkiem. }
+Plh_61 { Każdy, kto wróci z Kopalni Głębokiej, będzie miał w kieszeni więcej srebra w ciągu jednego dnia niż gdziekolwiek indziej po kilku dniach. To więcej niż sprawiedliwe. }
+Plh_98 { Zapomnij o tym. }
+Plh_24 { Almar i Ella płacą mi $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ sztuk srebra za sztukę. Widzę, że nie dźwigasz zbyt wiele. }
+Plh_4 { Cholerne wykopki. Te stworzenia wciąż i wciąż wracają. }
+Plh_111 { Nie ma tu już nic do szukania. Musimy zejść głębiej. Pospiesz się! }
+Plh_112 { To są srebrne żyły. $GVAR:EVars_Player.Name$, skręć w lewą stronę. Ella, skręć w prawo. }
+Plh_210 { Tak, nie jestem tu pierwszy raz. }
+Plh_211 { Więc wiesz, że Levin chce stąd srebra. Im szybciej ociosasz srebro, tym szybciej się wydostaniemy i tym szczęśliwszy będzie Levin. }
+Plh_76 { Zacznij. }
+Plh_174 { Rozumiem. }
+Plh_212 { Bierz się do pracy! }
+Plh_82 { Co to było? }
+Plh_114 { A... trzęsienie ziemi? }
+Plh_115 { Co-co! NIE! Jesteśmy odcięci! }
+Plh_116 { Dach się zawala! }
+Plh_259 { RUUUUUNNNNN! }
+Plh_83 { Cholera... }
+Plh_175 { Jendra! Co to jest? }
+Plh_235 { Moje ramię — nie mogę nim ruszyć. A moja klatka piersiowa... *ciężko oddycha* }
+Plh_236 { Ledwo mogę - ledwo mogę oddychać. }
+Plh_237 { To wszystko! Jendra nie może już walczyć i skończymy martwi w tej przeklętej norze. }
+Plh_238 { Przestań gadać! Nadal mogę... }
+Plh_176 { ARGH! }
+Plh_117 { Musisz szybko udać się do uzdrowiciela! }
+Plh_118 { Nie ma czasu. Musimy iść, Jendra. }
+Plh_119 { Jendra potrzebuje przerwy. }
+Plh_120 { Tylko... Tylko jedna chwila... }
+Plh_267 { Musisz objąć pozycję lidera... }
+Plh_121 { Co? Nie mogę, do cholery! Jesteś szefem Wyrobiska! Nikt inny nie wie, jak to zrobić! Jesteśmy tylko Kopaczami! Potrzebujemy Cię! }
+Plh_124 { Ona ma rację. Musisz nas stąd wyprowadzić. }
+Plh_125 { OK... jakoś nas stąd wydostanę. }
+Plh_126 { Nie mogę. Ella też nie może. Będziesz musiał przejąć kontrolę. }
+Plh_128 { *jęczy* Potrzebujemy światła. Pamiętajcie o swoich pochodniach... }
+Plh_129 { Mam jeszcze trochę zwojów zaklęć. Masz, weź je. Pamiętaj – możesz ich użyć do rzucenia zaklęcia, jeśli znajdziesz się w niebezpieczeństwie. Ale tylko jeden na zwój. }
+Plh_177 { I trochę maści leczniczych. Mogą się przydać. }
+Plh_204 { I broń, dzięki której będziesz mógł się bronić. }
+Plh_239 { P-proszę, zabierz nas stąd. }
+Plh_240 { Damy radę! Kopalnia Głęboka jest ciemna i niebezpieczna, ale nie możemy być zbyt daleko od reszty Otchłani. }
+Plh_241 { Jeśli tylko podejdziemy wystarczająco blisko drugiej miny, inni mogą nas usłyszeć. }
+Plh_242 { Przykro mi to mówić, ale proszę, mów dalej, $GVAR:EVars_Player.Name$. Nie mogę cię już chronić – jesteś naszą ostatnią nadzieją. }
+Plh_130 { Więc... Jesteśmy tuż za tobą. Powstrzymam te stwory moją procą. Nie jesteś całkiem sam. }
+Plh_127 { *chwyta się za pierś* Nie mamy na to czasu... Idź! }
+Plh_243 { Te przeklęte stworzenia są ostatnią rzeczą, jakiej teraz potrzebujemy... }
+Plh_244 { Może uda nam się znaleźć na nich sposób. Im mniej będziemy musieli walczyć, tym lepiej. }
+Plh_249 { Gdzieś tutaj musi być wyjście! Inaczej nie dostawałoby się tu żadne powietrze. }
+Plh_250 { Co-co to było? Kolejny opad skały? }
+Plh_251 { Obawiam się, że to nie brzmiało jak upadek skały. }
+Plh_252 { Brzmiał potężniej, jak coś, z czym zdecydowanie nie chcielibyśmy się spotkać. }
+Plh_253 { $GVAR:EVars_Player.Name$, śmiało. Będziemy tuż za tobą. }
+Plh_262 { Czekać. Co to jest? }
+Plh_263 { Czy to...? OSTROŻNY! }
+Plh_86 { *patrzy na ścianę* Skała wydaje się niestabilna. A czy to nie jest przeciąg powietrza? Może uda nam się poluzować kamienie... }
+Plh_87 { W końcu nam się udało! Uratowałeś nas! }
+Plh_131 { Gdyby nie ty, wszystko potoczyłoby się bardzo źle. Nigdy nie chcę tam wracać! }
+Plh_154 { Jendra! Przeżyła! }
+Plh_155 { Wszystko z tobą w porządku. Dziękuję Bóstwom! Jak się masz? }
+Plh_156 { *trzęsie się* W jednym kawałku. }
+Plh_158 { Co się stało? }
+Plh_159 { Przeżyliśmy. Tylko to się liczy. Spotkałem się ze skałą i nie mogłem już wykonywać swoich obowiązków. Nie udałoby nam się to, gdyby nie $GVAR:EVars_Player.Name$. }
+Plh_160 { Ale znaleźliśmy inny dostęp do Głębokiej Kopalni. Może z jeszcze większą ilością srebra. }
+Plh_161 { Mogliśmy znaleźć to w inny sposób. Musisz teraz odpocząć. }
+Plh_162 { $GVAR:EVars_Player.Name$... dobrze ci poszło. }
+Plh_163 { Przydałyby nam się ludzie, którzy wiedzą, co należy zrobić, gdy sytuacja stanie się trudna. Zgłoś się do Kiliana w obozie Ocalonych. Powiedz mu, że cię przysłałem. I powiedz mu, że teraz możesz wejść do Górnej Dzielnicy. }
+Plh_164 { Zajmiemy się twoimi ranami, Jendra. }
+Plh_171 { Uratowałeś nas. Zgłoś się do Kiliana i dołącz do nas. Przydałyby nam się ludzie tacy jak ty. }
+Plh_203 { Zabierz nas stąd. Jesteśmy tuż za tobą. }
+Plh_78 { Zacznij tu rąbać srebro. Będę czujny i upewnię się, że nie spotkają nas tam żadne nieprzyjemne niespodzianki. }
+Plh_79 { Wycięliśmy to miejsce do sucha. }
+Plh_94 { Skończyła mi się para. }
+Plh_80 { Możesz na mnie liczyć. }
+Plh_81 { Co?! Prawie nic nie zrobiliście. To nie wystarczy! }
+Plh_147 { Nie ma tu nic więcej. Nic nie możemy z tym zrobić. }
+Plh_213 { Wtedy musimy wcisnąć głębiej. W przeciwnym razie będziemy musieli odpowiedzieć przed Levinem. }
+Plh_214 { Co-co? Głębiej? Sam powiedziałeś, że to zbyt niebezpieczne! }
+Plh_215 { Weź się w garść. Jestem tu, żeby cię chronić. Wszystko, co musisz zrobić, to zacząć rąbać. }
+Plh_148 { Czy to naprawdę dobry pomysł? }
+Plh_150 { Głębsze tunele nie są zbyt dobrze rozwinięte i są niestabilne. }
+Plh_216 { Czy prosiłem Cię o opinię? }
+Plh_151 { Nie mamy wyboru. Jeśli nie przywiozę nic oprócz kawałka srebra, Levin włoży mi tyłek na procę. Podążaj za mną. }
+Plh_152 { Ogólny... }
+Plh_153 { Jeśli szef dołu powie ci, żebyś zszedł głębiej, wy, Kopacze, zejdziesz głębiej! Więc ruszcie tyłki! }
+Plh_95 { Weź to. Powinno pomóc. Teraz wracaj do pracy. }
+Plh_96 { Więc zrób to. }
+Plh_39 { Czekamy, aż Ella tu przyjedzie. }
+Plh_42 { Więc już czas. Wyciągnij kilofy i zacznij rąbać. }
+Plh_45 { *dysząc* Hej... Jendra... jestem tu... gotowy, aby dołączyć do ciebie w Wyrobisku... }
+Plh_46 { Nie dzisiaj, Almarze. }
+Plh_59 { Co? A co z całym srebrem, które ci zapłaciłem? }
+Plh_143 { To wyłącznie moja decyzja. A może kwestionujesz mój autorytet? }
+Plh_144 { Oczywiście, że nie, ale... }
+Plh_145 { W takim razie nie rób tego, bo już nigdy więcej nie wejdziesz do Głębokiej Kopalni. Rozumiem? }
+Plh_192 { Mieliśmy porozumienie! Daję ci srebro, a ty mnie wpuścisz do Otchłani! }
+Plh_193 { I ktoś inny dał mi więcej srebra. Pogódź się z tym. }
+Plh_194 { *rzuca ci jadowite spojrzenie* W takim razie oddaj mi przynajmniej moje srebro! }
+Plh_195 { Potraktuj to jako zaliczkę na następny raz. }
+Plh_196 { Ty... ty... ARGH! }
+Plh_197 { Jesteś najgorszy na świecie! }
+Plh_198 { Jest trudny. }
+Plh_199 { Cóż, oszukałeś go. }
+Plh_200 { Co za płacz. }
+Plh_201 { Teraz też chcesz być trudny? Następnym razem zapłaci mniej srebra. Nic od niego nie wzięłam. }
+Plh_47 { Czy możemy iść? jestem gotowy. }
+Plh_48 { Żeby było jasne: nie chcę tam żadnych debat. Jeśli powiem ci, żebyś coś zrobił, robisz to. Rozumiem? }
+Plh_135 { Rozumiem. }
+Plh_134 { Rozumiem. }
+Plh_138 { Bądź ostrożny. Kilka dni temu mieliśmy trzęsienie ziemi. }
+Plh_139 { *mruży oczy* Myślisz, że o tym nie wiem? }
+Plh_140 { Oczywiście, że tak. *przewraca oczami* Powodzenia w kopalniach. }
+Plh_137 { Jasne, powodzenia w kopalniach. }
+Plh_202 { Poradzi sobie z tym. Musi zdobyć trochę więcej srebra najpóźniej do jutra i wtedy przyjedzie do mnie. }
+Plh_167 { W porządku, ale jeśli będziesz pracować pode mną, będę odpowiedzialny za twoje bezpieczeństwo. Jak mam cię nazywać? }
+Plh_168 { $GVAR:EVars_Player.Name$. }
+Plh_169 { Nie ma to dla mnie znaczenia. Chodźmy już. }
+Plh_56 { OK, $GVAR:EVars_Player.Name$. chodźmy. }
+Plh_141 { Ela! Przygotuj się do zejścia! }
+Plh_142 { Już...? nadchodzę! }
+Plh_170 { W takim razie zapomnij. Jeśli nie znam twojego imienia, nie przyjdziesz. Więc? }
+Plh_245 { Mam nadzieję, że to były ostatnie stworzenia. }
+Plh_246 { Cholera, chcę się stąd wydostać. }
+Plh_247 { Jestem Kopacz, nie wojownik! }
+Plh_248 { $GVAR:EVars_Player.Name$ jest na szczycie. }
+Plh_256 { To cholerne stworzenie jest... martwe. }
+Plh_257 { Zrobiliśmy to! }
+Plh_258 { Wyjście nie może być teraz daleko! }
+Plh_260 { Wykrywam przeciąg. }
+Plh_261 { Wyjście musi być blisko! }

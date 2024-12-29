@@ -1,0 +1,41 @@
+EnterName { Wpisz imię... }
+Body { Ciało }
+Visual { Wygląd }
+Souvenir { Pamiątka }
+SaveMode { Tryb Gry }
+DefaultMode { Klasyczny }
+ImmersiveMode { IRONMAN }
+StoryMode { Odkrywca }
+SkipIntro { Pomiń Wstęp }
+Option_BodyType { Budowa }
+Option_SkinColor { Kolor Skóry }
+Option_Voice { Głos }
+Option_Hair { Fryzura }
+Option_HairColor { Kolor Włosów }
+Option_Deco { Ozdoby }
+Option_Beard { Broda }
+Option_BeardColor { Kolor Brody }
+Souvenir_Empty { Brak Pamiątki }
+Souvenir_Empty_Tooltip { Tylko ty i twoje umiejętności. Masz wszystko, czego potrzebujesz. }
+Souvenir_Alchemy { Leki }
+Souvenir_Alchemy_Tooltip { Jesteś dobrze przygotowany i zawsze nosisz ze sobą mały zapas leków. }
+Souvenir_Money { Sakiewka z Monetami }
+Souvenir_Money_Tooltip { Nigdy nie wychodzisz z domu bez swojej sakiewki. }
+Souvenir_Health { Pierścień Życia }
+Souvenir_Health_Tooltip { Ten pierścień jest nasycony Esencją Życia. Twoje zdrowie wzrasta. }
+Souvenir_Thief { Wytrych }
+Souvenir_Thief_Tooltip { Los sprzyja... no cóż, tym, którzy sami go kształtują. }
+Souvenir_Strength { Pierścień Siły }
+Souvenir_Strength_Tooltip { Cenisz sobie siłę fizyczną. Ten pierścień ci w tym pomoże. }
+GameMode_Normal_Tooltip { Zalecane ustawienie. Drova jest niebezpieczna. Uważaj, z kim zaczynasz! }
+GameMode_Immersive_Tooltip { Żyj ze swoimi decyzjami. Masz tylko jedno zapisane postępy, a gra zapisuje się automatycznie. }
+InvalidName { To imię jest niedostępne! }
+HardcoreMode { Hardkorowy }
+GameMode_Hardcore_Tooltip { Ostateczne wyzwanie. Masz tylko jedno życie i jedno zapisane postępy. }
+UseKeyboard { Wpisz swoje imię przy użyciu klawiatury! }
+GameMode_Story_Tooltip { Zadajesz większe obrażenia i możesz przyjąć więcej obrażeń. }
+Story_PopUp { Czy na pewno chcesz grać w trybie Odkrywcy w grze Drova?<br><br>Zadajesz więcej obrażeń i możesz wytrzymać więcej. Możesz dostosować wartości obrażeń w opcjach i swobodnie przełączać się między trybami Odkrywcy i Klasycznym.<br><br>Możesz zapisywać i ładować w dowolnym momencie. }
+Immersive_PopUp { Czy na pewno chcesz grać w trybie IRONMAN w grze Drova?<br><br>Masz tylko jedno zapisane postępy, a gra automatycznie zapisuje się regularnie po dialogach, walkach, postępach w zadaniach i ważnych decyzjach.<br><br>Nie możesz zmienić tego trybu po rozpoczęciu gry. }
+Hardcore_PopUp { Czy na pewno chcesz grać w trybie Hardkorowym w grze Drova?<br><br>Masz tylko jedno zapisane postępy, a gra zapisuje się automatycznie. Jeśli twoja postać zginie, twoje zapisane postępy zostaną usunięte.<br><br>Po rozpoczęciu gry nie możesz już zmienić tego trybu.<br><br>Ostateczne wyzwanie. Tylko najtwardsi wojownicy Drovy mogą opanować ten tryb. }
+SaveModePopUp_Title { Wybierz tryb zapisu }
+SaveModePopUp_Text_Default { W grze Drova masz kilka opcji zapisywania gry.<br><br>W trybie Klasycznym możesz zapisywać na różnych slotach w dowolnym momencie.<br><br>Jeśli wybierzesz tryb IRONMAN, masz tylko jedno zapisane postępy, a gra zapisuje się automatycznie. Ręczne zapisywanie nie jest dostępne w tym trybie. }

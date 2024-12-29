@@ -1,0 +1,15 @@
+title_splitstack { Podziel Przedmioty }
+popup_balanceMoney { Zapłać Monetami }
+popup_giveForFree { Czy na pewno nie chcesz niczego w zamian? }
+popup_valueAboveTrader { Wartość twoich towarów jest wyższa niż to, co oferuje handlarz. <br><br>Czy chcesz po prostu podarować mu różnicę, czy chcesz, aby wyrównał ją monetami? }
+popup_valueBelowTrader { Handlarz oczekuje rekompensaty w wysokości co najmniej $TRADEVAR:RightTableValue$ monet. }
+popup_generic { Czy chcesz sfinalizować transakcję? }
+title { Wymiana }
+Value { Wartość towarów }
+Trader { Handlarz }
+Spend { Podaruj }
+Exchange { Wymiana }
+ExchangeOnly { Tylko Wymiana }
+popup_valueAboveTrader_NoCurrency { Wartość twoich towarów jest wyższa niż to, co oferuje handlarz. <br><br>Czy chcesz po prostu podarować mu różnicę? }
+Comment_NoCoins { Nie akceptuję monet. }
+SellWholeStack { Dodaj/usuń stosy przedmiotów do wymiany. }

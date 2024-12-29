@@ -1,0 +1,120 @@
+Plh_269 { Co tu robisz całkiem sam? }
+Plh_270 { Jak to wygląda? Mieszkam tutaj. Nie mam zbyt wiele – po prostu sobie radzę. }
+Plh_310 { Samotne przetrwanie tutaj musi być trudne. }
+Plh_294 { Gdzie zdobyć jabłka? }
+Plh_271 { U Cengiza znikają jabłka — a masz ich całe mnóstwo. }
+Plh_311 { *unosi lekko brwi* Opowiedz mi o tym! Jakiś czas wcześniej chciałem pracować dla Cengiza, żeby mieć pewniejsze dochody. Ale nie chciał mi poświęcić czasu. Od tego czasu jestem tu sam. }
+Plh_314 { To brzmi naprawdę szorstko. }
+Plh_315 { Naprawdę i szczerze, nie wiem, jak tu przeżyjesz. }
+Plh_316 { To jest... }
+Plh_318 { W pewnym momencie znalazłem składowiska Cengiza. I zanim pozwoliłam sobie na śmierć z głodu, częstowałam się czymś od nich. }
+Plh_319 { Wolałbym związać koniec z końcem w inny sposób, ale muszę rozegrać karty, które dostałem! }
+Plh_317 { Uch. *odchrząkuje* }
+Plh_312 { *kropelki potu spływają mu po czole* To nie twoja sprawa! Ja je zbieram, a ty ich nie dostaniesz. Lepiej już wyjdź z mojej jaskini! }
+Plh_313 { Czy jestem odpowiedzialny za wszystko, co tu ginie? Odejdź. }
+Plh_146 { Co tu robisz? }
+Plh_147 { Ech, ja tu mieszkam? Jak to wygląda? }
+Plh_148 { Nie żeby ktoś tu mieszkał. }
+Plh_149 { Jak wygodne miejsce do spania. }
+Plh_150 { Czy zawsze odwiedzasz nieznajomych i mówisz im, że ich domy wyglądają okropnie? }
+Plh_151 { Zostaw mnie w spokoju. Nie masz tu żadnego interesu. }
+Plh_152 { Wiesz, co możesz zrobić ze swoimi żartami. }
+Plh_322 { Razem nam się udało i nigdy więcej nie chcę być sama. Te stworzenia by mnie zabiły. }
+Plh_321 { *oddycha ciężko* Żyję. żyję. }
+Plh_135 { *grzebie w magazynie i cię nie zauważa* }
+Plh_263 { Proszę bardzo. Jedźmy do Cengiza. }
+Plh_128 { Trochę za bardzo machałeś dziąsłami, co? *uśmiecha się szeroko* }
+Plh_172 { Ale nie mam zamiaru sprawiać ci kłopotu. }
+Plh_161 { Daj mi monety $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$, a wyniosę się stąd. To mi wystarczy, żeby związać koniec z końcem, więc oboje będziemy szczęśliwi. }
+Plh_159 { Dobrze. Weź je. (przekaż monety $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$) }
+Plh_160 { Zapomnij o tym. }
+Plh_162 { *liczy* Bardzo miło. Teraz jesteśmy w biznesie. *uśmiecha się* }
+Plh_173 { W porządku, więc już idę. }
+Plh_163 { Następnym razem przynieś wystarczającą ilość monet! Wiesz, nie tylko spadłem z wózka z rzepą. }
+Plh_164 { Cokolwiek chcesz. }
+Plh_153 { *pociera czoło* To naprawdę bolało. }
+Plh_154 { Wynoś się stąd natychmiast! W przeciwnym razie będziesz odczuwać coś więcej niż tylko ból. }
+Plh_155 { Ciesz się, że nie połamię ci wszystkich palców, złodzieju. }
+Plh_156 { W porządku, w porządku. idę. Ale jeśli skrzeczę gdzieś na pustyni, będziesz miał to na sumieniu! }
+Plh_188 { *szpera w magazynie* }
+Plh_232 { Wciąż pusty... }
+Plh_233 { Już pusto...? }
+Plh_234 { Może doły magazynowe nie byłyby tak puste, gdybyś nie pomagał sobie w nich. }
+Plh_235 { (klepnij go w ramię) }
+Plh_236 { Może nie byłbyś taki bezczelny, gdyby ktoś nauczył cię dobrych manier. }
+Plh_237 { *odtrąca twoją rękę* Nie dotykaj mnie! }
+Plh_239 { Zaufaj mi, kolego, nie chcesz się ze mną zadawać. Rozumiem? }
+Plh_87 { *zaskoczony* Nie masz po co tutaj być. }
+Plh_247 { Hm? }
+Plh_99 { Wyjechać. }
+Plh_90 { Co tu robisz? }
+Plh_92 { Jaka to twoja sprawa? Co TY tutaj robisz? Prześladujesz mnie? }
+Plh_93 { Zejdź mi z oczu, zanim twoja twarz wpadnie w moją pięść. }
+Plh_282 { Dziękuję, że nie doniosłeś na mnie Cengizowi. }
+Plh_283 { Tutaj możesz mieć mój pierścionek. To moje ostatnie wspomnienie z czasów, kiedy wszystko w moim życiu było inne. Ale chcę w końcu mieć to za sobą. }
+Plh_323 { Dbaj o to dobrze. Może przyniesie Ci szczęście. }
+Plh_126 { Wreszcie gdzieś należę i mogę pracować. *uśmiecha się przyjaźnie* }
+Plh_157 { Już idę. }
+Plh_125 { Dzięki tobie, teraz muszę się tu włóczyć. Ścierwo. }
+Plh_165 { Z twoim kapitałem startowym mogę zacząć od nowa }
+Plh_4 { *bawi się błyszczącym pierścionkiem w dłoni* Hm? Co to jest? }
+Plh_307 { Wynoś się już z mojej jaskini! }
+Plh_309 { Zgódźmy się dać sobie nawzajem spokój. Cóż za harmonia! *uśmiecha się* }
+Plh_284 { Czego ode mnie chcesz? }
+Plh_189 { Więc to TY kradniesz składowiska. }
+Plh_190 { (kopnij go w tył) }
+Plh_226 { A ty jesteś wrzodem na tyłku. Miło z tobą rozmawiać. }
+Plh_241 { Dlaczego nie spróbujesz uczciwej pracy? Cengiz nie oczekuje, że ktokolwiek będzie pracował za darmo. }
+Plh_181 { Dlaczego Cengiz miałby mnie przyjąć? Próbowałem jakiś czas temu, ale nie ma szans. Nie chciał mi poświęcać czasu. }
+Plh_108 { Po trzęsieniu ziemi część drwali uciekła. }
+Plh_182 { Przyszło mi do głowy, że w okolicy było mniej strażników... }
+Plh_228 { Czy jesteś szalony?! Co do cholery? }
+Plh_229 { Czy w końcu mnie wysłuchasz?! Zamiast kraść, możesz po prostu pracować DLA Cengiza. }
+Plh_230 { Jest tego więcej tam, skąd to się wzięło. (wyciągnij broń) }
+Plh_214 { Cengiz szukał ludzi. Nie masz pracy. Oboje moglibyście na tym zyskać. }
+Plh_243 { Myślę, że najlepiej będzie, jeśli sprawisz, że będziesz rzadki. (wyciągnij broń) }
+Plh_216 { Hm, nie wiedziałem, że Cengiz potrzebuje ludzi. To zmienia sytuację. }
+Plh_217 { Naprawdę myślisz, że by mnie przyjął? }
+Plh_218 { Mogę szerzyć o Tobie dobre słowo. }
+Plh_219 { Prawdopodobnie nie. Byłoby lepiej, gdybyś odszedł. }
+Plh_259 { Zrobiłbyś to? }
+Plh_292 { Jasne. W ciągu dnia czekaj na mnie na zewnątrz obozu. }
+Plh_281 { W porządku. W nocy będę spał w mojej jaskini, ale resztę dnia będę na ciebie czekać. }
+Plh_301 { Aha i jeszcze jedno. Pod żadnym pozorem nie mów mu, że okradłem składowiska! W przeciwnym razie nigdy mnie nie przyjmie. }
+Plh_302 { Możesz na mnie polegać. }
+Plh_303 { Nie mogę niczego obiecać. }
+Plh_304 { Doskonały! }
+Plh_262 { Mam nadzieję, że nie zostawisz mnie samej. Poczekam na ciebie na południe od obozu. W pobliżu skały nad rzeką. }
+Plh_305 { Hmph. Tyle myślałem. }
+Plh_260 { Gdzie mam iść? }
+Plh_194 { Złożę Ci propozycję: daj mi spokój, a w zamian zdradzę Ci sekret. W ten sposób oboje coś z tego zyskamy. }
+Plh_195 { Jaki sekret? }
+Plh_199 { Dobrze. Powiedz mi sekret. }
+Plh_196 { Zapomnij o tym. Upewnię się, że nie ukradniesz niczego więcej. (atak) }
+Plh_197 { *uśmiecha się szeroko* Z twojego wyglądu wynika, że ​​będziesz potrzebować sekretu. }
+Plh_200 { Najpierw obiecaj mi, że zostawisz mnie w spokoju. Inaczej nie możemy robić interesów. }
+Plh_201 { Obiecuję. }
+Plh_202 { Niczego ci nie obiecuję. }
+Plh_203 { Wiedziałem, że zrozumiesz powód. }
+Plh_207 { Cengiz trzyma tę skrzynię w swoim namiocie. Zawiera dodatkowe ubrania, które posiada. Coś takiego jest zawsze lepsze niż noszenie szmat, a poza tym sprzedaje się całkiem nieźle. }
+Plh_296 { Mam już ubrania Cengiza. Lepiej wymyśl coś innego. }
+Plh_208 { Będę udawać, że w ogóle cię nie widziałem. }
+Plh_256 { Dlaczego sam nie kupisz ubrania? }
+Plh_209 { Dziękuję za informację. Teraz zjedz kurz. (atak) }
+Plh_297 { Uch... Co? Masz już to? G-dobrze, dam ci monety $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$, abyś dał mi spokój. A co powiesz na to? }
+Plh_298 { Dobrze. Daj mi swoje pieniądze. }
+Plh_299 { Po prostu wezmę twoje pieniądze. (atak) }
+Plh_210 { *uśmiecha się* Idealnie! Ty rób swoje, a ja zrobię swoje. }
+Plh_211 { Ty brudny szczurze! }
+Plh_257 { Bo jest w tym samym namiocie, w którym śpi! Jeśli się obudzi i mnie tam zobaczy, zrobi ze mnie mięso mielone. I nie jestem najlepszy w skradaniu się. }
+Plh_204 { Chcesz poznać sekret czy nie? }
+Plh_205 { W porządku, obiecuję. }
+Plh_206 { Wiesz, co możesz zrobić ze swoim sekretem. (atak) }
+Plh_198 { NIE! Czekać! Ach! }
+Plh_183 { Uspokój się, uspokój się, nie chcemy eskalacji tu i teraz. }
+Plh_185 { Odłóż broń, zanim zrobisz sobie krzywdę. }
+Plh_224 { W porządku. Mogę cię zabrać do Cengiza. Może da ci pracę. (chować broń) }
+Plh_187 { Teraz posłuchaj mnie. Uwolnij się, albo zmiażdżę cię na miazgę. (skieruj na niego broń) }
+Plh_245 { *wydycha z ulgą* Cieszę się, że opamiętałeś się. }
+Plh_193 { *podnosi ręce i odwraca puste dłonie w twoją stronę* Wszyscy powinniśmy się teraz zrelaksować. }
+Plh_265 { Możesz więc poinformować Cengiza. Czekam tutaj. }

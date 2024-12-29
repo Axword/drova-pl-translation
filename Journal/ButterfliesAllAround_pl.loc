@@ -1,0 +1,5 @@
+Title { Pomoc w Świętym Gaju }
+Entry_01 { Kerr chce, żebym złapał $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ specjalnych motyli w Świętym Gaju. Podobno mogę je rozpoznać po ich unikalnych skrzydłach. }
+Entry_02 { Mam przy sobie wszystkie motyle. }
+Entry_03 { Kerr był zadowolony z mojej pomocy i dał mi nagrodę. }
+Entry_00 { Druid w Świętym Gaju potrzebuje pomocy. Święty Gaj znajduje się na północy Nemeton. Mogę się tam dostać, przechodząc przez most na wschód od magazynu. }

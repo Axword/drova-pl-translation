@@ -1,0 +1,135 @@
+Control { Sterowanie }
+GameMode { Tryb gry }
+default { Resetuj }
+save { Zapisz }
+dont_save { Nie zapisuj }
+cancel { Anuluj }
+keyfield_popup { Twoje przypisania zostały zmienione. Czy chcesz zapisać tę konfigurację? }
+keyfield_popup_conflict { Ta konfiguracja zawiera konflikty przypisań i nie może zostać zapisana. Czy chcesz kontynuować bez zapisywania? }
+world { Świat }
+category_dialog { Dialogi }
+category_music { Muzyka }
+category_guimenus { Menu GUI }
+category_shotcuts { Różne }
+Label_Volume_Master { Wszystko }
+Label_Volume_Sound { Efekty dźwiękowe }
+Label_Volume_Ambience { Dźwięki otoczenia }
+Label_Volume_UI { Interfejs użytkownika }
+Label_Volume_Music { Muzyka }
+Options { Opcje }
+gameplay { Rozgrywka }
+interface { Interfejs }
+video { Wideo }
+audio { Dźwięk }
+Zoom { Powiększenie }
+ShowPlayerHealth { Wyświetlaj pasek zdrowia gracza, pasek koncentracji i inne }
+ShowLootFeedback { Zawsze, gdy twoja postać coś podnosi, uczy się czegoś, staje się silniejsza lub robi postępy w zadaniu, dodatkowe informacje będą wyświetlane po prawej stronie ekranu. }
+ShowQuickbar { Wyświetlaj pasek szybkiego dostępu }
+ShowBuffs { Wyświetlaj symbole efektów statusu }
+ShowHealthVignette { Wyświetlaj winietę zdrowia }
+ShowOptions_Disclaimer { Włącz wszystkie zalecane ustawienia gry. }
+ShowDirectionFeedback { Pokaż wskaźnik kierunkowy }
+ShowHealthbars { Wyświetlaj paski zdrowia }
+ShowStaminaBar { Wyświetlaj pasek wytrzymałości i amunicji }
+Title_Gamepad { Kontroler }
+Title_KeyBinds { Sterowanie }
+Language { Język }
+Toggle_ShowHelp { Wyświetlaj samouczki }
+AutosaveInterval { Częstotliwość automatycznego zapisu }
+Toggle_PickUpsToQuickbar { Automatycznie przypisuj przedmioty do paska szybkiego wyboru }
+Toggle_PickUpsToQuickbar_Heal { Przedmioty leczące }
+Toggle_PickUpsToQuickbar_Traps { Pułapki }
+Toggle_AutoDrawWeapon { Automatycznie wyciągaj broń }
+Toggle_AutoEquipArrows { Automatycznie wyposażaj amunicję }
+Dropdown_Resolution { Rozdzielczość }
+Toggle_WindowMode { Tryb okna }
+Slider_FPS { Liczba klatek na sekundę }
+Title_Effects { Efekty }
+Slider_Screenshake { Intensywność wstrząsów ekranu }
+Slider_ParticleAmount { Cząsteczki }
+Toggle_DustParticles { Cząsteczki kurzu }
+Toggle_ShaderEffects { Efekty cieniowania }
+Toggle_WindEffects { Cząsteczki wiatru }
+Toggle_Vibration { Wibracje }
+Toggle_AutoAim { Automatyczne celowanie }
+State_Low { Niski }
+State_Medium { Średni }
+State_High { Wysoki }
+Vsync { V-Sync }
+Unlimited { Bez limitu }
+Title_Keyboard { Klawiatura }
+Option_Generic_Off { Wyłącz }
+Autosave_Min3 { 3 minuty }
+Autosave_Min5 { 5 minut }
+Autosave_Min10 { 10 minut }
+Title_FontAndDialog { Napisy i dialogi }
+Toggle_PickUpsToQuickbar_Food { Jedzenie }
+Toggle_PickUpsToQuickbar_Throwables { Rzucane przedmioty }
+Toggle_PickUpsToQuickbar_Torches { Pochodnie }
+Dropdown_FontSize { Rozmiar czcionki }
+Dropdown_DialogSpeed { Prędkość wyświetlania tekstu }
+FontSize_Small { Normalny }
+FontSize_Medium { Duży }
+FontSize_Big { Bardzo duży }
+DialogSpeed_Instant { Natychmiastowy }
+DialogSpeed_Fast { Szybki }
+DialogSpeed_Slow { Normalny }
+Toggle_GroundFog { Mgła przyziemna }
+Toggle_Rain { Deszcz }
+Toggle_Clouds { Chmury }
+Toggle_TextSounds { Dźwięki podczas wyświetlania tekstu }
+Toggle_NPCDialogSounds { Dźwięki postaci }
+Toggle_ShowCompleteHUD { Wyświetl pełny interfejs HUD }
+Toggle_CharacterFeedback { Wyświetlaj informacje zwrotne postaci }
+ShowDirectionFeedback_Enemies { Pokaż wskaźniki kierunkowe }
+ShowPoiseBar_Enemies { Wyświetl pasek pozycji przeciwnika }
+ShowMunition { Wyświetl amunicję }
+Toggle_SmartQuickbar { Pasek szybkiego wyboru }
+Toggle_ShowItemChanges { Wyświetlaj zdobyte/utracone przedmioty }
+Toggle_ShowDiaryChanges { Wyświetlaj aktualizacje dziennika }
+Toggle_ShowNewSpells { Wyświetlaj nowo nauczone zaklęcia, przepisy i talenty }
+Toggle_ShowCharacterImprovements { Wyświetlaj rozwój postaci }
+Toggle_ChangeSticks { Zamień drążki }
+Toggle_ChangeDirectionWithSticks { Zamień przyciski kierunkowe i standardowe przyciski akcji }
+Toggle_ChangeTriggers { Zamień zderzaki }
+Keybinding_Preset { Domyślnie }
+KeyPreset_LeftHanded { Leworęczny }
+Toggle_ScrollAbilities { Przełącz aktywną umiejętność za pomocą kółka myszy }
+Parent_BasicHudElements { Podstawowe elementy interfejsu HUD }
+Parent_CharacterFeedback { Informacje zwrotne dotyczące postaci }
+Title_ScreenHUD { Elementy interfejsu HUD w rogu ekranu }
+Title_PlayerHUD { Elementy interfejsu HUD przypisane do postaci gracza }
+Title_EnemyHUD { Elementy interfejsu HUD przypisane do postaci niezależnych }
+ShowNPCNames { Wyświetlaj imiona postaci }
+KeyPresent_Standard { Domyślnie }
+KeyPresent_Azerty { Azerty }
+Title_General { Ogólne }
+Description_SmartQuickbar { Zapamiętuje ostatni przedmiot przypisany do paska szybkiego wyboru i przypisuje go ponownie po zdobyciu tego samego przedmiotu. }
+Toggle_CameraMode { Wyrównaj kamerę do linii wzroku }
+Description_CameraMode { Kamera zawsze będzie się poruszać tam, gdzie wskazuje kursor. Jeśli ta opcja została wyłączona, kamera wyrówna się do kierunku ruchu. }
+Toggle_FilterSellItems { Oznacz przedmioty do sprzedaży jako śmieci automatycznie }
+Description_FilterSellItems { Oznaczaj nowe przedmioty jako śmieci do sprzedaży automatycznie, co powoduje, że przedmiot pojawia się w inwentarzu tylko wtedy, gdy wyświetlasz śmieci. }
+Dropdown_DisplayMode { Tryb ekranu }
+DisplayMode_Windowed { Tryb okna }
+DisplayMode_Borderless { Tryb okna bez obramowania }
+DisplayMode_Fullscreen { Pełny ekran }
+Zoom_Near { Blisko }
+Zoom_Far { Daleko }
+Toggle_PickUpsToQuickbar_Potions { Eliksiry }
+Description_AutoDrawWeapon { Postać automatycznie wyciąga broń, gdy robi unik lub używa zaklęcia. }
+Title_WeatherEffects { Efekty pogodowe }
+Toggle_WindMovements { Ruch wiatru }
+Toggle_Quickcast { Szybkie rzucanie }
+AutoDrawWeapon_CombatAbilitiesOnly { Tylko umiejętności ataku }
+Description_Quickcast { Po naciśnięciu jednego z klawiszy umiejętności, umiejętność zostanie przełączona i, o ile szybkie rzucanie jest włączone, użyta natychmiastowo. }
+Description_LookDirection { Podczas walki, strzałka przy stopach postaci wskazuje kierunek, w którym się znajduje. }
+Description_LookDIrection_NPCs {  Podczas walki strzałka u stóp postaci wskazuje kierunek, w którym jest zwrócona.  }
+popup_reset { Odrzuć }
+FontSize_Preview { Podgląd }
+MapMarker_Player_Toggle { Pokaż pozycję na mapie }
+PlayerDmgReceive { Obrażenia od wrogów }
+PlayerDmgOutput { Dodatkowe obrażenia gracza }
+Toggle_MiniGame { Dezaktywuj minigry }
+MouseLock { Ogranicz mysz do okna }
+UseAltFriendlyColor { Alternatywny kolor pasków zdrowia sojuszników }
+Toggle_ChallengeTimer { Pokaż licznik czasu gry }

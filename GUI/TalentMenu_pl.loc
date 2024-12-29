@@ -1,0 +1,17 @@
+Level { Poziom: }
+LearningPoints { Punkty Nauki: }
+Category_Sword { Miecz }
+Category_Unknown { ??? }
+Category_Spear { Włócznia }
+Category_Axe { Topór }
+Category_Daggers { Sztylety }
+Category_Bow { Łuk }
+Category_Crafting { Rzemiosło }
+Category_Hunting { Rzeczy }
+CombatStrength { Biegłość }
+Category_Slingshot { Proca }
+Category_Shield { Tarcza }
+requirement { Wymaganie: }
+Category_Preparation { Przygotowanie }
+Category_Mining { Górnictwo }
+fighting_strength { Biegłość }

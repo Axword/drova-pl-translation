@@ -1,0 +1,14 @@
+Title { Oddział Borisa }
+Entry_01 { Boris jest jednym z Ostrzy Jero i muszę zdobyć względy obu Ostrzy, jeśli chcę dołączyć do Ocalonych. Mówi się, że Boris ma mały domek na południe od karczmy Bernolda. }
+Entry_01A { Aby dołączyć do Borisa, muszę zdobyć przychylność dwóch osób z jego oddziału. Jednak nie chce mi powiedzieć, kto należy do jego oddziału. Muszę sam to rozgryźć. }
+Entry_03 { Boris złożył mi propozycję. Jeśli zapłacę $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ monet, nie będę musiał zdobywać niczyjej przychylności. }
+Entry_06 { Ester jest częścią oddziału Borisa. Jeśli jej pomogę, Boris się o tym dowie. }
+Entry_07 { Gera jest częścią oddziału Borisa. Jeśli mu pomogę, Boris się o tym dowie. }
+Entry_08 { Lindon jest częścią oddziału Borisa. Jeśli mu pomogę, Boris się o tym dowie. }
+Entry_10 { Dołączyłem już do frakcji. }
+Entry_11 { Lindon wstawi się za mną u Borisa. }
+Entry_12 { Gera zamierza powiedzieć Borisowi o mnie. }
+Entry_13 { Ester będzie śpiewać moje pochwały przed Borisem. }
+Entry_14 { Boris chce, żebym dołączył do jego oddziału. Mam zgłosić się do Kiliana, kiedy zdobędę głos Eugena i będę chciał dołączyć do Ocalonych. }
+Entry_FailedEster { Ester nie zagłosuje na mnie. }
+Entry_FailedLindon { Lindon nie zagłosuje na mnie. }

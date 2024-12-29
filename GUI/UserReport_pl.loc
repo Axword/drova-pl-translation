@@ -1,0 +1,14 @@
+Hud_Text {  }
+UserReport_Feedback { Opinie }
+UserReport_Bug { Błąd }
+UserReport_Feedback_Error { Coś poszło nie tak. Spróbuj ponownie. }
+UserReport_Feedback_Text { Dziękujemy za twoją opinię! }
+Close { Zamknij }
+Send { Wyślij }
+Text_Placeholder { Kliknij tutaj, aby wpisać swoją wiadomość. }
+Title_Placeholder { Temat }
+UserReport_Deadlock { Utknąłem }
+dsgvo_accept { Akceptuj }
+dsgvo_cancel { Odrzuć }
+DSGVO_Text { Korzystając z naszego narzędzia do opinii, wyrażasz zgodę na przetwarzanie poniższych danych. }
+DSGVO_Title { GDPR }

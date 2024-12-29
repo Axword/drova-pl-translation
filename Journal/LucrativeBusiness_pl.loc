@@ -1,0 +1,10 @@
+Entry_01A { Mam dostarczyć paczkę, którą zdobyłem od Afrina, do Borisa w obozie Ocalonych i wymienić ją na monety. }
+Entry_01B { Boris chce, żebym odebrał paczkę od Asmusa i przyniósł ją do niego. Obiecał mi za to kilka monet. }
+Entry_02 { Boris ma paczkę. Jeśli chcę zobaczyć jakieś monety, muszę sprzedać dla niego Rdzawe zielsko tam. }
+Entry_03 { Cóż, paczka została dostarczona, a monety są już w mojej kieszeni. Teraz muszę tylko wszystko zabrać do Asmusa. }
+Entry_04 { W drodze powrotnej zostałem napadnięty przez bandytów. Podobno szukali mnie, a wysłał ich Boris. Powinienem z nim porozmawiać. }
+Entry_05 { Sprzedałem Borisowi list za $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ monet. Teraz muszę tylko dotrzeć do Asmusa. }
+Entry_06 { Asmus wierzy w historię o napadzie, ale nie może nic z tym zrobić bez dowodów. Potrzebuje monet, a ja muszę zdobyć je w inny sposób. }
+Entry_07 { Dałem monety Asmusowi. W nagrodę oddał mi część monet. }
+Title { Lukratywny Interes }
+Entry_01C { Transakcja nie doszła do skutku. }

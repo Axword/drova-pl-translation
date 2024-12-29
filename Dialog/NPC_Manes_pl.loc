@@ -1,0 +1,85 @@
+Plh_177 { Jak działa rytuał? }
+Plh_178 { Hm. To skomplikowane. Ale mogę spróbować wyjaśnić to w prosty sposób. }
+Plh_179 { Naczynia runiczne emitują bardzo ograniczoną moc. W przeciwnym razie Boskość mogłaby się uwolnić. Bygones dokładnie wiedzieli, co robią... }
+Plh_180 { W porównaniu z tym, do czego zdolni jesteśmy my, ludzie, magiczna moc jest wciąż imponująca. Poza tym jest stały... i niewyczerpany. }
+Plh_181 { Dlatego podczas rytuału zbieramy magiczną moc Boskości, aż do momentu nasycenia nią srebra. Następnie za pomocą skomplikowanych run Boskość otrzymuje polecenie skierowania tej mocy w stronę bariery wokół Czerwonej Wieży. }
+Plh_182 { Ze smutkiem muszę przyznać, że nie doceniliśmy wytrzymałości bariery wokół Czerwonej Wieży. Potrzebujemy dużo więcej magicznej mocy... Mam nadzieję, że kryształ, który nam przyniosłeś, może w tym pomóc. }
+Plh_174 { Po co ci tyle srebra? }
+Plh_175 { Boska Moc może być skoncentrowana w srebrze. Wyobraź sobie ten świat jako ciało Boskości. Srebro stanowiłoby ich żyły, przez które moc płynie jak krew. }
+Plh_176 { Zatem potrzebujemy srebra, aby gromadzić i kierować mocą Boskości. }
+Plh_103 { Dlaczego tak bardzo chcesz stąd uciec? }
+Plh_104 { Nie widziałeś, co się stało z Pradawnym Lasem? }
+Plh_105 { Ja sam uchwyciłem Boskość! }
+Plh_106 { Tak. Wygląda na martwego. }
+Plh_107 { I odebrał magiczną moc Leśnej Pradawnej! }
+Plh_152 { Pierwotna Puszcza nie jest już chroniona i będzie nadal niszczeć. Bez magicznej mocy nie ma życia. Nigdzie. }
+Plh_156 { To dzieje się już od dłuższego czasu w całej Drova. Bygones zdołali utrzymać Deathfog na dystans. ale nie mogli ograniczyć życia. }
+Plh_186 { Boska moc powoli spływa z tego świata, kropla po kropli... }
+Plh_153 { Więc to moja wina, że ​​Pradawna Puszcza umiera? }
+Plh_154 { Czy postąpiłem słusznie? Albo nie? }
+Plh_155 { Zrobiłem to dla Ocalonych i zrobiłbym to jeszcze raz. }
+Plh_157 { Potrzebujemy Potężnego Dzika, aby dostać się do Czerwonej Wieży. Jedyne, co zrobiłeś, to spowodowanie, że stało się nieuniknione. }
+Plh_158 { Ale rozkład Drova jest nieodwracalny. Możemy użyć magii runicznej, aby się ocalić – aby zapewnić sobie lepsze życie. }
+Plh_110 { Dość rozpamiętywania przeszłości. Spójrzmy w przyszłość. }
+Plh_160 { Ale... }
+Plh_162 { Skończył się czas na wszelkie „jeśli”, „i” lub „ale”. }
+Plh_159 { Nigdy nie dostaniemy się do Czerwonej Wieży bez Potężnego Dzika. Jesteśmy coraz bliżej celu... }
+Plh_108 { Martwy? }
+Plh_151 { Stracił całą swoją magiczną moc. }
+Plh_7 { Co wiesz o Bygone? }
+Plh_5 { Dawni żyli w Drova przed nami. Wymyślili, jak stworzyć magię runiczną, wykorzystując moc Bóstw. }
+Plh_163 { Przez cały czas robiliśmy to, co według nas będzie służyć Bóstwom. Podporządkowaliśmy się temu, co uważaliśmy za ich wolę. }
+Plh_164 { To już koniec. Bygones uwolnili się od Bóstw. }
+Plh_165 { Co więcej... słudzy stali się władcami. Władcy nad Bóstwami. Władcy nad Drową. }
+Plh_166 { Teraz posiadamy moc Bóstw i zamierzamy wykorzystać wolność, której szukamy. }
+Plh_8 { Co możesz mi powiedzieć o Czerwonej Wieży? }
+Plh_9 { Z Czerwonej Wieży Bygones wędrowali między światami. Nie byli przywiązani do jednego miejsca. Mogli iść, gdzie im się podobało. }
+Plh_167 { Prowadzili listy wszystkich rzeczy, które przewozili z najdalszych zakątków Drova do innych światów. }
+Plh_168 { W pewnym momencie to zapieczętowali. Nie do końca wiemy dlaczego. }
+Plh_169 { Tak wiele kwestii dotyczących Bygones wciąż pozostaje bez odpowiedzi. Odpowiedzi można znaleźć tylko w Czerwonej Wieży. }
+Plh_6 { Ach, nowicjusz. Pozdrowienia! Nazywam się Manes, arcymag Ocalonych. }
+Plh_84 { Co tu robisz? }
+Plh_171 { Dlaczego nie pomagasz innym druidom? }
+Plh_83 { Przygotowujemy rytuał, dzięki któremu zniszczymy barierę otaczającą Czerwoną Wieżę. }
+Plh_86 { *rozgląda się po okolicy i mamrocze* srebro powinno wystarczyć, naczynie z runami będzie wkrótce dostępne, runy na ziemi nabierają kształtu... }
+Plh_172 { *patrzy na ciebie* Zaraz zaczniemy. }
+Plh_173 { Opracowałem rytuał, który pozwoli nam dostać się do Czerwonej Wieży. Teraz muszę tylko dopilnować, żeby nie było żadnych błędów. }
+Plh_140 { $GVAR:EVars_Player.Name$! Jesteśmy teraz zajęci srebrem. Musimy się upewnić, że rytuał zadziała przy następnej próbie. Czy udało ci się zlokalizować Boski Kryształ? }
+Plh_12 { Mam kryształ z miasta w Pradawnej Lesie. }
+Plh_185 { Wspaniale... Nasza wolność jest w zasięgu ręki. }
+Plh_141 { Przyszedł Levin. Ale Nemeton zaatakował go. Zauważyli, że oczyszczamy dół. Czas ucieka... }
+Plh_142 { Wszyscy Kopacze są zajęci wydobywaniem srebra. Nie mogą jechać szybciej — już pracują do szpiku kości! }
+Plh_143 { $GVAR:EVars_Player.Name$, musimy nasycić Boskie Kryształy magiczną mocą Boskości. Idź do Eugena. Prowadzi wyprawę na Czerwone Wrzosowiska i już powinien tam być — mam nadzieję… }
+Plh_144 { Wyprawa udała się na wschód od Obozu Drwali, przez Georgefarm. Na szczęście w międzyczasie most został naprawiony... }
+Plh_145 { Chcieli się tam spotkać z Elgarem, aby omówić sytuację. W zamian za kilka monet miał nam przekazać informacje na temat Czerwonego Wrzosowiska. Idź tam. Będzie mógł wskazać ci drogę. }
+Plh_146 { Oto Boskie Kryształy. Zabierz ich do Czerwonych Wrzosowisk i strzeż ich za cenę życia. }
+Plh_148 { Zrobię to. }
+Plh_147 { Znajdź Eugena, nasyć Boskie Kryształy magiczną mocą, a następnie przynieś je nam. I pospiesz się, zanim będzie za późno... }
+Plh_114 { Jeśli Nemeton nas zaatakuje, wszystko będzie stracone. Nie mamy murów obronnych, żadnej obrony. Powinniśmy ich zaatakować PIERWSZYCH. Tak szybko jak to możliwe! }
+Plh_115 { Manes, oczywiście, chcemy uciec z tego świata, ale nie uda nam się to, jeśli nabijemy się na miecze wroga! }
+Plh_13 { Mam kryształ z Lasu Zalewowego. }
+Plh_116 { *dotyka kryształu* Niewiarygodne! Wciąż czuję jakąś magiczną moc, która w nim drzemie. Jero, będzie działać! Teraz potrzebujemy tylko ostatniego kryształu. }
+Plh_117 { ... i wyprawa na Czerwone Wrzosowiska, aby nasycić je boską mocą. Czas ucieka. }
+Plh_183 { Robotnicy z Pradawnej Puszczy już wrócili. Ścieżka jest wolna do ruin na zachodzie. }
+Plh_118 { Tutaj także musimy kontynuować przygotowania – bez zwłoki! }
+Plh_119 { Nemetonowie nie mają zamiaru zostawiać nas samych – nie mamy wyboru. }
+Plh_120 { Kilian, idź do Levina. Powiedz mu, żeby opuścił Otchłań i TERAZ przyniósł tu srebro. }
+Plh_121 { Musimy coś zrobić! }
+Plh_113 { $GVAR:EVars_Player.Name$, oddałeś nam cenną przysługę. I mam nadzieję, że tak będzie dalej… }
+Plh_123 { Oczywiście. }
+Plh_124 { Przyniosłem ci drugi Boski Kryształ! }
+Plh_126 { Drugi Boski Kryształ musi znajdować się w ruinach na zachód stąd. Nikt nie zna tego miejsca. Ścieżka do niego była zasypana gruzami, a Czarny Płomień płonął tam wyjątkowo jasno. }
+Plh_128 { Z ich pism wiemy, że musi tam znajdować się świątynia Luny. Często opisywano go jako klejnot ich wiary. }
+Plh_184 { Kilku Kopaczów oczyściło drogę i Kilian meldował, że są gotowi. Twoje zadanie jest jasne — potrzebujemy trzeciego Boskiego Kryształu. }
+Plh_129 { W międzyczasie wyślę wyprawę zwiadowczą na Czerwone Wrzosowiska. Jest głęboki i zaczyna się daleko na południowy wschód od Nemetonu. Czerwone Wrzosowiska to jedno z najniebezpieczniejszych miejsc w Drova... Wrzosowisko śmierci. }
+Plh_130 { Za mojego pobytu w Nemeton nikt nie odważył się tam pójść... Ale pismo z Biblioteki było jednoznaczne. To tam musi znajdować się konstrukt Bygone'ów. }
+Plh_189 { Wyślę najlepszych ludzi, żeby utorowali drogę. Twoim zadaniem jest zdobycie Boskiego Kryształu. }
+Plh_131 { A co jeśli Nemeton nas zaatakuje? }
+Plh_132 { Tak, przyniosę kryształ. }
+Plh_134 { Pozyskam posiłki z Otchłani. Muszą zobaczyć, że nie jesteśmy bezbronni. To zmusi ich do ponownego przemyślenia. A jeśli odważą się zaatakować, pożałują tego. }
+Plh_135 { Znam moją siostrę. Nie poświęci swoich wojowników. Wiem, jak ona myśli i musimy to wykorzystać. }
+Plh_136 { *sięga za głowę i odpina łańcuch* }
+Plh_170 { Ten naszyjnik należał do mojego ojca. Był założycielem Nemetonu. Wszyscy moi bracia i siostry otrzymali taki naszyjnik. Teraz to nosisz. }
+Plh_137 { Mój ojciec byłby zadowolony, gdyby nosił go teraz człowiek, który może nas wyprowadzić z Drova. }
+Plh_138 { Pozwól mi zająć się obroną. O wolność! }
+Plh_125 { *uśmiecha się* I bez wahania! }

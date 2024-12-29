@@ -1,0 +1,3 @@
+Title { Drewno chroni przed Skrzydłoszponami }
+Entry_01 { Harald znalazł kopalnię srebra, ale boi się Skrzydłoszponów w jej pobliżu. Jeśli przyniosę mu $GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$ sztuk drewna, pozwoli mi wydobywać tyle srebra, ile chcę. Mówi, że drewno można znaleźć we wrakach statków. }
+Entry_02 { Mam pozwolenie na wejście do Wyrobiska. }

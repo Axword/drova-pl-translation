@@ -1,0 +1,69 @@
+back { (Z powrotem) }
+end_dialog { (zakończ rozmowę) }
+End_(End) { (zakończ rozmowę) }
+Silence { (nic nie mów) }
+Leave { (Zostaw) }
+NotEnoughMoney { Te monety nie wystarczą. Wróć, gdy będziesz miał dość. }
+NotEnoughMoney1 { Kilka takich monet nie wystarczy. Wróć, gdy będziesz miał dość. }
+NotEnoughMoney2 { Nie próbuj mnie oszukać. Te monety nie wystarczą. }
+aboutQuests { O questach... }
+aboutOtherQuests { Pomoc w zadaniu... }
+end { Muszę iść. (zakończ rozmowę) }
+Teach_SpearSling { Czy możesz mi pokazać, jak mogę lepiej walczyć, używając włóczni i procy? }
+End_WirSehenUns { Do zobaczenia. }
+BloodSteel { Krew i żelazo! }
+End_VergissEs { Zapomnij o tym. }
+End_KeineZeit { Nie mam na to czasu. }
+Inf_DaWarNochWas { Było coś jeszcze... }
+SLP_GoaWay { Odejdź. }
+Busy_NotNow { Nie teraz. }
+End_MussLos { Muszę iść. (zakończ rozmowę) }
+aboutGenericTopics { Chciałbym porozmawiać o czymś innym. }
+Teach_Smith { Naucz mnie czegoś o swoim rzemiośle. }
+showMeWares { Pokaż mi swoje towary. }
+Inf_IchSchauMichUm { Po prostu się rozglądam. }
+Inf_HabeFrage { mam pytanie... }
+ShowMeSkills { Chciałbym zdobyć nowe umiejętności. }
+Teach_Sword_! { Naucz mnie lepiej walczyć mieczem. }
+Teach_Dagger_! { Naucz mnie lepiej walczyć sztyletem. }
+End_IchGehDannMal { W takim razie pójdę. }
+End_VlltSpäter { Może później. }
+Acc_KuemmereMichDrum { Zajmę się tym. }
+Teach_Animals { Czy możesz mi pokazać, jak patroszyć zwierzęta? }
+Teach_General { Naucz mnie czegoś. }
+Acc_HelfeDir { OK, pomogę ci. }
+End_ÜberlegeNoch { Wciąż o tym myślę. }
+Teach_Dagger { Czy możesz mnie nauczyć jak walczyć sztyletem? }
+Armor? { Czy da się coś zrobić z tymi fragmentami zbroi? }
+Armor { Mam te trzy elementy zbroi. Czy można z nich zrobić kompletną zbroję? }
+ArmorLight { Najlżejszy z możliwych, taki, w którym mogę z łatwością manewrować. }
+ArmorHeavy { Taki, który zapewnia maksymalną ochronę. }
+ArmorDruid { Pancerz z wieloma runami. }
+End_AnderesZuTun { Mam coś innego do zrobienia. }
+LetsTraining { Gotowy na bitwę? }
+LetsRevance { Gotowy na rewanż? }
+NoTime_TrainingTime { Kiedy słońce będzie wysoko na niebie, będę na poligonie. Wtedy możemy walczyć. }
+Inf_WasMachstDuHier { Co tu robisz? }
+SLP_Dunkel { Wróć, gdy słońce będzie wysoko na niebie nad Drovą! }
+Run_IchBinNochDabei { Nadal nad tym jestem... }
+SLP_Müde { Mógłbym spać bez przerwy przez całe trzy dni i noce... ale jest za dużo do zrobienia. ZAWSZE jest za dużo do zrobienia... }
+Teach_Training { Trenuj ze mną. }
+LetsTraining_fromMorvin { Proximus powiedział, że powinniśmy trenować. }
+Inf_Crimes { O moich występkach... }
+FightingArena { Dziś oboje będziemy walczyć na arenie. }
+Teach_Mind { Pokaż mi, jak lepiej budować moją magiczną moc. }
+Teach_SpearSling_! { Naucz mnie lepiej walczyć włócznią i procą. }
+Teach_Axe_! { Naucz mnie lepiej walczyć toporem. }
+SLP_Zeit { *ziewa* Nie teraz... }
+Acc_BinDabei { jestem za! }
+Teach_Power { Pokaż mi jak poprawić swoją siłę. }
+End_NichtsZuTun { Nie chcę mieć z tym nic wspólnego. }
+Teach_Sword { Czy możesz mnie nauczyć walki mieczem? }
+Teach_Lockpicking { Naucz mnie otwierania zamków. }
+MeldDichBeiMir { Zgłoś się do mnie. }
+HereIsMyMoney { Oto monety. }
+PlayerSaysTheyDontHaveMoney { Nie mam dość monet... }
+PlayCatch { Chcesz się pobawić w berka? }
+OnlyNemetonTeaching { Będę tylko nauczycielem wojowników Nemetonu. }
+Teach_Axe { Czy możesz mi pokazać, jak skuteczniej walczyć toporem? }
+HaveRostmoos { Mam ze sobą Rdzawe zielsko. Potrzebujesz trochę? }

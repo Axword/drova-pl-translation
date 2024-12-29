@@ -1,0 +1,10 @@
+Entry_01 { Ktoś ukradł paczkę od Asmusa i mam ją odzyskać. Nie ma pojęcia, kto mógł ją zabrać. Powinienem zapytać wokół w jego imieniu. }
+Entry_02 { Afrin przyznał, że wie, gdzie jest paczka. Ale nie chce mi tego powiedzieć. Muszę sam to rozgryźć. }
+Entry_03A { Przekonałem Afrina, żeby porozmawiał z Asmusem. Powiedział mi, że paczka jest w sadzie jabłkowym, obok drzewa przy stosie drewna. Potem mam się z nim zobaczyć. }
+Entry_03B { Czasami pięści mówią głośniej niż słowa. Paczka została zakopana w sadzie jabłkowym, obok drzewa przy stosie drewna. }
+Entry_03C { Afrin zaoferował, że po prostu kupi paczkę ode mnie. }
+Entry_03D { Kupiłem wskazówkę od Afrina. Paczka została zakopana w sadzie jabłkowym, obok drzewa przy stosie drewna. }
+Entry_04 { Paczka jest w końcu w moich rękach. Teraz muszę ją tylko zanieść z powrotem do Asmusa. }
+Entry_05 { Asmus odzyskał swoją paczkę, a ja zostałem odpowiednio wynagrodzony. }
+Title { Skradziona paczka }
+Entry_06 { Sprawa została rozwiązana. }

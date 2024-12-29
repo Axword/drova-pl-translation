@@ -1,0 +1,8 @@
+Title { Mroczna Dzielnica }
+Entry_01 { Boris chce, żebym zdobył $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ monet od Leyny. Dał mi klucz do Mrocznej Dzielnicy. Gdzieś we wschodniej części obozu Ocalonych powinno znajdować się ukryte wejście. }
+Entry_02 { Po rozmowie z Borisem, Gera mnie przechwyciła, aby upomnieć się o swoją przysługę. Mam podrzucić wcześniej ścięte Rdzawe zielsko Leynie, a potem donieść na nią Borisowi. }
+Entry_03 { Leyna dała mi $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ monet. Powinienem powiedzieć o tym Borisowi. }
+Entry_04 { Powiedziałem Leynie prawdę o planie Gery. Była bardzo wdzięczna. }
+Entry_05 { Oddałem Borisowi monety i doniosłem na Leynę. Teraz już nic nie jestem winny Gerze. }
+Entry_06 { Oddałem Borisowi wszystkie monety od Leyny. }
+Entry_05A { Rdzawe zielsko jest teraz w skrzyni Leyny. Teraz muszę tylko dotrzeć do Borisa. }

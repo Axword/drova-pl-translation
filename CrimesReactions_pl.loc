@@ -1,0 +1,140 @@
+WakingUp { Czego chcesz? Próbuję tu spać. }
+WakingUp_End { W końcu mogę wrócić do snu. }
+SuspiciousPlace { Hej! Nie masz tu nic do roboty! }
+SuspiciousPlace_OnEnd { Tak, trzymaj się z dala od tego miejsca! }
+Plh_52 { Zrób to jeszcze raz, a nie będę taki miły. }
+BrawlEndWinner { Lepiej uważaj, z kim zadzierasz. }
+Plh_51 { Mam nadzieję, że to cię czegoś nauczyło! }
+Plh_142 { Kim ty myślisz, że jesteś? }
+Plh_157 { Monety! Teraz są moje... }
+Plh_159 { Co za słabeusz... }
+Plh_160 { Musisz się postarać o wiele bardziej niż to. }
+Plh_161 { Nigdy więcej tego nie próbuj! }
+Plh_166 { Dobranoc. }
+Plh_167 { To było celne! }
+Plh_168 { To wszystko na co się stać?? }
+Plh_169 { To było śmieszne. }
+Plh_170 { Żałosny pokaz. }
+Plh_171 { Kto przewraca się po czymś takim? }
+Plh_124 { Hej, spokojnie. Nie chcę żadnych problemów. }
+Plh_62 { Nie waż się odejść! }
+BrawlBeforeFlee { Zostań tutaj i staw czoła! }
+Plh_50 { Tchórz! Przestań uciekać! }
+Plh_143 { Hmm. Czy ktoś ma zimne nogi? }
+Plh_144 { Nie skończyliśmy jeszcze! }
+Plh_155 { Stój tam, łotrze! }
+Plh_156 { Tak, lepiej uciekaj! }
+Plh_158 { Uciekaj, tchórzu! }
+Plh_162 { Tak, po prostu biegnij! }
+Plh_163 { Poczekaj, aż dorwę cię w swoje ręce...! }
+BlockingWay_01 { Zrób miejsce, muszę przejść! }
+BlockingWay_02 { Rusz się już! }
+BlockingWay_03 { Wynoś się stąd, albo walnę cię w nos! }
+HoldingWeapon_01 { Schowaj tę broń! }
+HoldingWeapon_02 { Schowaj tę cholerną broń! }
+HoldingWeapon_03 { Jesteś głuchy?! Opuść broń! }
+Noise_01 { ... co się tutaj dzieje? }
+Noise_02 { Cicho, do diabła! Chcę spać! }
+Noise_03 { Zamknij się już, albo będą kłopoty! }
+StandingInWay_01 { Zróbcie przejście! }
+StandingInWay_02 { Z drogi! }
+StandingInWay_03 { Zjeżdżaj, bo pożałujesz! }
+Stealing { Oddaj to natychmiast! }
+Plh_129 { Weź to, nie chcę żadnych kłopotów. }
+Trespassing_01 { Hej! Po co się tu skradasz? }
+Trespassing_02 { Nie masz tu nic do roboty. Zmiataj! }
+Trespassing_03 { Jeśli zaraz nie odejdziesz, naprawdę tego pożałujesz! }
+Lockpicking { Zabierz swoje brudne łapska od moich rzeczy! }
+Plh_145 { CIESZYSZ SIĘ Z TEGO?! }
+Plh_133 { CZY NIE JESTEM DLA CIEBIE ROZRYWKĄ?! }
+Plh_146 { Nikt mnie nie dosięgnie. }
+Plh_132 { Spójrz na mnie! Kto chce być następny?! }
+Plh_131 { Dobrze walczyłeś! Zdecydowanie jestem gotów na to jeszcze raz! }
+Plh_138 { Następnym razem możesz spróbować trochę mocniej. }
+Plh_130 { I kolejne zwycięstwo dla legendy. }
+Plh_137 { Kto następny?! }
+Plh_135 { To naprawdę wszystko, co masz? }
+Plh_73 { Może lepiej zostań Drwalem. }
+Plh_134 { Kolejne zwycięstwo dla przyszłego mistrza! }
+Plh_136 { Kiedy zmierzę się z prawdziwymi wojownikami?! }
+Plh_147 { Bez obrazy, ale to naprawdę nie wystarczyło. }
+Plh_148 { Postaraj się bardziej, przegrywie. }
+Plh_149 { Kontynuuj w ten sposób, a nigdy nie dojdziesz na szczyt. }
+Plh_74 { Naprzód! }
+Plh_139 { Pokaż mi, co masz. }
+Plh_140 { Zmiażdżę cię! }
+Plh_141 { Nie odpuszczaj! }
+Plh_150 { Czyny mówią teraz głośniej niż słowa. }
+Plh_151 { Zjedz kurz! }
+Plh_152 { Teraz twoja kolej! }
+Plh_153 { Wkrótce tego pożałujesz. }
+Plh_154 { Jesteś mój! }
+Plh_172 { Czas, by ta sztuka ruszyła na dobre. }
+Plh_173 { Ha, to będzie zabawa. }
+Plh_174 { Czas na kłopoty! }
+Plh_175 { Najpierw cios, potem gadka! }
+Plh_88 { Najpierw złap jedzenie. Będzie ci potrzebne. }
+Plh_89 { Ach, nowa twarz, widzę. Jestem Haron i dbam o to, żebyście wszyscy przykładali się do pracy. Ty — zobaczmy, jesteś w północnym tunelu. Ruszaj się! }
+Plh_92 { Rób sobie przerwy, kiedy możesz, bo jutro znów będziemy przy robocie. }
+Plh_90 { **No i co? Trochę ciężkiej pracy jeszcze nikogo nie zabiło, prawda? mruga ** }
+Plh_114 { Racja. }
+Plh_115 { Hmpf. }
+Plh_116 { Kontynuujemy jutro. }
+Plh_86 { Widzę gruz nawet stąd. Jak mamy się przez to przedostać? Wyczyść przejście, a wtedy cię puszczę. }
+Plh_87 { Mój instynkt mówi mi, że nie osiągnąłeś dzisiejszej kwoty rozbijania skał. }
+Plh_93 { Naprzód, naprzód. Wyczyść północny tunel już teraz! }
+Plh_117 { Nie możesz się doczekać? }
+Plh_118 { Rozbijanie skał! Hurra! }
+Plh_119 { Czy mogę rozbić coś innego? }
+Plh_120 { Haha, zabawne. Ale teraz wracaj do roboty. Do tunelu. Zaczynaj. }
+Plh_121 { ** uśmiecha się do ciebie z zadowoleniem ** }
+Plh_94 { Twoja zmiana jeszcze się nie skończyła. }
+Plh_105 { Huh, dziś nie masz roboty przy skałach. Idź pomóż Brunie. }
+Plh_107 { Najedz się do syta, a robota będzie pestką. Dobra robota. Zdobądź jedzenie: Dziś przebić się musimy! }
+Plh_109 { Idź prosto na wschód, potem w górę. Dajmy z siebie wszystko — koniec jest bliski! }
+Plh_96 { Co znalazłeś? Pokaż mi! }
+Plh_100 { Tutaj. (pokaż) }
+Plh_101 { Wciąż mam za mało. }
+Plh_103 { To wystarczy... }
+Plh_104 { Nie masz tu nic do roboty. }
+Plh_110 { Wracaj do pracy, albo będą kłopoty. }
+Plh_113 { Powinieneś pomagać tam. }
+Plh_82 { Hej, nie masz tam nic do roboty. Odsuń się! }
+Plh_84 { Mówiłem ci... Zjeżdżaj! }
+Plh_85 { Jedyne, co do ciebie dociera, to solidne lanie! }
+Plh_64 { To nie twoja kolej, by walczyć. }
+Plh_13 { Zjeżdżaj. }
+Plh_69 { Znikaj mi z oczu, szumowino z Nemetonu! }
+Plh_63 { Jeśli chcesz wejść do Wyrobiska, zgłoś się do Levina. }
+Plh_122 { Zgłoś się do Lothara z twoją notatką, jeśli chcesz wejść do Wyrobiska! }
+Plh_70 { Dla Jero! }
+Plh_71 { Levin kazał mi nie wpuszczać więcej wojowników do Wyrobiska. Jeśli szukasz pracy, zgłoś się do Ostrza Jero, które za ciebie odpowiada. }
+Plh_48 { Zmiataj. Nie masz interesu z druidami. }
+Plh_23 { Możesz wejść tu tylko podczas Festiwalu Ognia. }
+Plh_22 { Czekają na ciebie podczas Festiwalu Ognia. }
+Plh_75 { Pozostali nie mają tu miejsca! }
+Plh_189 { Hej, ty! Dokąd myślisz, że idziesz? }
+Plh_192 { Schowaj swoje srebro. }
+Plh_76 { Pozostali nie mają wstępu do Nemetonu! }
+Plh_49 { Tylko kilku wybranych Drwali ma tu wstęp. }
+Plh_65 { Ale Boris za mną ręczy. Powiedział, że powinienem zgłosić się do Kiliana. }
+Plh_66 { Nie obchodzi mnie to. Dopóki Levin nie powie, że możesz tu wejść, nie masz tu po co przychodzić. }
+Plh_68 { Uciekaj do Nemetonu. Wy niepasujące tu świry nie macie tu wstępu. }
+Plh_191 { Tylko kilku wybranych wśród Drwali ma tu wstęp. I tylko Levin decyduje. }
+Plh_3 { To jest fałsz! }
+Plh_165 { Ten brzęk jest nie do zniesienia... }
+Plh_176 { Moje uszy krwawią... }
+Plh_177 { Musisz więcej poćwiczyć... }
+Plh_178 { Każdy mógłby zagrać tak źle... }
+Plh_179 { Mógłbyś też UDERZYĆ w dobry ton od czasu do czasu... }
+Plh_2 { To brzmi nieźle. }
+Plh_180 { Ładna melodia... }
+Plh_181 { Powinieneś zbierać za to monety. }
+Plh_182 { Mógłbym słuchać cały dzień. }
+Plh_183 { Proszę, graj dalej. }
+Plh_184 { Dawno nie słyszałem czegoś tak pięknego. }
+Plh_4 { To dla ciebie! }
+Plh_185 { Proszę, zasłużyłeś na to. }
+Plh_186 { To warte kilka monet ode mnie. }
+Plh_187 { Dla ciebie. Naprawdę potrafisz grać. }
+Plh_188 { To było — niesamowite. }

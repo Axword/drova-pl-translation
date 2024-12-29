@@ -1,0 +1,59 @@
+Plh_168 { Pokażesz mi jak zrobić piwo jajeczne? Wydaje się, że twoim ludziom się to podoba. }
+Plh_3 { (zakończ rozmowę) }
+Plh_169 { Oczywiście! Jesteś jednym z nas. }
+Plh_170 { Właściwie to całkiem proste. Wszystkie składniki wrzucamy do garnka, następnie doprowadzamy do wrzenia. Wtedy piwo jajeczne jest gotowe. Znasz już składniki. *uśmiecha się* }
+Plh_164 { To sekretny przepis mojej babci. Jeśli kiedykolwiek do nas dołączysz, być może ci powiem. }
+Plh_127 { Prace przy palisadzie zostały zakończone w samą porę! Teraz możemy odpocząć. }
+Plh_155 { Poczekaj tutaj. }
+Plh_156 { Tylko sekundę. }
+Plh_4 { Spadaj. Jestem zajęty. Praca przy palisadach nie będzie się sama nadzorować. }
+Plh_8 { Czy wiesz coś o dostawach skradzionej broni? }
+Plh_31 { Jestem tu nowy. szukam pracy. }
+Plh_9 { A co jeśli to zrobię? }
+Plh_138 { W takim razie chętnie o tym usłyszę. }
+Plh_177 { A co to ma wspólnego z tobą? Nie jesteś nawet jednym z nas. }
+Plh_178 { Chcę dojść do sedna sprawy, żeby udowodnić Angusowi swoją wartość. }
+Plh_179 { Chcę dojść do sedna sprawy, żeby móc do ciebie dołączyć. }
+Plh_180 { Hm. Z pewnością uznałby to za dobrą rzecz. }
+Plh_182 { Dobra, dostaniesz swoją szansę. }
+Plh_140 { Wiem, że moi pracownicy zajęli się ostatnią dostawą dla Chunnaic. Ale jeśli mam ci pomóc, to ty pomożesz mi pierwszy. }
+Plh_172 { Jestem tutaj mistrzem drewna. Jeden z trzech mistrzów rzemiosła w Nemeton. }
+Plh_167 { Moi pracownicy pilnie potrzebują piwa jajecznego — w przeciwnym razie morale spadnie do dna. Czy można zaparzyć jakieś? }
+Plh_173 { NIE. }
+Plh_174 { Uhh... jasne. }
+Plh_176 { Myślałem... }
+Plh_153 { Utrzymaj tutaj fort i poczekaj, aż wrócę. Jeśli ktoś czegoś chce, proszę powiedzieć, że zaraz wrócę. }
+Plh_154 { Lepiej nie odchodź! W takim razie nic ci nie powiem, rozumiesz? }
+Plh_175 { Nie jesteś szczególnie dobrym kłamcą. }
+Plh_181 { Wielu z tych, którzy siedzą przed Nemeton, chce właśnie tego. }
+Plh_32 { Nie mam żadnego. Spróbuj wojowników przy Zachodniej Bramie. Zawsze szukają nowych rąk. }
+Plh_157 { Gdzie, na Boga, byłeś? Czy nie mówiłem ci, że powinieneś tu zostać? }
+Plh_158 { Karotte potrzebował pomocy przy kamieniu granicznym... }
+Plh_159 { Hmm... cóż... }
+Plh_160 { Nie obchodziło mnie Karotte! }
+Plh_162 { Powinieneś tu poczekać. Nic więcej. Jeśli nie możesz sobie poradzić nawet z tym, co z ciebie dobrego? }
+Plh_166 { W takim razie nie mamy już o czym rozmawiać w sprawie dostaw broni! Pokonaj to! }
+Plh_161 { Precz z tym! }
+Plh_163 { wróciłem. Piwo jajeczne jest gotowe i zapewni moim chłopakom niezły zastrzyk energii. }
+Plh_165 { O transporcie broni... }
+Plh_137 { Ach tak, ta historia... }
+Plh_183 { Nie chcę tego mówić, ale to będzie jeden z moich chłopców. }
+Plh_141 { Chunnaic chciał, żeby jeden z nich dostarczył przesyłkę do magazynu Fii. Rzemieślnicy byli zajęci. }
+Plh_142 { Kto dokładnie? }
+Plh_144 { Hm. Nie wiem. }
+Plh_146 { I myślisz, że masz tu wszystko pod kontrolą, nawet jeśli nawet o tym nie wiesz? }
+Plh_147 { Kim dokładnie są Twoi pracownicy? }
+Plh_148 { To idź sam z nimi porozmawiaj... }
+Plh_150 { Aiko, Kellan i Mumme. Po prostu idź wzdłuż palisad tutaj, przy Wschodniej Bramie, a powinieneś je łatwo znaleźć. }
+Plh_151 { Ale nie rozpraszaj ich zbyt długo! Mają pracować, a nie bełkotać. }
+Plh_184 { Angus powiedział mi, że możesz pomóc ulepszyć mój dom. }
+Plh_185 { Dobra robota. Nigdy bym nie pomyślał, że Kendrick zrobi coś takiego. Słyszałem już, że jego dawne mieszkanie jest teraz twoje. Zasłużyłeś na to. }
+Plh_186 { Chciałbym mieć lepsze łóżko. (Daj monety $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$) }
+Plh_187 { Chciałbym mieć stół warsztatowy. (Daj monety $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$) }
+Plh_188 { Chciałbym mieć piec. (Daj monety $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$) }
+Plh_189 { plh_189 }
+Plh_190 { Plh_190 }
+Plh_191 { Wygląda nieźle, jestem za tym. Powinno być gotowe już jutro. }
+Plh_192 { Jeśli masz niezbędną monetę. }
+Plh_193 { Jeśli masz potrzebną monetę, mogę ci pomóc. }
+Plh_194 { Plh_194 }

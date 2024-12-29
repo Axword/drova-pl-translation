@@ -1,0 +1,52 @@
+Plh_51 { Dziś oboje będziemy walczyć na arenie. }
+Plh_35 { Jak mogę stać się tak silny jak ty? }
+Plh_8 { Mam trochę Rdzawego zielska. Zainteresowany? }
+Plh_56 { Mam jeszcze dla ciebie trochę Rdzawego zielska. }
+Plh_50 { Nemetonska szumowina... Pokażę ci! }
+Plh_52 { Do zobaczenia na arenie! }
+Plh_53 { Nie mogę się doczekać walki. Upewnij się, że dobrze się przygotowałeś i zapewnij mi rozrywkę. }
+Plh_54 { Kilian dobrze dba o swoich ludzi. Zobaczmy, z jakiego rodzaju rzeczy jesteś zrobiony. }
+Plh_57 { Zobaczmy to! }
+Plh_58 { Nie przejmuj się. }
+Plh_59 { Myślę, że dzięki temu walka będzie ciekawsza. }
+Plh_60 { OK, pokażę ci. }
+Plh_25 { Czy wiesz coś o tym, który zawsze trenuje w Górnej Dzielnicy? }
+Plh_37 { *wzdycha* $GVAR:EVars_Liandra.AttributeCosts$ monet. }
+Plh_40 { Tyle monet?! }
+Plh_41 { Mam nadzieję, że warto. Tutaj. }
+Plh_42 { Nie mam tylu monet. }
+Plh_43 { Nie mogę tak trenować każdego Siewcy. Musisz mi za to zapłacić. }
+Plh_45 { Doskonały. Dotrzymam słowa. }
+Plh_44 { Nie możesz mnie oszukać. To nie wystarczy. }
+Plh_46 { Potem wróć, gdy będziesz mieć monety. Muszę trenować. }
+Plh_4 { Czego chcesz? }
+Plh_6 { Aby Cię poznać. }
+Plh_5 { Hmmm, czemu nie. Ale właściwie moja reputacja powinna mnie wyprzedzać. Jestem Liandra. }
+Plh_48 { Powiedz, czy Borys cię przysłał? }
+Plh_9 { Nie, kim jest Borys? }
+Plh_67 { Kim jest Borys? }
+Plh_11 { Nie mam czasu przedstawiać Cię przypadkowym osobom... }
+Plh_66 { Gówno! Myślałem, że zostałeś przez niego przysłany. Borysa znajdziesz przy wejściu do obozu. }
+Plh_13 { Wreszcie – znowu coś dobrego! W takim razie rozwiń to. Muszę natychmiast udać się na arenę. }
+Plh_14 { Co się dzieje na arenie? }
+Plh_17 { Co to ma wspólnego z Rdzawym zielskiem? }
+Plh_20 { Tutaj. To monety $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$. }
+Plh_21 { Możesz mieć Rdzawe zielsko za darmo. }
+Plh_16 { Co się tam dzieje? Bitwy, oczywiście! Miejsce, w którym stajesz się nieśmiertelny! Pewnego dnia opowiedzą historie o Liandrze, wojowniku. Legenda w Drova. Kto wie – może kiedyś zmierzymy się ze sobą na arenie. }
+Plh_15 { Rdzawe zielsko pomaga większości ludzi zrelaksować się i stać się bardziej towarzyskim. Ale to ma na mnie inny wpływ. Staję się agresywny, silniejszy i mniej wrażliwy na ból. To jest jak sen – kończący się rozlewem krwi. Krew innych. }
+Plh_18 { To brzmi – niezdrowo. Zwłaszcza dla wszystkich innych. }
+Plh_19 { Postrzegam to jako dar, który prowadzi mnie do chwały. Więc masz jakieś czy nie? }
+Plh_22 { Oddaj to. Dla mnie to musi być tego warte. A teraz spadaj, chyba że masz zamiar walczyć sam ze sobą. }
+Plh_23 { Ach, to jest mój rodzaj wsparcia! Poświęcę Ci moje kolejne zwycięstwo! }
+Plh_65 { Nie do końca podoba mi się to, że ktoś z Nemetonu jest mistrzem na arenie, ale tak nie pozostanie. }
+Plh_64 { Cieszę się, że Ada nie jest już mistrzynią areny. Najwyższy czas. Dobra robota. }
+Plh_63 { Dobrze walczyłeś. Prawdopodobnie nie kręciłeś się po prostu w Nemeton. }
+Plh_62 { Wygrałeś. Dobrze walczyłeś. }
+Plh_26 { Masz na myśli Farlana? Nie jest to człowiek wielu słów. Spłaszczyłem tę Gra na tej właśnie arenie. Walczyłem jak bestia – prawdopodobnie mu zaimponowałem. }
+Plh_27 { Potem przyszedł i chciał ze mną walczyć. Mógłby mieć. Kiedy znów mógł chodzić, zaczął niestrudzenie trenować. }
+Plh_28 { Wygląda na to, że spodziewa się rewanżu... }
+Plh_30 { Może mieć jednego. Będę go bił tyle razy, ile będzie chciał. Może w jakiś sposób sprawia mu to przyjemność... Ale przynajmniej ma determinację — coś, czego bardzo brakuje tym wszystkim narzekaczom w Drovej. }
+Plh_31 { Potrzebuję jego głosu. Ale on ignoruje moje gryzienie. }
+Plh_32 { Masz pomysł, jak mogę go do siebie przekonać? }
+Plh_33 { Hmm, może mogłabyś z nim trenować. To mogłoby sprawić, że się do ciebie przekona. Ale musisz mieć coś w sobie. Może nie tak bardzo jak ja, ale przynajmniej trochę. }
+Plh_34 { Skąd mam wiedzieć? }

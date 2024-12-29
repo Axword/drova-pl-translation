@@ -1,0 +1,11 @@
+Title { Zniszczone Mury }
+
+Entry_01 { Ktoś przemyka nocą ulicami, niszcząc kamienie i mury. Za złapanie sprawcy przewidziana jest nagroda w postaci monet $GVAR:QuestVars_Graffiti_Config.Reward$. }
+
+Entry_02 { Złapałem Adwina i wysłałem go do Gerdwin. Powinienem tam otrzymać nagrodę. }
+
+Entry_03 { Adwin zatrzymuje defacing, a ja w zamian kryję go u Gerdwina. Powinienem dostać nagrodę. }
+
+Entry_05 { Otrzymałem nagrodę. }
+
+Przetłumaczono z DeepL.com (wersja darmowa)

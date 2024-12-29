@@ -1,0 +1,78 @@
+Plh_42 { Do czego potrzebne są monety? Dlaczego to robisz? }
+Plh_41 { Aha, tak... Aleka? }
+Plh_43 { To nie twoja sprawa. }
+Plh_44 { Powiedz mi teraz, albo cię wybiję. }
+Plh_46 { Chcę tylko wiedzieć, dlaczego okradasz Kopaczów, którzy udają się do Otchłani. }
+Plh_47 { Hej, uspokój się. Nie chcemy z tobą żadnych kłopotów. }
+Plh_49 { *wzdycha* Właściwie to mieszkamy w górach. Ale nasza siostra Geli zachorowała. Poszliśmy do druida i... }
+Plh_50 { Hej, Adalgis, to zostanie między nami. }
+Plh_52 { Kim jest Geli? }
+Plh_53 { Więc chcesz po prostu pomóc Geli? }
+Plh_55 { To nie twoja sprawa. Spadaj! }
+Plh_48 { Ci biedni Kopacze! To śmieszne – wybrali to; CHCĄ być wykorzystywani. Tylko Jero i jego ludzie na tym skorzystali. }
+Plh_61 { Czy ta słaba dama w twoim namiocie jest twoją siostrą? }
+Plh_64 { *wzdycha* Geli jest bardzo chora. Nie wiemy, co ona ma. }
+Plh_65 { Poszliśmy do druida, który dał nam przepis na miksturę leczniczą. Większość składników już mamy, ale... }
+Plh_88 { Wystarczy teraz. To sprawa rodzinna. Zostaw nas w spokoju. }
+Plh_89 { Nie będziemy już okradać Kopaczów, masz nasze słowo. }
+Plh_91 { Trzymaj się z daleka od nas. }
+Plh_68 { Mam rzeczy, których szukałeś. }
+Plh_67 { C-co? Skąd o tym wiesz!? }
+Plh_69 { Nie ma znaczenia, gdzie to mamy. Czy to naprawdę serce niedźwiedzia i ten dziwny lotos? }
+Plh_70 { Wszystko wygląda tak, jak opisał to druid. Zaraz przygotuję trochę... }
+Plh_71 { To powinno zadziałać! }
+Plh_92 { Daj mi to, zaniosę to Geli. }
+Plh_72 { Proszę, Geli, to ci pomoże... }
+Plh_93 { Powoli. Wystarczy. }
+Plh_73 { Czy to działa? Aleka? Geli? }
+Plh_94 { Ona trzyma to w sobie, to dobry znak. Tak jak mówił druid, jest spokojniejsza i jej oddech staje się wolniejszy. }
+Plh_96 { Dziękuję. Myślę, że uratowałeś życie naszej siostrze. Gdyby nie ty... }
+Plh_97 { Co dokładnie ma Geli? }
+Plh_101 { Cieszę się, że mogłem pomóc. }
+Plh_98 { Zawsze była słabsza od innych. Nie miała dobrego dzieciństwa. Po prostu leżała w łóżku, tak jak to robi teraz. }
+Plh_99 { Dlatego chcieliśmy z Aleką pokazać jej las. Wymknęliśmy się z nią. Nigdy nie widzieliśmy jej tak szczęśliwej. Nigdy wcześniej nie opuszczała wioski. }
+Plh_100 { Potem zrobiło się mgliście i zawróciliśmy. W ten sposób znaleźliśmy się tutaj. To nasza wina, że ​​ona tu jest. Chcieliśmy jej pomóc... }
+Plh_102 { Dziękuję... Nie mamy wiele, ale uratowałeś naszą siostrę i nic nie jest dla mnie ważniejsze. }
+Plh_103 { To jest symbol naszego plemienia. Niesie ze sobą starożytną moc. To wiele dla mnie znaczy i chcę, żebyś to miał. }
+Plh_104 { Dziękuję za wszystko. }
+Plh_105 { Dziękuję za talizman. Będę go dobrze strzegł. }
+Plh_106 { I dbaj też o siebie. }
+Plh_75 { W porządku. Już się nie kłócimy. }
+Plh_84 { Nie chcemy żadnych kłopotów. }
+Plh_87 { Już nam nie uciekniesz! }
+Plh_0 { Hej, nie widziałem wcześniej twojej twarzy. Gdzie idziesz? }
+Plh_10 { Jestem w drodze do Wyrobisko. }
+Plh_11 { Po prostu się rozglądam. }
+Plh_12 { Muszę iść. }
+Plh_13 { Zatem jesteś we właściwym miejscu, już prawie jesteś na miejscu. Po prostu podążaj ścieżką. }
+Plh_16 { Dziękuję. Dobrze wiedzieć. }
+Plh_17 { Lepiej już będę wracać. }
+Plh_18 { Jeśli chcesz tu przejść, będziesz musiał zapłacić nam monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. Nie lubimy tego robić, ale potrzebujemy monet. Albo nam zapłacisz... }
+Plh_19 { Albo co? }
+Plh_21 { Oto monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. }
+Plh_22 { Nie mam przy sobie wystarczającej ilości monet. }
+Plh_20 { Nic ci nie płacę. }
+Plh_24 { *marszczy brwi* Albo po prostu je weźmiemy. }
+Plh_40 { W porządku, możesz przejść. Monety szybko odzyskasz w Otchłani. }
+Plh_25 { Zachowaj spokój, sprawdzimy tylko, ile masz przy sobie monet, a potem weźmiemy to, do czego nam się należy. }
+Plh_26 { Nie waż się... }
+Plh_23 { Oczywiście, że możesz to zrobić, ale skoro już tu jesteś, będziemy potrzebować od Ciebie monet $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. Albo nam zapłacisz... }
+Plh_14 { Wtedy bądź ostrożny. Niebezpieczeństwo leży przed nami. Poluje tu banda rozpruwaczy. Powinieneś kupić lepszy sprzęt. Można to zrobić w Wyrobisko. Po prostu kieruj się w tamtą stronę. }
+Plh_15 { Hej, poczekaj. Jeśli będziesz szedł dalej tą drogą, dotrzesz do Otchłani. }
+Plh_107 { Geli ma się lepiej — dzięki tobie. }
+Plh_6 { Hej, nie chcemy żadnych kłopotów. Wychodzimy stąd. Prawidłowy? }
+Plh_7 { Opuść to miejsce. }
+Plh_8 { Już nas nie ma. Nie zobaczysz nas więcej. }
+Plh_4 { Wynoś się stąd. Zapłaciłeś i teraz możesz przejść. }
+Plh_28 { Zostaw tutaj. }
+Plh_29 { Nie ma tu dla ciebie miejsca. }
+Plh_38 { Do czego potrzebne są monety? }
+Plh_30 { Nie możemy opuścić tego miejsca. Potrzebujemy monet. }
+Plh_32 { Co chcesz zrobić? }
+Plh_33 { Pokażę wam obojgu, że jestem silniejszy od was. }
+Plh_34 { Nie będziesz już rabował Kopaczów. }
+Plh_85 { Nieważne. }
+Plh_35 { Chciałbym to zobaczyć... }
+Plh_86 { Idź już. }
+Plh_39 { Nie bądź taki wścibski. Zobacz, że robisz ślady. }
+Plh_9 { Hej, skończyliśmy. Czego jeszcze chcesz? }

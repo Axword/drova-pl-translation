@@ -1,0 +1,3 @@
+Title { Gulasz Tiaa }
+Entry_01 { Tiaa zdecydowanie nie jest zadowolona. Potrzebuje mięsa. Da mi coś tylko, jeśli przyniosę jej $GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$ kawałków mięsa. I nie tego z żylastymi odpadkami, jak to nazywa. }
+Entry_02 { Przyniosłem Tiaa mięso. Teraz mogę codziennie dostawać od niej ciepły posiłek. }

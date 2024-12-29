@@ -1,0 +1,240 @@
+Plh_255 { Bawiłem się z Olgą i Lutenem. }
+Plh_231 { Przeczytałem twoją notatkę na tablicy ogłoszeń. }
+Plh_256 { Tak, widziałem to! Ta dwójka naprawdę dobrze się bawiła. }
+Plh_233 { To jest dla ciebie. Ponieważ pokazałeś trochę serca tym małym draniom. }
+Plh_254 { I widziałem, jak bawiłeś się obydwoma. }
+Plh_232 { Ach, bardzo dobrze! Z Olgą łatwo sobie poradzić, ale w przypadku Lutena będziesz musiał pomóc mu wyciągnąć go ze skorupy... }
+Plh_158 { Czy może pan potwierdzić, że Swenn był zajęty wieczorem, w dniu dostawy broni? }
+Plh_239 { A co powiesz na to — Luten może się ukryć, a ja będę szukać! }
+Plh_252 { Dziecko będzie zachwycone! Prawda, Luten? }
+Plh_257 { *patrzy na ciebie trochę przestraszony* R... naprawdę? }
+Plh_258 { Ale Luten, $GVAR:EVars_Player.Name$ należy do zawodników. I nie zna żadnej z twoich kryjówek. *mruga* }
+Plh_238 { Świetnie! Ale nie mogę oddalać się za bardzo od Helmy. Ona mówi. }
+Plh_12 { Musisz zamknąć oczy i policzyć do dziesięciu! }
+Plh_253 { I żadnego podglądania! }
+Plh_240 { Jeden... }
+Plh_243 { Dwa... }
+Plh_245 { Trzy... }
+Plh_244 { Cztery... }
+Plh_246 { Pięć... }
+Plh_247 { Sześć... }
+Plh_248 { Siedem... }
+Plh_249 { Osiem... }
+Plh_250 { Dziewięć... }
+Plh_251 { Dziesięć... GOTOWY CZY NIE, PRZYJDĘ! }
+Plh_4 { Bóstwa są spoiwem spajającym nasz świat. Nikt inny nie jest w stanie powstrzymać mgły. }
+Plh_259 { Należy je szanować. Zaszczycony. Abyśmy z ich pomocą mogli przekształcić Drovę w naszą Krainę Legend. }
+Plh_13 { Pozdrowienia. }
+Plh_5 { Skąd pochodzą te Bóstwa? }
+Plh_6 { Skąd pochodzi powietrze, którym oddychasz? Boskości zawsze były i zawsze będą. Są samym życiem, a my jesteśmy ich częścią. }
+Plh_7 { *patrzy na ciebie* Jesteś nowy, prawda? Staraj się nie przerywać zajęć. }
+Plh_50 { Ale jest o wiele fajniej, gdy wokół jest więcej ludzi! }
+Plh_51 { Absolutnie! Ślicznie proszę! }
+Plh_52 { Mówiłem ci, żebyś nie ufał tak nieznajomym! }
+Plh_53 { Ale tutaj jesteśmy bezpieczni, prawda? A potężny Gradan jest w pobliżu. Proszęeeeee! }
+Plh_54 { *robi duże, błagalne oczy* }
+Plh_55 { *wzdycha* Dobra. }
+Plh_174 { Ale żebyś wiedział, jestem druidem Nemetonu. Zadzieraj ze mną na własne ryzyko! }
+Plh_56 { Jesteś pewien, że chcesz dołączyć? }
+Plh_155 { Prawidłowy. Nauka nigdy nie boli. }
+Plh_156 { Właściwie, chciałem tylko zadać pytanie o Swenna. }
+Plh_157 { Nie widzisz, że jestem zajęty? Porozmawiajmy po zajęciach. }
+Plh_11 { Bądź moim gościem. }
+Plh_310 { Chcesz dowiedzieć się więcej o Drova? }
+Plh_234 { Nie mam ci nic do powiedzenia. }
+Plh_235 { Cześć, nowicjuszu. }
+Plh_355 { Świetnie! Przyjdź i dołącz do nas. }
+Plh_14 { Jestem Helma. Te dwie osoby to Olga i Luten. Jeżeli chcesz odpowiedzieć na pytanie, poczekaj aż do Ciebie zadzwonię. Głos może zabierać tylko osoba wezwana. }
+Plh_263 { To całkowicie proste! }
+Plh_264 { Olga! }
+Plh_265 { Ups. }
+Plh_15 { No dobrze, kto może mi opowiedzieć o Święcie Ognia? }
+Plh_17 { *patrzy na chmury* }
+Plh_18 { Cóż, to powinno być łatwe... }
+Plh_20 { (unikaj kontaktu wzrokowego) }
+Plh_356 { Pamiętaj, wypowiadaj się dopiero po wezwaniu! }
+Plh_21 { Olga. }
+Plh_22 { Święto Ognia sygnalizuje początek cieplejszych dni. Rozpalamy ogromny ogień w Nemeton. Wszyscy tańczą, śmieją się i obdarowują się nawzajem talizmanami. }
+Plh_357 { Rozpalamy ognisko Wiecznym Ogniem tutaj, w naszym obozie, aby odpędzić złe duchy! }
+Plh_23 { Oddajemy cześć zmarłym i rozmawiamy z ludźmi, których nie bardzo lubimy. Wtedy zapomną o wszystkim złym, co im zrobiliśmy. }
+Plh_24 { Prawda, Olgo! }
+Plh_309 { Cóż, w pewnym sensie. Oczyszczamy się i szukamy przebaczenia. Zapomniałeś wspomnieć o Bóstwach. Oni też są celebrowani. }
+Plh_25 { A teraz chciałbym, żebyś mi powiedział – co uważasz za najważniejszą rzecz w życiu? }
+Plh_348 { ...ktoś inny niż Olga? }
+Plh_358 { Najważniejszą rzeczą w życiu jest... }
+Plh_26 { *do ciebie* Co o tym myślisz? }
+Plh_28 { Wspólnota i solidarność. }
+Plh_29 { Siła i moc. }
+Plh_30 { Jeszcze nie jestem tego pewien... }
+Plh_31 { Mówisz tak, jakbyś już był częścią Nemetonu. Oto pożądana odpowiedź. Klucz do dobrego życia w Drova. }
+Plh_27 { Lutena? Twoje myśli? }
+Plh_34 { halooo? Jest tam ktoś? *jego głos odbija się echem od studni, po czym następuje chichot* }
+Plh_343 { Luten! Co teraz robisz? }
+Plh_344 { co? Co? }
+Plh_345 { Wracaj tu i teraz! }
+Plh_346 { Tak, dobrze, dobrze... }
+Plh_35 { Co o tym myślisz, Luten? Co jest najważniejsze w życiu? }
+Plh_36 { Uch? Och, prawda – wspaniałe jedzenie! }
+Plh_37 { *uśmiecha się* Nie mylisz się. }
+Plh_38 { Następne pytanie: Czym właściwie jest kamień runiczny? Olga, opuść rękę. Po prostu odpowiedz. }
+Plh_39 { Bardzo proste! Umożliwia rzucanie w dowolne miejsce potężnymi zaklęciami i magicznymi kulami. BAM! }
+Plh_40 { Z pewnością możesz to zrobić. Ale czym jest kamień runiczny? Lutena? }
+Plh_41 { *odsuwa się od chrząszcza, którym się bawił* Uh, kamień runiczny, cóż, został stworzony dla kogoś i... potem aktywowany... poprzez jakiś rytuał? }
+Plh_42 { Dokładnie. Cóż, w zasadzie. Miło widzieć, że zwracasz uwagę. Kiedy powstaje kamień runiczny, jest on przywiązany do jednej osoby. }
+Plh_43 { Wtedy tylko ta osoba będzie mogła używać jego magii. Dla kogokolwiek innego kamień jest całkowicie bezużyteczny. }
+Plh_57 { *do Ciebie* Jak dużo wiesz na ten temat? Czy kiedykolwiek słyszałeś o Bygone? }
+Plh_59 { *szepcze coś* }
+Plh_267 { *chichocze głośno* }
+Plh_60 { Co ci mówiłem o rozmowach na zajęciach? }
+Plh_61 { Ty... powinieneś odzywać się tylko wtedy, gdy cię wezwą. }
+Plh_62 { Prawidłowy. }
+Plh_347 { *do ciebie* A więc, co wiesz o tych ludziach? }
+Plh_63 { Ci „Spaleni” żyją poza mgłą. }
+Plh_64 { Starożytny lud, który kiedyś nazywał to miejsce domem. }
+Plh_69 { *do Olgi* Mów głośno! Szybko! }
+Plh_65 { Nigdy o nich nie słyszałem. }
+Plh_66 { *prawie przewraca się ze śmiechu* }
+Plh_67 { *jej oczy rozszerzają się w szoku* JAK je nazwałeś? }
+Plh_68 { Spokojnie, dzieciaki. Zatem – są to PRZESZŁOŚCI. I co ci podsunęło pomysł, że każdy może żyć poza mgłą? }
+Plh_70 { Gdzieś to słyszałem. }
+Plh_71 { Właśnie to wymyśliłem. }
+Plh_73 { Może nie powinieneś wierzyć we wszystko, co usłyszysz. }
+Plh_76 { Luten, skoro tak dobrze bawiłeś się tą odpowiedzią... jaka jest prawdziwa historia? }
+Plh_77 { No cóż... Mieszkali tu dużo, dużo wcześniej. Ale nie ma ich już od dłuższego czasu. Coś się z nimi stało. }
+Plh_271 { Olga? }
+Plh_78 { Oni byli pierwszymi, którzy służyli tutaj Bóstwom! Odkryli magię runiczną. }
+Plh_79 { Prawidłowy. Byli już tutaj, w Drova, na długo przed naszymi czasami. }
+Plh_97 { Dawni utworzyli wielkie imperium, które jednak upadło wiele lat temu. A teraz pozostały tylko ruiny. }
+Plh_176 { Pozostali do dziś korzystają ze zwietrzałych budowli Bygone. }
+Plh_44 { Dobra robota, dzieci... i ty. To tyle na dzisiaj. }
+Plh_349 { Tak, w końcu jesteśmy wolni! }
+Plh_350 { I tak nie mamy nic lepszego do roboty... Mógłbym spędzić cały dzień na nauce w klasie Helmy. }
+Plh_351 { Dziękuję za lekcję. }
+Plh_353 { Nie ma za co. Twoja aktywność na zajęciach była dobra. }
+Plh_354 { W porządku, dzieciaki! Będziemy kontynuować innym razem. }
+Plh_74 { Przynajmniej jesteś szczery. Ale nie musisz wymyślać odpowiedzi, jeśli jest coś, czego nie wiesz. }
+Plh_75 { Nie wiedziałeś. Mogłeś po prostu to powiedzieć. }
+Plh_80 { Prawidłowy. Luten, możesz nam powiedzieć coś więcej? }
+Plh_81 { Byli to bardzo starożytni ludzie, którzy żyli tu przed nami! }
+Plh_82 { Prawidłowy. Przynajmniej jedno z Was się czegoś nauczyło. }
+Plh_175 { Możesz coś dodać, Luten? }
+Plh_84 { NIGDY o nich nie słyszałeś? Jak to możliwe? }
+Plh_85 { Niedawno przybyłem do Gorge. }
+Plh_86 { Jestem tu nowy i jeszcze nie wiem jak się tu poruszać. }
+Plh_87 { W takim razie powinienem powitać Cię w Drova, zamiast zasypywać Cię mnóstwem pytań. }
+Plh_88 { Tak, witaj! }
+Plh_89 { *jego oczy się rozszerzają* Jesteś z innego świata? }
+Plh_91 { Opowiedz mi o tym! }
+Plh_93 { Moje wspomnienia to... tylko fragmenty. }
+Plh_94 { O nie... To straszne. }
+Plh_95 { Kiedy już sobie przypomnisz, musisz nam wszystko powiedzieć! }
+Plh_96 { Hej, dzieciaki, nie stłoczcie ich. Wszyscy wiecie, jak to jest, gdy ktoś po prostu nie pamięta. Luten, dlaczego nie opowiesz nam o Bygones? }
+Plh_32 { Odpowiedź godna odpowiedzi z obozu Ocalonych. Ale jaka jest siła pojedynczej jednostki w porównaniu z siłą społeczności? }
+Plh_33 { Uczciwość. To także prawidłowa odpowiedź. Przyznać, że twoja podróż jeszcze się nie skończyła. Podróż, którą łatwiej jest zarządzać we wspólnocie. }
+Plh_159 { *wydaje się zaskoczony* Tak, tego wieczoru Swenn opiekował się Olgą i Lutenem w moim imieniu. Musiałem opuścić obóz, żeby coś zdobyć. }
+Plh_160 { Stary, dobry Swenn uwielbia bawić się z dziećmi i od czasu do czasu mi pomaga. Stand-upowy facet. }
+Plh_161 { Czy mógł na chwilę zostawić dzieci w spokoju? }
+Plh_162 { Dziękuję, teraz wiem o co chodzi. }
+Plh_163 { Och, mógł. Ale zazwyczaj uważnie je obserwuje. }
+Plh_164 { Dlaczego pytasz? }
+Plh_166 { Chodzi o zaginione dostawy broni. }
+Plh_165 { Nie mogę powiedzieć. }
+Plh_167 { Poręczę za Swenna. Nigdy nie spowodowałby żadnych szkód. Jestem tego pewien. Proszę, nie zawracaj mu już tym głowy... }
+Plh_170 { Jeśli jest niewinny, to nie ma się czym martwić. }
+Plh_169 { W porządku. Swenn nie usłyszy ode mnie nic więcej. }
+Plh_171 { On jest niewinny. Nie marnuj czasu. }
+Plh_173 { Mam nadzieję, że dojdziesz do sedna sprawy. }
+Plh_172 { *uśmiecha się* Dzięki. }
+Plh_168 { *mruży oczy* Podejrzewasz go? }
+Plh_362 { Druid dał mi ten kryształ. Mam to pokazać druidowi w Nemeton. }
+Plh_363 { Druid? Kto? Jeden z Ocalonych? }
+Plh_366 { Nie. Druid, z którym przybyłem do Drova. }
+Plh_367 { Nie. Nikt z Ocalonych. }
+Plh_368 { Druid przybył do Drova? Z tym kryształem? }
+Plh_370 { Jak to możliwe? Magia runiczna istnieje tylko w Drova... }
+Plh_373 { Co kryształ ma wspólnego z magią runiczną? }
+Plh_369 { Widzisz te runy? To wskazuje, że ma to coś wspólnego z magią runiczną. }
+Plh_371 { Uważam, że jest w tym coś niepokojącego. To po prostu nie jest w porządku. }
+Plh_364 { To wszystko, co mogę ci powiedzieć. Resztę zostawię innym druidom. Ja tu odpowiadam za edukację. }
+Plh_374 { Kto jeszcze mógłby mi pomóc? }
+Plh_375 { Dzięki za pomoc }
+Plh_376 { Może Mombert... albo Lio? Jednak możesz się do nich dostać dopiero po dołączeniu do Nemetonu. }
+Plh_372 { Dziwne, biorąc pod uwagę, jak intensywnie studiują magię runiczną. }
+Plh_112 { Rozpoczęło się Święto Ognia. Czekaliśmy na ciebie. Gdy będziesz gotowy, ceremonia się rozpocznie. Do tego czasu możesz się rozejrzeć. }
+Plh_113 { jestem gotowy. }
+Plh_273 { Co to za ceremonia? }
+Plh_114 { Nadal potrzebuję chwili. }
+Plh_292 { Wielki Kruk! Zebraliśmy się tutaj, aby złożyć Ci hołd, służyć Ci i oddawać Ci cześć. }
+Plh_177 { Rok zbliża się ku końcowi. Zaczyna się nowe. Cykl nigdy się nie kończy! }
+Plh_277 { Wielki Kruk wie o wszystkich twoich czynach, zarówno dobrych, jak i złych. Wieczny Płomień cię oczyści. Odrodzisz się jak nowy rok. }
+Plh_278 { Ale Boskość widziała także wśród nas zdradę. Ktoś się temu sprzeciwia. Przeciwko nam, braciom i siostrom, i czeka na sąd. }
+Plh_279 { Kendrick spłonie! }
+Plh_280 { Jak mógł to zrobić? }
+Plh_281 { Dla Kruka! }
+Plh_297 { Ktokolwiek nas oszuka, musi umrzeć. }
+Plh_298 { Znajdź spokój, Kendrick. }
+Plh_296 { Miał wybór. }
+Plh_327 { Jestem... boję się. }
+Plh_328 { Nie odwracaj wzroku, Luten. To jest ważne. }
+Plh_138 { Powtarzaj za mną... }
+Plh_139 { Przysięgam chronić Nemeton i odpowiedzieć na wezwanie wrzosowisk. }
+Plh_228 { Przysięga została złożona. Słyszałem to. Słyszałeś to! }
+Plh_338 { Wielki Kruku, oto nasi dwaj nowi strażnicy. Chroń ich, a będą ci służyć. }
+Plh_132 { Teraz pij! }
+Plh_306 { $GVAR:EVars_Player.Name$! }
+Plh_307 { Marchew! }
+Plh_136 { Ciesz się Świętem Ognia! Niech ogień rozpali tej nocy i poprowadzi Cię w nowy rok. }
+Plh_340 { Ty draniu! }
+Plh_339 { Wypijmy! }
+Plh_274 { Oddajemy cześć zmarłym i rozpoczynamy nowy świt. Służymy sprawiedliwości i dbamy o to, aby sprawiedliwości stało się zadość. I wydamy wyrok na Kendricka. To była twoja przysługa dla nas. }
+Plh_116 { Delektuj się festiwalem. Wróć, kiedy będziesz gotowy. }
+Plh_282 { Kendrick ukradł broń i złamał nemetońskie prawo. Zachował się samolubnie i naraził nas wszystkich na niebezpieczeństwo! }
+Plh_360 { Przyprowadź go tutaj, Heniku! }
+Plh_315 { Przenosić! }
+Plh_314 { Zrobiłem to tylko dla Nemetona! }
+Plh_316 { Przenosić! Nie będę tego powtarzał... }
+Plh_217 { Zdradził dziedziczkę Maurów, a tym samym całe Nemeton. Jak sobie z nim poradzimy? }
+Plh_283 { Niech spłonie, tak! }
+Plh_284 { W płomienie! }
+Plh_218 { Słyszę cię. W twoich oczach widzę twoje zmartwienia i lęki o Nemeton. I uwierz mi, ja też je czuję! }
+Plh_286 { Boskość cię widzi! I widzi niesprawiedliwość. Wieczny Płomień oczyści Kendricka i będzie on musiał stanąć przed Boskością, aby otrzymać karę. }
+Plh_226 { Nie widzisz? Zrobiłem to wszystko dla Nemetona! Dla Dziedziczki Maurów! Nie żeby ci zrobić na złość! }
+Plh_187 { $GVAR:EVars_Player.Name$ dostarczył nam wszystkich dowodów. To, co zrobiłeś, było działaniem przeciwko tej społeczności. }
+Plh_192 { Znalazłem jego kryjówkę. Miejsce, w którym przechowywał całą skradzioną broń. }
+Plh_193 { Kendrick zmusił pracowników do kradzieży dla niego. }
+Plh_289 { Kendrick naprawdę myślał, że robi to dla Nemetona. }
+Plh_194 { Molvina, dziedziczka Maurów, pokrzyżowała plany Kendricka. Ale zrobił to na własne życzenie. }
+Plh_196 { Tylko Wielki Kruk może wybaczyć jego występki. Ale nie na tym świecie. W następnym. Po jego śmierci. }
+Plh_291 { Kruk go osądzi! }
+Plh_293 { Wielki Kruk! Czy przyjmiesz nasz wyrok? Czy zobaczysz, że sprawiedliwości stało się zadość? }
+Plh_195 { Przysiągł wierność Molwinie, Dziedziczce Maurów. Ale przekonał także innych, którzy złożyli tę przysięgę, aby ją zdradzili. }
+Plh_290 { Być może w to wierzył... W swoim spaczonym umyśle. Ale to, co zrobił, było zdradą Nemetonu. }
+Plh_294 { Wysłuchaj nas, Boskość! }
+Plh_295 { Ogłoś wyrok na Kendricka! }
+Plh_198 { Czuję obecność Kruka. Stary rok dobiega końca; zaczyna się nowe. Płomienie nas oczyścią. Wieczny Ogień Nemetona płonie! }
+Plh_311 { Kendrick spłonie! }
+Plh_365 { Nie wolno nam go spalić! To źle! }
+Plh_318 { Boskość osądzi. To zadecyduje. }
+Plh_319 { Musi spłonąć! }
+Plh_323 { Wielki Kruk przemówił! Tak się stanie, Heniku! }
+Plh_324 { Już czas, Kendrick. }
+Plh_312 { Wieczny Ogień Nemetona. }
+Plh_320 { Wy głupcy! Nie widzisz co się tutaj dzieje?! }
+Plh_321 { Wieczny Ogień oczyści Kendricka. }
+Plh_322 { Dla Nemetona! }
+Plh_326 { Przeklinam cię... }
+Plh_208 { Wieczny Ogień oczyszcza Nemetona z winy i rozpoczyna nasz nowy rok. Bez nieczystości. Jak nowo narodzone dziecko. DLA NEMETONA! }
+Plh_329 { Sprawiedliwość dla Nemetona. Molwina! }
+Plh_331 { Wszyscy ludzie znajdą swój dom w Drova... To jest nasz cel. Drova będzie obiecaną nam Krainą Legend! }
+Plh_332 { Nie ma tu miejsca dla nikogo, kto chciałby to utrudniać. }
+Plh_299 { Kendrick jest teraz z Ravenem. O jedno życie mniej wśród nas, ale dołączyło do nas dwóch nowych. Przyjdźcie do mnie, Karotte i $GVAR:EVars_Player.Name$. }
+Plh_209 { Podczas wyprawy do Pradawnej Puszczy Karotte udowodnił swoją odwagę, męstwo i lojalność. }
+Plh_359 { Byłeś częścią Nemetonu przez długi czas; teraz twoja lojalność zostanie nagrodzona. }
+Plh_300 { Wreszcie Karotte! Jestem z ciebie dumny. }
+Plh_210 { $GVAR:EVars_Player.Name$ nie jest jeszcze z nami zbyt długo, ale wykazał się oddaniem. Dzięki $GVAR:EVars_Player.Name$ zbliżyliśmy się do celu. Stałeś w obronie Nemetona... Udowodniłeś to! }
+Plh_304 { (robi gest Nemetona) }
+Plh_335 { Dzięki $GVAR:EVars_Player.Name$ wykonaliśmy talizman dla Helmy. }
+Plh_336 { Nawet w Obozie Drwali wiedziałem, że będziesz do nas pasować. }
+Plh_337 { $GVAR:EVars_Player.Name$ pokonał niedźwiedzia! Właśnie takiej osoby potrzebujemy! }
+Plh_334 { $GVAR:EVars_Player.Name$ przetrwał na Ponurych Bagnach! }
+Plh_211 { Obaj zasługują na miano Strażników Nemetonu. }

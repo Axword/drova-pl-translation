@@ -1,0 +1,20 @@
+Save { Zapisz }
+Load { Wczytaj }
+PlayTime { Czas Gry }
+GameSaved { Gra została zapisana. }
+NotSaveable { Nie możesz zapisać gry w tym momencie. }
+Title_HeroSelect { Postać }
+SlotType_Quick { Szybki Zapis }
+SlotType_Auto { Autozapis $SAVE:SlotType$ }
+SlotType_Normal { Slot zapisu $SAVE:SlotType$ }
+deleteSavegamePopUp { Czy na pewno chcesz usunąć ten zapis gry? }
+overwriteHeroPopUp { Osiągnąłeś maksymalną liczbę postaci. Wybierz jedną, którą chcesz nadpisać. }
+Title_OverwriteHero { Którą postać nadpisać? }
+Button_Overwrite { Nadpisz }
+NotLoadable { Nie możesz wczytać gry w tym momencie. }
+Corrupted_00 { Zapis gry uszkodzony }
+Corrupted_PopUp_Desc { Ten zapis gry jest uszkodzony i nie można go wczytać. }
+ToMainMenuPopUp_Desc { Czy na pewno chcesz wrócić do menu głównego? }
+ToMainMenuPopUp_Restricted_Desc { Gra nie może być zapisana w tym momencie. Czy nadal chcesz wrócić do menu głównego? }
+QuitPopUp_Desc { Czy na pewno chcesz zamknąć grę? }
+QuitPopUp_Restricted_Desc { Gra nie może być zapisana w tym momencie. Czy nadal chcesz zamknąć grę? }

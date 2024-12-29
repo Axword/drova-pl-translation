@@ -1,0 +1,152 @@
+Plh_0 { Jola mnie przysłała. Czy możesz mnie zabrać do Wyrobiska? }
+Plh_193 { Jestem gotowy na Wyrobisko. }
+Plh_170 { Co masz na myśli mówiąc, że Levin nagradza sumiennych pracowników? }
+Plh_172 { Levin jest w dole. On odpowiada za srebro. Więc musisz się tam wyróżniać. Nieważne jak. Levin musi zobaczyć, że jesteś wartościowy. }
+Plh_171 { Jeśli chcesz odnieść sukces w tym miejscu, potrzebujesz wsparcia Levina. To otworzy wiele drzwi. Na przykład ten do Górnej Dzielnicy. }
+Plh_146 { Potrzebuję trochę czasu dla siebie. Spieszę się. }
+Plh_3 { Trzymaj się blisko. Jest tu niebezpiecznie. }
+Plh_97 { *spogląda na ciebie zrzędliwie* Czego chcesz? }
+Plh_54 { Dziękuję, że mnie tu przyprowadziłeś. }
+Plh_55 { Wszystko w porządku u Ciebie? }
+Plh_56 { Jeśli chodzi o tych bandytów... oto moja część. (przekaż monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+Plh_99 { Nie ma za co. }
+Plh_102 { Jasne. Po prostu zajęty. }
+Plh_103 { Czy naprawdę wszystko z tobą w porządku? }
+Plh_104 { Zostawię cię w spokoju. }
+Plh_100 { Ja również nienawidzę sposobu, w jaki Adalgis zabiera wszystkim monety – i nikt nic z tym nie robi! Ale myślałam, że trzymamy się razem! }
+Plh_105 { Ale miałem nic nie mówić! }
+Plh_107 { Oto mój udział w monetach. ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+Plh_106 { Chyba się myliłeś. }
+Plh_108 { ... }
+Plh_110 { Zapomnij o tym. }
+Plh_109 { No cóż... W takim razie chyba się myliłem. Przepraszam. W tym miejscu musisz uważać komu ufasz. Widziałem już przyjaciela, który stał się wrogiem. }
+Plh_111 { Jestem pewien, że masz rację. Muszę wracać do pracy... }
+Plh_101 { Powinieneś po prostu zostać. Przez ciebie straciłem wszystkie monety. Ale myślałam, że będziemy trzymać się razem! }
+Plh_113 { *odwraca wzrok* }
+Plh_165 { Spójrz na to – trenują tu wojownicy na arenie. }
+Plh_166 { Któregoś dnia to ja będę tam stał. Miecz w dłoni. Od Kopacza do wojownika. }
+Plh_168 { Byłeś kiedyś Kowalem? }
+Plh_167 { *uśmiecha się* Odkryłem Głębinową Kopalnię. Levin nagradza Kopaczów, którzy ciężko pracują. A teraz awansowałem na prawdziwego wojownika. }
+Plh_159 { Byłem najlepszym Kopaczem, jaki kiedykolwiek postawił stopę w obozie Ocalonych. Mógłbym wycinać całe góry, aż nic z nich nie zostało. }
+Plh_160 { Ale mam już tego dość. Nie jestem już Kopaczem, ale wojownikiem Ocalonych. }
+Plh_192 { Zatem podążaj za mną. }
+Plh_174 { Ach, ktoś nowy w Wyrobisku! Mogę cię tam zabrać. To trochę wędrówka. }
+Plh_175 { Muszę wpaść na chwilę do Joli, zanim pójdziemy. Czy masz wszystko, czego potrzebujesz w Wyrobisku? }
+Plh_189 { jestem gotowy. }
+Plh_190 { Będę potrzebował chwili. Zaraz wracam. }
+Plh_191 { Poczekam. }
+Plh_177 { Ach, kopacze do dołu! Kiedy pewnego dnia zabrałem kilku Kopaczów do kopalni, bandytów nie było w pobliżu. Zobaczmy, co z dzisiaj. }
+Plh_176 { Jola, jesteśmy tu sami? }
+Plh_178 { Żaden drwal już tu nie przychodzi. A każdy, kto to robi, pracuje teraz w Otchłani jako Kopacz. }
+Plh_179 { Pojechałem do Cengiza. Ma wszystko pod kontrolą. }
+Plh_180 { Byłem tam, ale prawie nikogo nie było. }
+Plh_184 { Miło mi to słyszeć. Ale nadal moglibyśmy skorzystać z pracowników. }
+Plh_186 { Zaoferowaliśmy im naszą pomoc, ale woleli pracować z Nemetonem. Pościelili sobie łóżko, więc teraz mogą w nim leżeć. }
+Plh_182 { Wychodzimy. Zostań ze mną. }
+Plh_183 { Dbajcie o siebie. }
+Plh_185 { Polegaj na kimkolwiek w Nemeton, a będziesz miał przerąbane. }
+Plh_5 { Jesteśmy poza obozem Ocalonych. Teraz musimy uważać. }
+Plh_81 { Wciąż jestem pod wrażeniem tego, co Bygone zbudowali tutaj. Wykopali tunele w górach i wznieśli te posągi. Jak taka cywilizacja mogła po prostu zniknąć? }
+Plh_82 { To jest to, co uwielbiam w kręceniu się po kopalniach. Trochę mi tego brakuje. Prawdopodobnie minęło zbyt dużo czasu, odkąd byłem tam ostatni raz. }
+Plh_83 { Dlaczego tęsknisz za kopalniami? }
+Plh_84 { Jak udało ci się awansować z Kopacza na wojownika? }
+Plh_85 { Przejdźmy dalej. }
+Plh_87 { Całe życie pracowałem w kopalniach. To była moja rutyna i podobało mi się to. Zrobiłem coś, w czym byłem dobrze. Jeden z najlepszych. *uśmiecha się* }
+Plh_88 { Myślę, że miałem szczęście. W Otchłani odkryłem drogę prowadzącą do tunelu z ogromną żyłą srebra. To przede wszystkim jeden z powodów, dla których mamy tak dużo srebra. }
+Plh_89 { Wieść się rozeszła, Levin się o tym dowiedział i wysłał mnie do Kiliana. A teraz jestem tutaj. *uśmiecha się* }
+Plh_86 { Wciąż mamy przed sobą długą drogę. }
+Plh_8 { Oto mała rada: Nie podążaj drogą prowadzącą na północ. Dużo tych Skrzydłoszponów krąży tam po okolicy. Bez porządnego sprzętu długo nie pociągniesz. }
+Plh_90 { Czy Skrzydłoszpony są aż tak mocne? }
+Plh_91 { O co tu chodzi z sanktuarium? }
+Plh_92 { Przejdźmy dalej. }
+Plh_95 { Mogę zmierzyć się z jednym Skrzydłoszponem. Dwóch lub więcej może być ryzykownych. Szkoda, że ​​zawsze podróżują w paczkach. }
+Plh_94 { Nie mam pojęcia. Pochodzi z Dawnych. }
+Plh_139 { Chociaż nie wiem, do czego dokładnie służy ta świątynia, zwykle zostawiam ofiarę bogom Bygone, aby chronili mnie w kopalniach. Póki co nic mi się nie stało. }
+Plh_187 { Słyszałem, że jeśli zostawisz odpowiednią ofiarę, zdobędziesz przychylność tych dawnych bogów... Ale nie wiem, co muszę poświęcić, aby tak się stało. W każdym razie może to być kłamstwo. }
+Plh_140 { Prawie gotowe. Jeśli chcesz, rozejrzyj się trochę. }
+Plh_117 { Mieliśmy szczęście. Czasami w pobliżu przebywają bandyci, którzy próbują uwolnić Cię od części monet. Przejdźmy dalej. }
+Plh_9 { Ach, cholera. Uważaj. Zostań za mną. Zajmę się tym. }
+Plh_14 { Co słychać? }
+Plh_15 { W porządku. }
+Plh_17 { Po prostu bądź cicho i nic nie mów. }
+Plh_12 { Och, gdyby to nie był Mottek! Miło mi cię tu spotkać. Słyszałem, że wyrobiłeś sobie markę. I że jesteś teraz częścią Ocalonych. Już nie wiercisz? *uśmiecha się* }
+Plh_18 { Hej, Adalgis, co tu robisz. Uh... Nie chcę żadnych kłopotów. Przyniosłem ze sobą monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. Dam je tobie. }
+Plh_19 { Myślałeś, że nas nie będzie, prawda? *wzdycha* Zaufaj mi, też wolałbym tu nie być. }
+Plh_114 { Wiesz, jak to jest. Dopóki płacisz, nie zrobimy ci krzywdy. Ale widzę, że przyprowadziłeś kogoś ze sobą. Będzie to łącznie $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ monet. }
+Plh_119 { Hej, Adalgis... jeśli ta twarz nie wygląda znajomo... }
+Plh_120 { Hm? }
+Plh_121 { *patrzy na ciebie* Powiedziałbym, uh... powiedziałbym, że idziemy dalej. Nigdy więcej o nas nie usłyszysz. }
+Plh_122 { Nie wiem, co im zrobiłeś, ale to musiało być coś. }
+Plh_21 { Nie będziemy nic płacić. }
+Plh_22 { Uh, nigdy wcześniej nie chciałeś więcej niż 50 monet. }
+Plh_24 { Wszystko jest coraz droższe. A ty jesteś z obozu Ocalonych. Musisz więc wykazać się większą wypłacalnością. I nie jesteś sam... }
+Plh_26 { Oto mój udział. (przekaż monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+Plh_27 { Nie będziemy płacić nic takim złodziejom jak ty. }
+Plh_115 { Już zapłaciłem ci monetami. }
+Plh_29 { Jasne. $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ monety. To dużo, ale... tak. *patrzy na ciebie* }
+Plh_35 { Zajmij się tym. Oddaj monety albo my po nie przyjedziemy! }
+Plh_36 { Ach, oto oni. Na szczęście mam przy sobie wystarczającą ilość monet. }
+Plh_31 { Oto monety. Teraz przejdźmy. }
+Plh_32 { Łatwy. Dotrzymam słowa. Muszę tylko sprawdzić, czy to naprawdę monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$. }
+Plh_39 { *wzdycha* Wygląda legalnie. Bardzo mi przykro, Mottek, ale bardzo potrzebujemy tych monet. Powodzenia w Wyrobisku. }
+Plh_40 { Hm. Dziękuję... }
+Plh_41 { *szepcze do ciebie* Pospieszmy się. }
+Plh_30 { W porządku, dzięki. Zajmę się tym. }
+Plh_79 { Potem przyjdziemy po monety. }
+Plh_80 { Hej, nie chcemy żadnego... }
+Plh_195 { Uch. Powinienem był to przewidzieć. Nie martw się, poradzę sobie. }
+Plh_116 { Zrobiłeś to teraz? Chyba moja pamięć naprawdę nie jest taka wspaniała. Dlaczego nie zapłacisz mi jeszcze raz, tak dla pewności? Inaczej po nich przyjdziemy. }
+Plh_28 { Hej, skąd pomysł, że z tobą rozmawiamy? }
+Plh_78 { Hej, wszystko w porządku. Ale zazwyczaj nie chcesz więcej niż $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet, prawda? }
+Plh_133 { Wow, co za walka. Nie sądziłem, że nam się uda. Przejdźmy dalej szybko. Zanim pojawi się ich więcej. }
+Plh_134 { Wzięliśmy swoją część. Możesz przejść. }
+Plh_135 { *marszczy brwi i narzeka* Będziemy... jechać. }
+Plh_10 { Oto jesteśmy. Wreszcie. To jest Otchłań. }
+Plh_43 { *ziewa* Nie ma mowy! Motek! Co tu robisz? Myślałam, że już nigdy cię nie zobaczymy! Widzę, że jesteś teraz częścią nas. }
+Plh_123 { Miło cię widzieć. Dotarliśmy tu bezpiecznie. Najwyraźniej rozprawiłeś się z bandytami. }
+Plh_127 { Przechodziłem tędy już wcześniej i pokonałem bandytów. }
+Plh_130 { Nie mogę się doczekać Wyrobisko. Wreszcie znów znaleźć się pod ziemią... }
+Plh_60 { Najpierw zabiorę cię do Levina. Do zobaczenia, Esdert. }
+Plh_61 { *patrzy na ciebie* Cóż, w takim razie witaj w Wyrobisku. Nie wygłupiaj się, nie doprowadzaj do żadnych załamań, a wtedy wszyscy pozostaniemy tutaj przyjaciółmi. }
+Plh_52 { Moja kompania już rozbiła bandytów. Już nigdy nie pokażą twarzy! }
+Plh_63 { *patrzy na ciebie zdziwiony* Dobra robota. To obciążenie z moich barków. Ludzie mogą mówić o tobie, co chcą, Mottek, ale wielkim wojownikiem nie jesteś. Masz szczęście! }
+Plh_131 { Jeśli je pokonasz, również otrzymasz nagrodę. }
+Plh_66 { Oto kilka monet za twoje kłopoty. Jeśli nam pomożesz, zapłacimy Ci. }
+Plh_67 { Cóż, jeśli nie jest to pomyślny początek. Nie mogę się doczekać Wyrobisko. Minęło o wiele za dużo czasu, odkąd tam byłem. }
+Plh_69 { Dziękuję. }
+Plh_70 { Gdzie muszę dalej iść? }
+Plh_64 { Prawie nic nie zrobiłem. Ale kiedyś istniała nagroda. Cokolwiek się z tym stało? *uśmiecha się* }
+Plh_65 { Chwileczkę... }
+Plh_46 { Miło cię widzieć, Esdert. W drodze tutaj zaatakowali nas bandyci. Myślałam, że się nimi zaopiekowałeś. }
+Plh_47 { Co? Zrobiliśmy, ale najwyraźniej wrócili? To nie może się, do cholery, dziać... }
+Plh_132 { Uciekli, gdy tylko nas zauważyli! *uśmiecha się* W najbliższym czasie nie wrócą. }
+Plh_62 { Jak widzę, nie przyszedłeś sam. Kto to jest? }
+Plh_49 { *jego uśmiech blednie* Kogoś do rąbania. I dać się oszukać. }
+Plh_53 { Jesteśmy tam. Zrobiłem co do mnie należało. Jesteś teraz w Otchłani. *odwraca się od ciebie* }
+Plh_50 { Kogoś do kopania. I dać się oszukać. Uratował mi tyłek, gdy bandyci szukali moich monet. }
+Plh_71 { Levin jest tuż przed nami. On tu rządzi i powinieneś stanąć po jego dobrej stronie. Jeśli w pewnym momencie zechcesz dołączyć do Ocalonych, będziesz potrzebować jego głosu. }
+Plh_72 { Jak zdobyć głos Levina? }
+Plh_75 { Dzięki. Pójdę porozmawiać z Levinem. }
+Plh_73 { To jest problem. Będzie myślał, że jesteś nikim więcej, jak tylko kolejnym zwykłym kopaczem. Odkryłem Głębinową Kopalnię i Levin się o tym dowiedział. Dlatego teraz noszę tę zbroję. *uśmiecha się* }
+Plh_74 { Zrób to. Aha, i tu jest kolejna rada. }
+Plh_188 { Kiedy już znajdziesz się w Otchłani, przyjrzyj się sposobowi, w jaki dzierżysz topór. Nie chcesz zniszczyć cennego srebra. Uderzaj ostrożnie i utrzymuj stałe tempo. }
+Plh_76 { Dziękuję za wskazówkę. }
+Plh_141 { Czy jesteś gotowy? }
+Plh_142 { Chodźmy do Wyrobiska. }
+Plh_151 { Co oznaczają te słowa o Bygone? }
+Plh_143 { Potrzebuję trochę więcej czasu. }
+Plh_93 { Będziemy podążać drogą, a następnie udamy się utartą ścieżką, a następnie przeprawimy się przez wodę. Most zawalił się jakiś czas temu. Chodź, podążaj za mną. }
+Plh_152 { Nauczyła mnie ich mama. Powiedzieliśmy to naszym Bóstwom, ale nie może być źle powiedzieć tych samych słów bogom Bygone. }
+Plh_144 { W porządku, poczekam tutaj. }
+Plh_136 { Lewo, prawo, my obaj, zatrzymajmy czas! Ci bandyci nie będą już z nami zadzierać. }
+Plh_137 { Wszystko mnie boli i to wszystko twoja wina. Czego chcesz? }
+Plh_157 { Czy możesz mi pokazać kilka sztuczek na temat górnictwa? }
+Plh_162 { To będzie cię kosztować niezłą monetę. Monety $GVAR:EVars_Mottek.PriceToLearnMining$. }
+Plh_163 { Weź to. (przekaż monety $GVAR:EVars_Mottek.PriceToLearnMining$) }
+Plh_145 { Kopalnia na mnie czeka. }
+Plh_150 { Jestem do Twojej dyspozycji. }
+Plh_149 { Trzymam cię. }
+Plh_148 { Czuwaj nade mną. }
+Plh_147 { Chroń mnie. }
+Plh_196 { Dlaczego miałbym chcieć udać się do Górnej Dzielnicy? }
+Plh_197 { Bez dostępu do Górnej Dzielnicy nie można dołączyć do Ocalonych. Kilian zdecydował, że zostaniesz przyjęty, i nigdy nie odchodzi. }

@@ -1,0 +1,30 @@
+title_character_segment { Postać }
+label_character_level { Poziom }
+tooltip_character_level { Wyświetla twój aktualny poziom. Wskazuje on, jak potężna jest twoja postać. }
+tooltip_character_faction { Wyświetla twoją obecną przynależność. }
+tooltip_character_skillpoints { Możesz użyć punktów nauki, aby podnieść swoje umiejętności lub nauczyć się nowych talentów od nauczycieli. Każdy nowy poziom zapewnia ci <color=#55BD55>cztery</color> punkty nauki i <color=#55BD55>pięć</color> punktów zdrowia. }
+label_character_skillpoints { Punkty Nauki }
+tooltip_character_xp { Otrzymasz punkty doświadczenia za pokonanie przeciwników lub ukończenie zadań. }
+label_attributes_hitpoints { Zdrowie }
+tooltip_attributes_hitpoints { Gdy twoje zdrowie spadnie do zera, twoja postać ginie. }
+tooltip_attributes_stamina { Wytrzymałość jest używana do blokowania, unikania i mocnych ataków. }
+label_attributes_stamina { Wytrzymałość }
+tooltip_attributes_flow { Koncentracja jest używana do umiejętności. Generuje się, gdy zadajesz obrażenia, i rozprasza się z czasem lub po otrzymaniu obrażeń. }
+label_attributes_flow { Koncentracja }
+tooltip_attributes_power { Biegłość to suma twoich atrybutów i warunek wstępny do używania niektórych broni. }
+tooltip_attributes_strength { Siła zwiększa fizyczne obrażenia zadawane przez ciebie o [VALUE]. }
+tooltip_attributes_dexterity { Zręczność zwiększa twoją szansę na cios krytyczny o [VALUE]. Każdy cios krytyczny powoduje krwawienie u celu i dodatkowe obrażenia, zależnie od typu broni. }
+tooltip_attributes_mind { Umysł zwiększa twoje obrażenia magiczne o [VALUE1] oraz twoją bazową koncentrację o [VALUE2]. }
+label_attributes_armor { Pancerz }
+tooltip_attributes_armor { Zmniejsza otrzymywane obrażenia fizyczne. }
+tooltip_attributes_magic_resistance { Zmniejsza otrzymywane obrażenia magiczne. }
+label_attributes_magic_resistance { Odporność na Magię }
+title_equipment_segment { Ekwipunek }
+title_directquickbar_segment { Skróty }
+faction_none { Bez frakcji }
+faction_nemeton { Nemeton }
+faction_ruincamp { Obóz Ocalonych }
+title_ammo { Amunicja }
+totalFIghtingStrength { Biegłość }
+baseFightingStrength { Bazowa Biegłość }
+baseFightingStrengthDesc { Bazowa biegłość to suma twoich atrybutów bez dodatkowych bonusów z ekwipunku i jest uznawana za wymóg talentu. }

@@ -1,0 +1,50 @@
+Plh_12 { Jeśli sprawisz kłopoty, natychmiast się stąd wydostaniesz. Trzymaj ręce przy sobie. }
+Plh_13 { Jakie dokładnie zasady tu obowiązują? }
+Plh_14 { Gdzie mogę tu wszystko znaleźć? }
+Plh_15 { Czy możesz mi powiedzieć coś o Nemetonie? }
+Plh_16 { Jeśli kogoś zaatakujesz, nie będzie ci łatwo przebaczone. Będziesz musiał zapłacić grzywnę Gerdwinowi w Dzielnicy Wojowników. Jeśli zaryzykujesz szczęście, ten błąd będzie twoim ostatnim. }
+Plh_17 { Na dalekiej północy znajdują się handlarze, u których możesz kupić wszystko, czego potrzebujesz. Na południe stamtąd są bojownicy. Angus jest ich szefem i to on decyduje, kto i co może robić w Nemeton. }
+Plh_19 { Dalej na południe znajdziesz Crafterów. Można się z nich dowiedzieć, jak tworzyć pułapki, amunicję i mikstury. }
+Plh_20 { Na wschodzie znajduje się Zaginiona Dzielnica. Niestety, nie ma wystarczającej liczby Rzemieślników, aby utrzymać wszystkie chaty. }
+Plh_18 { Nemeton to pierwszy i największy obóz w Drova. W tamtym czasie Ocalonych nadal stanowili część Nemetonu. Ale Jero opuścił nas i założył obóz Ocalonych, zabierając ze sobą wielu dobrych ludzi. }
+Plh_86 { Co muszę wiedzieć o Nemetonie? }
+Plh_88 { Ludzie tacy jak ty mają dostęp do trzech kwater w Nemeton. }
+Plh_89 { Zaraz przy Bramie Zachodniej znajduje się Rynek, na którym można kupić wszystko, czego potrzeba. Lub sprzedaj, jeśli potrzebujesz kilku monet. }
+Plh_90 { Na wypadek, gdyby ktoś miał na ciebie ochotę, poszukaj ochrony u bojowników. Ale tak naprawdę to miejsce jest dla wojowników Nemetonu, a nie dla nowicjuszy. Bojowników znajdziesz tuż obok Rynku. }
+Plh_91 { A potem są Craftersi. Znajdziesz je w pobliżu menhirów, w najbardziej wysuniętej na południe części obozu. Z tego, jak wyglądasz, możesz znaleźć tam pracę. }
+Plh_87 { Jakie tu obowiązują zasady? }
+Plh_92 { Właściwie to jest oczywiste. }
+Plh_93 { Trzymaj rękawice z dala od rzeczy, które nie należą do ciebie. Nie wchodź przypadkowo do czyjegoś domu. Niektórzy ludzie nie zareagują na to zbyt życzliwie. }
+Plh_94 { I nie wdawaj się w żadne bójki. Gerdwin naprawdę nie chce, żeby ktokolwiek wdawał się w bójki w Nemeton. }
+Plh_95 { Jeśli wpadniesz w kłopoty, udaj się do Gerdwina w Dzielnicy Wojowników. On może przebaczyć twoje złe uczynki. }
+Plh_96 { Oczywiście w zamian za niewielką darowiznę dla Nemetona. }
+Plh_84 { Hej. }
+Plh_54 { Myślałem, że przyjdzie tu ktoś jeszcze z Ocalonych. }
+Plh_56 { Zaatakowałeś obóz Ocalonych? }
+Plh_55 { Co się tutaj wydarzyło? }
+Plh_57 { W naszą stronę ruszyła duża grupa wojowników w czerwonych zbrojach. Myśleliśmy, że nas zaatakują, ale odwrócili się w drugą stronę. Jeden z nich powiedział, że nas zabiją, jeśli odważymy się udać na północ. }
+Plh_58 { „Las zalewowy jest nasz” – powiedzieli. Musisz uważać – nie zawahają się i cię zabiją. Zbliża się wojna. }
+Plh_59 { Muszę jakoś dotrzeć na pagórek. Znasz sposób? }
+Plh_61 { Do pagórka? Remnants prawdopodobnie też chcą się tam udać. Z jakiego innego powodu mieliby tu przyjechać? }
+Plh_62 { Jendrik już tam był, ale to było dawno temu. Jeśli ktoś wie, to wie. }
+Plh_63 { Ale uważaj. Utrzymamy tutaj fort. Nie sądzę, że szukają Obozu Drwali. Jeszcze nie. }
+Plh_64 { Prawie. Ale nie, nic nam się nie stało. }
+Plh_53 { Czy widziałem cię już wcześniej? Pomogłeś nam, kiedy nas tu zaatakowano! }
+Plh_67 { To jest dobry przyjaciel. $GVAR:EVars_Player.Name$ pomógł nam naprawić most. Pomimo zbroi Ocalonych, $GVAR:EVars_Player.Name$ jest dobrym człowiekiem. }
+Plh_68 { Nie chcemy dać się wciągnąć w problemy Nemetona ani w kłopoty Ocalonych. Czego tu chcesz? }
+Plh_69 { Mamy wojowników w całym Lesie Zalewowym. Sam nigdzie nie dojdziesz. }
+Plh_65 { Spokojnie, nie chcemy kłótni. Chciałem tylko kupić trochę drewna. }
+Plh_66 { Nie widzę ich tutaj. Jesteśmy tylko my dwoje. }
+Plh_72 { Chcę iść na pagórek. Czy wiesz jak mogę się tam dostać? }
+Plh_75 { Najlepiej będzie zgłosić się do Jendrika. Mimo że jesteś jednym z Ocalonych, jesteśmy głęboko zadłużeni. }
+Plh_73 { Bez ciebie nie dalibyśmy rady, a ja też jestem twoim dłużnikiem. Nie zrobię ci krzywdy. }
+Plh_74 { Tego nie wiemy, a las roi się od wojowników Nemetonu. Nie ma mowy, żebyś przez to przeszedł. Odwracać się. }
+Plh_9 { Gerdwin wysłał posiłki? Przyjdź szybko. Obóz drwali jest atakowany! }
+Plh_27 { Hej, ty – nawet jeśli jesteś jednym z Ocalonych – Obóz Drwali jest atakowany! Potrzebujemy pomocy! Przyjdź szybko! }
+Plh_85 { Nie rób nic głupiego. Wtedy wszystko tutaj może ułożyć się pomyślnie. }
+Plh_98 { Wszystko jest tu bezpieczne. Dobrze zrobiony. }
+Plh_25 { Zostanę tutaj i będę czuwać. Powiem Gerdwinowi, że zostaliśmy zaatakowani, ale teraz wszystko jest zabezpieczone. Naprawdę uratowałeś nasz zad! }
+Plh_28 { Dziękuję za pomoc, ale odtąd Nemeton przejmie dowodzenie. }
+Plh_26 { Nie chcę tego mówić, ale potrzebowaliśmy każdego zawodnika. Nawet ktoś z Ocalonych. }
+Plh_24 { *jęczy* Colin to kupił. Dobrze walczyłeś. }
+Plh_23 { Wciąż są tu stworzenia. Musimy ich wszystkich zabić. }

@@ -1,0 +1,187 @@
+Plh_10 { Kim jesteś i co tutaj robisz? }
+Plh_19 { Dość duży obóz tylko dla dwóch osób. }
+Plh_22 { Tak przy okazji, nazywam się $GVAR:EVars_Player.Name$. }
+Plh_224 { Chcę ci coś powiedzieć. }
+Plh_34 { Tylko jak przez mgłę pamiętam, jak się tu dostałem... }
+Plh_39 { Minąłem kilku drwali... }
+Plh_225 { Posłucham – po prostu wylej swoje serce, ile chcesz. }
+Plh_52 { Słyszałem już o dwóch dużych frakcjach w Drova. }
+Plh_60 { Widziałem gigantyczne ruiny! Jak ludzie w przeszłości mogli wznosić takie konstrukcje? }
+Plh_61 { Ruiny Bygones robią wrażenie, prawda? Zastanawiałem się nad tym samym – musieli rywalizować z Bóstwami. }
+Plh_62 { I co się stało, że wszystkie zniknęły? Dlaczego zginęli? }
+Plh_64 { Dołączyłem do Nemetona! }
+Plh_65 { Dołączyłem do Ocalonych! }
+Plh_124 { Zaopiekowałem się zrywakami w lesie! }
+Plh_135 { Udało mi się dotrzeć do Pierwotnej Puszczy! }
+Plh_178 { Hej, Pwyll, wszystko w porządku? }
+Plh_176 { (czyste gardło) }
+Plh_177 { Cześć? Umysł? }
+Plh_32 { *uśmiecha się* Dziękuję za poświęcony czas. Zawsze miło jest usłyszeć o świecie na zewnątrz. }
+Plh_33 { Zawsze jesteś tu mile widziany – niezależnie od tego, czy chcesz mi coś powiedzieć, czy po prostu zaczerpnąć powietrza. }
+Plh_5 { Pozdrowienia! Jestem Pwyll. Witamy w naszym obozie. }
+Plh_9 { Pozdrawiam również Ciebie! Nazywam się $GVAR:EVars_Player.Name$. }
+Plh_23 { *uśmiecha się* Miło cię poznać, $GVAR:EVars_Player.Name$. Czy mogę Ci w czymś pomóc? }
+Plh_24 { Nie, naprawdę nie. }
+Plh_25 { Niedawno tu przybyłem. Przede wszystkim czuję się... przytłoczony. Przez wszystko. }
+Plh_26 { *uśmiecha się* Miło to słyszeć. }
+Plh_27 { Jeśli chcesz z kimś porozmawiać o swoich doświadczeniach... Słucham. }
+Plh_28 { *przekrzywia głowę* Niedawno przyjechałeś? W tym świecie? Wtedy będziesz zdezorientowany wieloma sprawami. }
+Plh_29 { Jeśli masz ochotę, śmiało opowiedz mi o swoich przygodach w Drova. }
+Plh_12 { Och, dwa pytania, na które nie jest łatwo odpowiedzieć! Kim jestem? Co ja tu robię? Ciągle zadaję sobie to samo pytanie. }
+Plh_13 { Ale prawdopodobnie jesteś trochę mniej... metafizyczny. Cóż, jesteśmy ludźmi, którzy wolą trzymać się z daleka od wszystkich konfliktów, które zbyt często nękają ten świat. }
+Plh_14 { Większość mieszkańców lasów jest bezprawna. Bandyci. Nie jesteśmy. Chcemy po prostu żyć w pokoju. }
+Plh_16 { Czy nie jest tu niebezpiecznie? }
+Plh_17 { Jak wygląda życie w lesie? }
+Plh_20 { Niebezpieczny? Hmm... }
+Plh_21 { Życie tutaj może być całkiem przyjemne. Oczywiście brakuje Ci niektórych udogodnień dostępnych na obozach, ale musisz po prostu wykazać się kreatywnością! }
+Plh_217 { Ostatnio jednak po lesie grasuje wielu rozpruwaczy. Zatem jednym ze sposobów wykazania się kreatywnością jest ich unikanie. }
+Plh_18 { Och, moi przyjaciele Wind i Babsi gdzieś są. Jestem pewien, że wrócą w każdej chwili. *uśmiecha się* }
+Plh_216 { Ale pomyśl o tym... Wiatru już nie ma już od dłuższego czasu. Lubi spędzać czas w tawernie w południowej części lasu. Jest tam całkiem przytulnie. }
+Plh_131 { Witamy w naszym obozie. }
+Plh_8 { Znowu jesteś. Właśnie o tobie myślałem. }
+Plh_132 { Hej. Wyglądam dzisiaj dobrze! }
+Plh_172 { Przepraszam, jestem teraz dość zajęty. Porozmawiamy później! }
+Plh_133 { *wygląda nieco blado i wydaje się, że cię nie zauważa* }
+Plh_210 { Hej, $GVAR:EVars_Player.Name$. Zawsze cieszę się, że cię widzę. *uśmiecha się* }
+Plh_36 { Dwóch druidów opuściło wioskę z kryształem. Słyszałem plotki o Drovie i Nemetonie i chciałem wiedzieć, co knują. }
+Plh_37 { Po śmierci Maerona Venia i ja jakimś cudem udało nam się dotrzeć do Drova wraz z Dzikiem. Niestety, zmarła po drodze... }
+Plh_38 { Otrzymałem potężny kryształ. Ha! Wygląda na to, że zostałem wybrany. }
+Plh_47 { To wszystko brzmi bardzo – ekscytująco. Cieszę się, że masz się dobrze. Mam nadzieję, że uda ci się znaleźć druida, który ci pomoże. Niestety, nie jest łatwo je zdobyć. Ale nie jest to też niemożliwe. *uśmiecha się* }
+Plh_40 { Szczerze mówiąc, drwale byli dość marudni. Pa. }
+Plh_41 { Drwalom brakuje ochrony. Zostały dość źle wyselekcjonowane. }
+Plh_42 { Nie mieli ani jedzenia, ani schronienia. Biedni ludzie, musiałem im pomóc... }
+Plh_43 { Pomagałem im, jak mogłem. Wkrótce powinno im być lepiej. }
+Plh_44 { Naprawdę nie było problemu z pomaganiem im. Teraz nie muszą już tak bardzo narzekać. }
+Plh_45 { Zastanawiałem się, dlaczego Nemetonowie nie robią więcej, aby ich wesprzeć. }
+Plh_46 { Wygląda na to, że to dla ciebie trudny czas. Ale najwyraźniej jesteś naprawdę bystry. A to jest tu ważne! }
+Plh_48 { Wygląda na to, że wiele już przeszedłeś podczas swojego krótkiego pobytu tutaj. Ale osiągnąłeś wiele i pomogłeś wielu! }
+Plh_49 { Wygląda na to, że nie doświadczyłeś najgorszych aspektów Drova. To świetnie! }
+Plh_53 { Więc? Co o nich myślisz? }
+Plh_55 { Mam dobre przeczucia co do Ocalonych. }
+Plh_56 { Wierzę w Nemetona. Dlatego tu jesteśmy. }
+Plh_57 { Zanim dokonam wyboru, przyjrzę się bliżej obu frakcjom. }
+Plh_58 { Nie jestem zainteresowany dołączeniem do żadnej z tych frakcji, ale muszę skądś zdobyć lepszy sprzęt, prawda? }
+Plh_59 { Hm. Nie mogę się doczekać, żeby dowiedzieć się, dokąd zaprowadzi Cię Twoja podróż. }
+Plh_67 { Jak miło! Gratulacje! }
+Plh_69 { Jak sobie z tym poradziłeś? Słyszałem, że nikogo nie wpuszczają. }
+Plh_71 { Dopóki nie jesteś całkowicie bezużyteczny, to naprawdę nie jest takie trudne. }
+Plh_72 { Kazali mi zająć się kilkoma sprawami, ale nie było nic, z czym nie mógłbym sobie poradzić. }
+Plh_73 { Mogę sobie wyobrazić, że dla niektórych osób może to być dość trudne. Może po prostu miałem szczęście. }
+Plh_75 { Cóż, najpierw musiałem dostać się do Nemetonu. }
+Plh_77 { Ujmę to tak: nie ma rzeczy, której nie dałoby się osiągnąć przy pomocy kilku monet. To znaczy, o ile je masz. }
+Plh_80 { Pomogłem handlarzowi, który następnie przemycił mnie. }
+Plh_79 { Zauważyłem kota, który pokazał mi ukrytą drogę do środka. }
+Plh_78 { Jakakolwiek frakcja byłaby głupia, gdyby mnie odrzuciła. }
+Plh_81 { Sprawdziłem się pomagając w Georgefarm. }
+Plh_83 { Żartujesz sobie! }
+Plh_84 { TO zadziałało? }
+Plh_85 { Co się stało dalej? }
+Plh_90 { Potem pozwolono mi wejść do Nemeton i miałem dowiedzieć się, co stało się z dostawą broni, która zniknęła. }
+Plh_92 { Gdyby po prostu ze sobą porozmawiali, cały bałagan mógłby zostać rozwiązany dość szybko. }
+Plh_93 { Wszyscy skakali sobie do gardeł. Zrobiłem wszystko, żeby zachęcić ich do zakopania topora. }
+Plh_94 { Dopiero co przyjechałem, a już musiałem udaremnić taką katastrofę... Dobrze, że byłem we właściwym miejscu o właściwym czasie. }
+Plh_96 { W końcu stało się tak tylko z powodu jednej rozgoryczonej osoby, która wykorzystywała słabszych. Jak to często bywa. }
+Plh_97 { Właściwie był to po prostu konflikt pomiędzy obydwoma obozami. }
+Plh_98 { Sprawca mnie nie docenił, więc go zdemaskowałem. Nie może winić nikogo innego, jak tylko siebie. }
+Plh_99 { Ach, ta sama stara historia. Cieszę się, że dobrze się to skończyło. Dzięki tobie. }
+Plh_103 { *mierzy cię* I masz z tego niezłą zbroję. Nieźle. Wcale nie jest źle. }
+Plh_100 { Na szczęście udało Ci się wszystko wyjaśnić. Wszystkim tutaj źle się dzieje, gdy frakcje się kłócą. }
+Plh_101 { Dla $GVAR:EVars_Player.Name$ nie stanowi to problemu. *chichocze* }
+Plh_102 { Nie możemy mieć wokół siebie wystarczającej liczby ludzi takich jak ty. }
+Plh_87 { Nie było to nic specjalnego, ale był to uczciwy dzień pracy. }
+Plh_88 { Mogłem znaleźć lepszy sposób na spędzenie czasu, ale ludzie w Nemeton i tak o tym nie wiedzieli. }
+Plh_89 { Życie tam nie jest łatwe, ale na szczęście mogłem każdemu podać pomocną dłoń. }
+Plh_104 { Na początku musiałem pokonać oba Ostrza Jero. }
+Plh_107 { Kilka zadań nie przypadło mi do gustu, ale czasem trzeba zrobić, co trzeba. }
+Plh_108 { W ten sposób mogłem dowiedzieć się więcej o obozie. }
+Plh_109 { Powiedzmy, że mam talent do zjednywania sobie ludzi. }
+Plh_111 { Nie mogłem jednak rzucić pracy w kopalni srebra. }
+Plh_113 { Nie rozumiem, dlaczego tak wielu ludzi pracuje nad sobą do szpiku kości. Cieszyłem się, że mogę wyjechać. }
+Plh_114 { I oczywiście zastanawiałem się, po co Pozostałym potrzebne jest całe to srebro. }
+Plh_115 { Tamtejsi ludzie ciężko pracują, ale to ich też łączy. }
+Plh_117 { Cierpią tam słabi. Starałem się pomóc gdzie tylko mogłem. }
+Plh_118 { Jednak dzięki jakiemuś ukrytemu błogosławieństwu nie musiałem długo pracować jako Kopacz. }
+Plh_119 { Pośród tych wszystkich typów, nie miałem trudności z wykazaniem się. }
+Plh_120 { Mieszkańcy tej krainy są naprawdę szczęśliwi, że cię mają, $GVAR:EVars_Player.Name$. }
+Plh_121 { Zastanawiam się, dokąd zaprowadzi cię zachowanie trzeźwego umysłu w Drova. }
+Plh_122 { Rzeczywiście, niczego innego się po tobie nie spodziewałem. }
+Plh_70 { To chyba nie było takie proste, jak wszyscy mówią, prawda? }
+Plh_125 { Ach, wiedziałem, że to ty! Słyszałem, że Faol rzekomo się nimi opiekował. Lubię go, ale tak naprawdę jest zbyt ostrożny, żeby stawić czoła takiemu zagrożeniu. }
+Plh_126 { Dziękuję, $GVAR:EVars_Player.Name$. Oddałeś wielką przysługę temu lasowi i wszystkim jego mieszkańcom. }
+Plh_127 { Nie, to było nic. }
+Plh_128 { To nie było łatwe. }
+Plh_129 { Teraz nikt nie musi się już bać rozpruwaczy. }
+Plh_130 { Jesteś naprawdę niezawodny. }
+Plh_136 { Byłeś w Pradawnym Lesie? Musisz mi o tym powiedzieć! Chodź, usiądźmy. }
+Plh_137 { (usiąść) }
+Plh_138 { Czasami przechadzam się skrajem lasu, ale nie odważę się do niego wejść. Wygląda tak głęboko i ponuro. Co jest w środku? Dociekliwe umysły muszą wiedzieć! }
+Plh_142 { Wewnątrz znajduje się Schronienie, dla niektórych rodzaj sanktuarium. Ale najpierw musiałem to znaleźć. }
+Plh_139 { Czarny Płomień wypala światło, ale las się przystosował. Naprawdę fascynujące miejsce. }
+Plh_140 { Wśród ogromnych drzew i świecących liści czujesz zarówno spokój, jak i niepokój. Miejsce z historią... }
+Plh_141 { Cóż, są drzewa i zawsze gdzieś coś świeci. Ale w ostatecznym rozrachunku to tylko kolejny las... }
+Plh_145 { Szczerze mówiąc... ludzie w Schronisku są dziwni. „Słuchaj, tak naprawdę nie jesteśmy ludźmi i wcale nie rzucamy się w oczy!” }
+Plh_146 { Mieszkańcy lasu czczą Potężnego Dzika i starają się żyć w harmonii z lasem. Wiele się o nich dowiedziałem. }
+Plh_147 { Mieszkańcy Schroniska zdołali dostosować swój tryb życia do lasu. Jakby byli jego częścią. Przy nich czułem się bezpiecznie. }
+Plh_149 { Kiedy dowiedziałem się więcej o ich życiu i zaletach, zaakceptowali mnie. }
+Plh_150 { Jakiego rodzaju były to cnoty? A jak się o nich dowiedziałeś? }
+Plh_151 { Jedną z cnót było współczucie. Aby to zademonstrować, pomagałem w hodowli prosiąt. }
+Plh_152 { Prosięta były takie urocze! Pozwolono mi się nimi opiekować i odczuć przy tym cnotę współczucia. }
+Plh_153 { Już o nich zapomniałem. Nie były aż tak ekscytujące. }
+Plh_157 { Następną cnotą była odwaga... }
+Plh_158 { Niedźwiedź zgubił drogę i zagrażał harmonii lasu, więc musiałem się z nim zmierzyć. }
+Plh_159 { Musiałem zmierzyć się z zagubionym niedźwiedziem – w ciemnym, dziwnym lesie! Nie było to łatwe, ale udało mi się. }
+Plh_161 { Ostatnią cnotą była harmonia. Zostało mi to wyjawione przez pomyłkę, ale mogłem sam to rozgryźć. }
+Plh_162 { Wtedy brakowało tylko harmonii. Zostało mi to ujawnione przez przypadek, ale można było to wyczuć w całym obozie, gdzie byli wszyscy. }
+Plh_163 { To są dobre wartości, którymi warto żyć. Chciałbym, żeby obozy też czegoś takiego uczyły i według tego żyły... }
+Plh_164 { Jak zostałeś przez nich zaakceptowany? }
+Plh_165 { Podczas ceremonii wybrało mnie małe świecące stworzenie zwane iskrą. To musiał być argument na moją korzyść. }
+Plh_166 { Iskra została przyciągnięta do mnie, a ja do niej. To wystarczyło ludziom w Schronieniu. }
+Plh_167 { Nawet nie wiedziałem, co się stało. Spadł na mnie jakiś świecący gadżet i tyle. }
+Plh_168 { Wygląda na całkiem interesującą grupę w Leśnej Pradawnej. Może nawet uda mi się przekonać innych, żeby pewnego dnia złożyli im wizytę. Nie mam ochoty tam dalej sama wchodzić. }
+Plh_169 { Dziękujemy za raport. Ciekaw jestem, dokąd zaprowadzi Cię kolejna podróż. *uśmiecha się* }
+Plh_170 { Przepraszam, ale muszę coś załatwić i chciałbym dokończyć. }
+Plh_171 { Do zobaczenia! }
+Plh_155 { Och, $GVAR:EVars_Player.Name$! }
+Plh_156 { Czy w przypadku swojej frakcji wolisz patrzeć w przyszłość, niż rozpamiętywać przeszłość? }
+Plh_179 { O, cześć, $GVAR:EVars_Player.Name$. Nie zauważyłem cię tam. Miło cię widzieć! Co słychać? }
+Plh_180 { Pradawny Las... Pwyll... my... my go zniszczyliśmy! Wszystko! *wyciera łzy* }
+Plh_181 { Wybraliśmy się na wyprawę do serca Pradawnej Puszczy. Poszło… cóż, nie do końca tak, jak planowano. }
+Plh_182 { Udało nam się, Pwyll! Złapaliśmy Boskość! Cóż, Pradawny Las już nie istnieje, ale nie da się zrobić omletu bez rozbicia kilku jajek. }
+Plh_183 { Hej, hej, wszystko będzie dobrze! Chodź tutaj. }
+Plh_184 { (podejdź do Pwylla) }
+Plh_190 { *przytula cię ciepło* }
+Plh_191 { Na niektóre rzeczy nie mamy wpływu. }
+Plh_192 { Nie jesteśmy w stanie kontrolować wszystkiego. Lub określ wszystko. Ale możemy poczuć, co coś z nami robi. I to właśnie robisz. To dobra rzecz. }
+Plh_193 { Popełniamy błędy. Uczymy się. Nawet od złych rzeczy. Rzeczy, których nie możemy cofnąć. Ale nie możemy pozwolić, żeby nas złamali. }
+Plh_194 { *Delikatnie odsuwasz się od niego* Dzięki, Pwyll. }
+Plh_195 { *płacze* }
+Plh_196 { Jestem pewien, że wszystko w końcu się ułoży. Wierzę w ciebie! }
+Plh_198 { Jeśli zajdzie taka potrzeba, nie pozostawię kamienia obojętnym. Dla lepszej przyszłości! }
+Plh_199 { *bierze głęboki oddech* Mam wątpliwości... }
+Plh_200 { Jeśli ktokolwiek może zmienić sytuację w tym naszym szalonym świecie, to będę to ja. }
+Plh_202 { Poczekaj, mam dla ciebie coś małego. Potrzebuje tylko ostatniego szlifu... }
+Plh_203 { Dla Ciebie! }
+Plh_204 { To maska, która ma przedstawiać Twoją postać. Mam nadzieję, że ci się spodoba. *uśmiecha się* }
+Plh_206 { Och... Dziękuję, Pwyll. }
+Plh_207 { Będę go nosić ze sobą. Zawsze. }
+Plh_208 { To naprawdę nie było konieczne. Naprawdę nie. }
+Plh_205 { Jestem o krok od zmiany. Zrobiło się tu zbyt niebezpiecznie, mimo że Babsi dawała z siebie wszystko. Zamierzam zabrać moich przyjaciół z powrotem do większej społeczności. }
+Plh_209 { Czuję, że wyruszam w większą podróż... *uśmiecha się* Boskości prowadzą każdego na swój własny sposób. Miło było Cię poznać, $GVAR:EVars_Player.Name$. Powodzenia na własnej drodze. }
+Plh_218 { Cała przyjemność po mojej stronie, Pwyll. Dziękuję za wysłuchanie i trzymaj się! }
+Plh_219 { Gdzie zamierzasz iść? }
+Plh_220 { Powiedziałem ci to wszystko, a jedyne co dostaję to ta beznadziejna maska? }
+Plh_214 { Dlaczego najpierw na to nie spojrzysz? *mruga* }
+Plh_213 { Wszyscy mamy wątpliwości, $GVAR:EVars_Player.Name$. Nie pozwól, żeby Cię dusiły. I zaufaj swojemu instynktowi. Możesz to zrobić! }
+Plh_197 { Jestem z tobą. }
+Plh_185 { Poczułem, że las się zmienia. }
+Plh_186 { Żałuję tego, co się stało, ale... musiałam to zrobić. Musiałem odegrać swoją rolę. }
+Plh_187 { Jeśli kiedykolwiek chcieliśmy opuścić to miejsce, musieliśmy to zrobić. Nic nie można było na to poradzić. }
+Plh_188 { Gdybyśmy kiedykolwiek chcieli zamienić Drovę w Krainę Legend, nie było innego wyjścia. }
+Plh_189 { *oddycha głęboko* }
+Plh_227 { Nie czułam się już dobrze w starym świecie. Zakradłem się za druidami i ich kryształem, w nadziei dotarcia do Drovy. }
+Plh_228 { Druidzi uciekli z tajemniczym kryształem. Nie miałem nic lepszego do roboty niż gonić ich... }
+Plh_229 { Na Mglistych Szlakach użyliśmy kryształu, aby przywołać Boskość. Pociągnęło nas ze sobą do Drova. Byłem jedynym ocalałym. }
+Plh_230 { To było dość tajemnicze i niebezpieczne. Ale w końcu trafiłem do Drova. Tylko to się liczy. }
+Plh_231 { Biedni druidzi. Szkoda, że ​​nie dotarli do Drova. Muszę spełnić ostatnie życzenie Venii... }
+Plh_232 { Venia dała mi kryształ i powiedziała, że ​​musi dotrzeć do druidów. Nie mogę się doczekać, żeby dowiedzieć się, o co w tym wszystkim chodzi. }
+Plh_233 { Pomagałem ludziom, ale nie mogę tylko wymienić zalet. Każdy musi je odkryć sam. }

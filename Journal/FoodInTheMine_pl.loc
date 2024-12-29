@@ -1,0 +1,3 @@
+Title { Jedzenie dla Drwali }
+Entry_01 { Shona, odpowiedzialna za jedzenie, chce, żebym zdobył $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałków surowego, włóknistego mięsa z digpigs w Wyrobisku. }
+Entry_02 { Shona przygotowała nowe danie z mięsa, które jej przyniosłem. To zapewni drwalom jedzenie na jakiś czas. }

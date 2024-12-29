@@ -1,0 +1,60 @@
+Plh_49 { Muszę zrobić sobie przerwę... }
+Plh_33 { Czy zebrałeś wystarczającą ilość żelaza darniowego? }
+Plh_35 { To powinno wystarczyć. (Daj darniowe żelazo) }
+Plh_58 { Zabrałem to do Rury. }
+Plh_34 { Wciąż nad tym pracuję. (zakończ rozmowę) }
+Plh_36 { Chunnaic będzie z tego zadowolony. Dam to Mucowi, kiedy wróci, i dam znać Georgowi, jeśli będzie o ciebie pytał. }
+Plh_37 { Masz dla mnie jeszcze jakąś pracę? }
+Plh_70 { Kto widział? }
+Plh_40 { Do zobaczenia później. (zakończ rozmowę) }
+Plh_38 { Nie. Ale możesz zapytać Dylarę. Prawie na pewno potrzebuje pomocy przy moście. }
+Plh_41 { Gdzie mogę znaleźć Dylarę? }
+Plh_42 { Podążaj ścieżką na zachód, a następnie kieruj się na północ. Nadzoruje remont mostu. }
+Plh_44 { Dlaczego most jest wyłączony? }
+Plh_43 { Kilka nocy temu miało miejsce trzęsienie ziemi. Teraz mostu już nie ma, więc nie możemy już dotrzeć do Obozu Drwali. Szkoda dla nas i dla Nemetonu... }
+Plh_71 { Najlepszy kowal na całym świecie. Nie ma ostrza, którego nie mogłaby wykuć. }
+Plh_72 { Jeśli znajdziesz się w Nemeton, koniecznie ją odwiedź. }
+Plh_57 { Ach, dobrze. Tak czy inaczej, właśnie tam należało udać się z bagniskiem. Wtedy Muc nie będzie musiał się zabijać, dźwigając to. }
+IronForFarmers_Start { Zawsze muszę robić te bzdury dla Georga. Mam to już tutaj! }
+Plh_2 { No już, nie przesadzaj. Czasami musimy zrobić nieprzyjemne rzeczy, ale liczy się cel. }
+Plh_3 { Łatwo ci mówić, jesteś częścią Nemetonu. „Nieprzyjemne rzeczy”? Wbijamy tu sobie tyłki za darmo! }
+Plh_4 { Mógłbym szerzyć o tobie dobre słowo u Nemetona... }
+Plh_5 { Wszyscy mogą pocałować moją kaszę! Wolałbym pojechać do obozu Ocalonych... }
+IronForFamers_Question02 { O co się kłócicie? }
+End { (zakończ rozmowę) }
+Plh_6 { Kłócisz się? Po prostu rozmawiamy. Jestem Jerzy. Ten kretyn to Jurek. }
+Plh_9 { Przynajmniej ten tępak widzi rzeczy takimi, jakie są. Od czasu rozstania Nemeton przeżywa kryzys. Równie dobrze mogliby to wszystko zamknąć. }
+TalkAboutAndrick { Zawsze obiecują Krainę Legend, krainę w harmonii z Bóstwami. Ale postaw jedną nogę na wrzosowisku, a krwawe muchy zjedzą cię żywcem. }
+Plh_11 { Jak ktokolwiek może zaufać Nemetonowi? Oszukuj się teraz, kiedy Cię zaakceptowali, ale nie widzę na horyzoncie spokojnego życia! }
+Plh_13 { Jaki jest problem z Nemetonem? }
+Plh_14 { Dlaczego ty też nie dołączyłeś do Nemetonu? }
+FoodForFarmers_JurekJerzyFood { Przyniosłem wam obojgu trochę jedzenia. }
+Plh_15 { Nemeton to największa frakcja w Drova, a Georgefarm jest jej częścią. Stworzenia na wrzosowiskach stają się coraz bardziej agresywne, ale Nemeton wysyła coraz mniej wojowników. }
+Plh_16 { Rozmawiamy tylko o tym, jak spokojne życie będziemy mieli pewnego dnia, ale nie mam już odwagi nawet wyjść na zewnątrz. Nemeton schodzi w dół... }
+Plh_68 { Jurek, czego oczekujesz od Nemetona? Coraz więcej ludzi ucieka do obozu Ocalonych. }
+Plh_69 { Tak, a czyja to wina? Nemetona! Ludzie wiedzą, że byłoby im lepiej gdzie indziej. Sama zaczynam w to wierzyć... }
+Plh_17 { Nie przyjmują byle kogo. I tak nie chcę już być akceptowana. Mam dość tego, że mnie odrzucają. Pozwoliliby ci zgnić na wrzosowisku... }
+Plh_18 { Znowu będzie lepiej, Jurek. }
+Plh_19 { Może dla ciebie – możesz ukryć się za ich wielkimi, grubymi palisadami… }
+Plh_12 { Żywność! Nie ma nic lepszego! }
+Plh_61 { Chodź, Jurku. Jedzmy w spokoju. }
+Plh_63 { *mruczy* Będziemy kontynuować tę rozmowę innym razem... }
+Plh_7 { Uff, cholera, jestem głodny... }
+Plh_64 { Jedzenie jest główną atrakcją dnia. W Nemeton na pewno nie mają nic tak smacznego. }
+Plh_65 { Dziękuję, że przyniosłeś nam jedzenie. }
+Plh_60 { Czekaj, to nie wystarczy... Potrzebujemy dwóch porcji... }
+Plh_22 { Nie teraz. Jurek i ja musimy coś ustalić. }
+Plh_24 { Masz dla mnie jakąś pracę? Georg mnie przysłał. }
+Plh_25 { Nie myśl tak. Sami sobie świetnie radzimy. }
+Plh_23 { Zarządzający? Nas? Co za nonsens. Jeśli stary pierdziel cię przysłał, to śmiało, idź do pracy. Po prostu zbierz trochę darniowego żelaza z pól przed tobą. }
+Plh_26 { Ha, dobry pomysł. Muc zawsze zbiera od nas darniowe żelazo dla kowala Chunnaic. Zbierz trochę i przynieś mi. }
+Plh_27 { Jak wygląda ruda darniowa? }
+Plh_30 { Co to jest żelazo darniowe? }
+Plh_28 { Przyniosę ci żelazo bagienne. (zakończ rozmowę) }
+Plh_29 { Małe, brązowawe grudki. Zawsze zostają wyparte na powierzchnię. }
+Plh_31 { Chunnaic rafinuje go w żelazo. Nie jest tak dobry jak ten z kopalni, ale da się wykorzystać. }
+Plh_32 { Przynieś mi $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ sztuk. Oddam Mucowi przy najbliższej okazji. }
+Plh_51 { Dlaczego po prostu nie pojedziesz do Nemeton? }
+Plh_52 { Nie wiesz, co mam na myśli! }
+Plh_53 { Nie bądź taki! }
+Plh_54 { No dalej, po prostu zostaw mnie w spokoju! }

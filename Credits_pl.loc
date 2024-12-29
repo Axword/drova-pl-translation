@@ -1,0 +1,51 @@
+director { Reżyser }
+game_design_lead { Kierownik projektu gry }
+game_design { Projekt gry }
+additional_game_design { Dodatkowy projekt gry }
+programming_lead { Główny programista }
+programming { Programowanie }
+art_lead { Kierownictwo artystyczne }
+art { Sztuka }
+community { Społeczność }
+sound_lead { Dźwięk i muzyka }
+organisation { Organizacja }
+praktikanten { Stażyści }
+freelancer { Zewnętrzni współpracownicy }
+musik { Muzyka }
+sound { Dźwięk }
+grafiken { Ilustracja }
+autor { Autor }
+testers { Testerzy }
+publisher { Wydawca }
+spotlight { Deck13 Spotlight }
+spotlight_interns { Stażyści }
+spotlight_productionBaby { Dziecko produkcji }
+spotlight_deck13 { Deck13 }
+spotlight_deck13_interns { Stażyści }
+spotlight_deck13_memory { Pamięci Felixa Rischbietera }
+pr_hound { PR Hound }
+bxdxo { BXDXO }
+headline_Localization { Lokalizacja }
+loca_coordination { Koordynacja }
+loca_english_lead { Kierownik języka angielskiego }
+loca_english_translators { Tłumacze angielskiego }
+loca_english_proofreading { Korekta angielskiego }
+loca_french_localization { Lokalizacja francuska }
+loca_french_translators { Tłumacze francuskiego }
+special_thank_Grounding { Specjalne podziękowania za wsparcie przy zakładaniu studia }
+specia_thank { Specjalne podziękowania }
+tools { Narzędzia }
+voice { Głosy }
+thanks_family { Chcielibyśmy podziękować naszym rodzinom, przyjaciołom i partnerom. Nie dotarlibyśmy tak daleko bez was. }
+thanks_pb { Dziękujemy Piranha Bytes za Gothic. Świetna gra, która zostawiła ślad na nas wszystkich. }
+chris_wish { Moja kochana Sarah, dziękuję za wsparcie w realizacji mojego szalonego marzenia. To nie zawsze było łatwe, ale udało nam się! Spoczywaj w pokoju, Babciu, tęsknię za tobą. }
+gecko { Gecko! Dzięki za twoją pomoc. Żelazna pięść na naszym Discordzie. }
+bady { To dla ciebie, Bady! Mistrz areny i lojalny towarzysz przez cały rozwój Drova. Byłeś z nami od początku. }
+entwicklerWG { Dziękujemy wszystkim widzom, którzy wspierali nas na Twitchu EntwicklerWG. Regularnie dawaliście nam siłę i motywację do pracy nad Drova. }
+lavapotion { Wielkie podziękowania dla zespołu Lavapotion, który na początku projektu udzielił nam cennych wskazówek dotyczących projektowania naszego świata. }
+tinyroar { Pozdrowienia i podziękowania dla Tiny Roar za wszystkie rady i mediację Fabio! }
+Acagamics { Wielkie podziękowania dla Acagamics, stowarzyszenia studenckiego na naszym uniwersytecie, które nas połączyło i zmotywowało do tworzenia Drova poprzez wydarzenia i konkursy. Bez was nie byłoby Drova! }
+finish_line { Ostatnie słowa są dla ciebie. Dziękuję. Dziękujemy za grę w Drova. }
+special_thanks_support { Specjalne podziękowania za wsparcie podczas rozwoju }
+johannes_wish { Dziękuję ci, Lea, za twoje wsparcie i za cudowną przyjaźń, mimo że odwołałem obiecaną wakację trzy razy, bo pracowałem nad Drova. }
+Fabio_wish { Dziękujemy założycielom Just2D — Chrisowi, Johannesowi, Kaiowi i Julianowi. Dzięki odwadze, zaangażowaniu, transparentności i strukturze udało wam się stworzyć zdrowe i bezpieczne środowisko pracy, w którym mogliśmy wspólnie spełniać marzenie o tworzeniu gier. }

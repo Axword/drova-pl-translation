@@ -1,0 +1,6 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Przypisz do Szybkiego Paska  }
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ Przypisz do Szybkiego Paska  }
+Inventory_GarbageToggle_show { Pokaż Śmieci }
+Inventory_GarbageToggle_hide { Ukryj Śmieci }
+Inventory_MarkAsGarbage { Oznacz Przedmiot jako Śmieć }
+GarbageFeedback { Filtr Śmieci aktywny }

@@ -1,0 +1,9 @@
+cancel { Anuluj }
+accept { Akceptuj }
+yes { Tak }
+no { Nie }
+on { Włącz }
+off { Wyłącz }
+holdToSkip { Przytrzymaj, aby pominąć }
+gameModeChangeDesc { Jeśli zmienisz tryb, nie możesz cofnąć tej decyzji. Czy jesteś pewien? }
+loadLatestPopUp { Czy chcesz wczytać ostatni zapis gry? }

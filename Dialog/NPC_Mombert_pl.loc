@@ -1,0 +1,449 @@
+Plh_5 { Jestem gotowy na wyprawę. }
+Plh_770 { Za chwilę możemy porozmawiać. }
+Plh_42 { Kontynuować! }
+Plh_22 { W tej chwili mamy większą rybę do smażenia. }
+Plh_614 { *mruczy* Jesteś pewien, Angus? }
+Plh_615 { Karotte jest urodzonym wojownikiem. Musi się pocić krwią, a żar bitwy zamieni go w jednego. }
+Plh_616 { Ale misja... }
+Plh_617 { Mogę ręczyć za Karotte. Udowodnił swoją siłę i lojalność. Teraz musi pokazać, że ma odwagę dać z siebie wszystko dla Nemetona. }
+Plh_618 { Dobra, poręczysz za niego. Zabiorę go ze sobą. }
+Plh_619 { Ach, tu jesteś. Razem z Henikiem, Gradanem i Karotte wybieramy się do Pradawnej Puszczy. }
+Plh_743 { Niedługo wyruszamy, więc przygotuj się. }
+Plh_744 { My wykonamy swoją część, ty rób swoją. }
+Plh_31 { Wróciliśmy. Teraz możesz cieszyć się Świętem Ognia. Porozmawiamy później. }
+Plh_811 { Zdobyłeś swój kamień runiczny. Bez Was nie mielibyśmy Boskiego Kryształu. Dowiedz się, czy jest ich więcej. }
+Plh_771 { Pomyśleć, że musiało do tego dojść. Nigdy bym nie pomyślał, że Molvina tak zareaguje. Ale taka szansa już się nie powtórzy... }
+Plh_774 { Jak dostać się do ruin w Pradawnym Lesie? }
+Plh_775 { Dlaczego mnie w to wciągnąłeś? }
+Plh_778 { Na zachód od obozu Ocalonych. Dalsza droga została już oczyszczona. Teraz, gdy Czarnego Płomienia już nie ma, trudno przegapić ruiny Pradawnego Lasu. }
+Plh_779 { Wyruszamy na wyprawę do Czerwonych Wrzosowisk. A my oczyścimy dla ciebie ścieżkę przez Ponure Bagna. Jeśli wszystko pójdzie dobrze, odnajdziemy Boskość i będziemy mogli naładować Boskie Kryształy. }
+Plh_781 { chodźmy. Czeka na nas Czerwone Wrzosowisko. Henik, Karotte — przygotujcie się. }
+Plh_782 { Wszystko gotowe! }
+Plh_803 { Co dokładnie będziemy robić na Czerwonym Wrzosowisku? }
+Plh_783 { Przed nami niebezpieczna droga. Prowadzi w głąb mgły... i do Knawd Moor. }
+Plh_784 { To wciąż niezbadane terytorium, ale teraz konieczne jest ujawnienie jego tajemnicy. Będziemy awangardą — dołączy do nas $GVAR:EVars_Player.Name$. Wszystko zabezpieczymy. }
+Plh_786 { Heniku? O co chodzi? }
+Plh_787 { Mombert, doskonale wiesz, że zdradziłeś Molvinę. A jednak tu jesteś. }
+Plh_804 { Jestem uczniem Molwiny. Ona wie, co dla nas najlepsze. Wydała rozkaz, aby cię śledzić. Więc ja też pójdę za nią i będę walczyć dla ciebie. Tak długo, jak Molvina tego chce. }
+Plh_788 { Cenię Twoją szczerość... Robimy to dla Molviny. I dla Nemetona. }
+Plh_805 { Wkrótce rozbijemy obóz, więc siodłaj. Pożegnaj się, chwyć broń i ruszajmy w drogę. }
+Plh_776 { Nie mieliśmy wyboru. Musieliśmy zdobyć Boski Kryształ z obozu Ocalonych. Inaczej nie mielibyśmy z nimi szans. }
+Plh_748 { Molvina, po prostu mnie wysłuchaj... }
+Plh_740 { W żaden sposób nie usprawiedliwisz swojej zdrady, Mombert! Działałeś za moimi plecami. }
+Plh_750 { Molwina — jesteśmy już tak blisko. Posłuchaj mnie. }
+Plh_751 { WYSTARCZAJĄCO! Zdradziłeś mnie. Zdradziłeś cały Nemeton. }
+Plh_749 { I TY, $GVAR:EVars_Player.Name$! Stałeś po stronie spiskowców. Jesteś aresztowany. Zabierz ich sprzed moich oczu! }
+Plh_752 { ZATRZYMYWAĆ SIĘ! }
+Plh_753 { Nie możemy pozwolić, żeby sprawy zaszły tak daleko. Musisz posłuchać $GVAR:EVars_Player.Name$. Boski Kryształ – masz go? }
+Plh_138 { Mam Boski Kryształ. (przekaż to Molwinie) }
+Plh_742 { Co to za szaleństwo? Czy wszyscy postradaliście zmysły? }
+Plh_796 { Więc to prawda... }
+Plh_756 { Tak, Molwina. Dane biblioteczne były autentyczne. Znamy ich lokalizację. }
+Plh_757 { To nasz klucz do Czerwonej Wieży. Musimy przygotować ten rytuał... }
+Plh_758 { WYSTARCZAJĄCO! }
+Plh_759 { To nie zmienia faktu, że mnie zdradziłeś. }
+Plh_760 { Molvina, zrobiłem to dla — }
+Plh_761 { Cisza! Wiem dlaczego to zrobiłeś. Ponieważ myślisz, że masz rację. Wy wszyscy myślicie, że to takie proste. Ale nie myślisz o ludziach, którzy tu mieszkają. Ich rodziny. Ich dzieci. }
+Plh_762 { Molvina, wiemy, gdzie jest ostatni Boski Kryształ. Z listu wiedzieliśmy, że miał być taki w Lesie Zalewowym. I znaleźliśmy to. Mówi się, że drugi przebywa w Prastarym Lesie... }
+Plh_763 { Daj mi kilku wojowników i pójdziemy do Pradawnej Puszczy. Jeśli znajdziemy Boski Kryształ i przyniesiemy go z powrotem, będziemy mogli dostać się do Czerwonej Wieży — po tak długim czasie! }
+Plh_769 { Zdradziłeś mnie. Nie wiem, czy kiedykolwiek będę w stanie ci wybaczyć. Ale jeśli to prawda... }
+Plh_764 { Jeśli wyślę wyprawę do Pradawnej Puszczy, Pozostali uznają to za wypowiedzenie wojny. }
+Plh_808 { $GVAR:EVars_Player.Name$, oto twoja szansa na odkupienie się za zdradę. Wy dwoje wyglądacie na bardzo przekonanych, więc przynosicie mi drugi Boski Kryształ. }
+Plh_765 { Jeśli zostaniesz złapany, możesz powiedzieć, że działasz z własnej inicjatywy. }
+Plh_806 { Odzyskaj Boski Kryształ z Pierwotnego Lasu – zakładając, że nadal tam jest. Las znajdziesz na zachód od obozu Ocalonych. Czarny Płomień otoczył tam kiedyś stare ruiny. Powinny być już dostępne. }
+Plh_773 { Nie wiem, czy to dobry pomysł... }
+Plh_807 { Nie zawiodę Cię. }
+Plh_809 { To właściwy pomysł, Molvina. }
+Plh_766 { Wyruszam na poszukiwanie Boskości w Czerwonych Wrzosowiskach. Z listu wynika, że ​​właśnie tam można naładować kryształy. Jeśli mamy wszystkie Boskie Kryształy, możemy od razu nasycić je magiczną mocą. }
+Plh_767 { Zabierz ze sobą Henika i Karotte. Nigdy nie zapuszczaliśmy się tak głęboko w Ponure Bagna – nie wiemy, co nas tam czeka. }
+Plh_768 { Daję wam wszystkim tę szansę. Jeśli ci się uda, twoje imię zostanie oczyszczone. Inaczej poniosą... konsekwencje. }
+Plh_754 { Przestrzegamy prawa Nemetona. I to dotyczy także Ciebie! }
+Plh_563 { Teraz nadszedł czas. Mamy Boskość i nie możemy czekać — musimy wejść do Czerwonej Wieży! }
+Plh_565 { Ale jakakolwiek magiczna moc, którą posiadamy, nie wystarczy. Jero ma nad nami przewagę liczebną i już tam jest. Moglibyśmy wszystko stracić – a wtedy wszystko byłoby na nic. }
+Plh_568 { Poszedłem do biblioteki z Reiją. Znalazłem zwój. }
+Plh_571 { *wzdycha* Pilnie potrzebujemy dobrych wiadomości. Pokaż mi. }
+Plh_572 { *czyta zwój* Wspomina o Boskich Kryształach... }
+Plh_574 { Co jest takiego zabawnego? }
+Plh_575 { To nie może być przypadek... Pisma opisują, gdzie Dawni używali Boskich Kryształów. Na pagórku w Lesie Zalewowym, na północ od Obozu Drwali. }
+Plh_576 { *marszczy brwi* Przeklęty Jero — Dlatego wysłał zwiadowców i wojowników. Zawsze o krok do przodu... }
+Plh_580 { Wojownicy Ocalonych są w Lesie Zalewowym? }
+Plh_581 { Co się wydarzyło, gdy mnie nie było? }
+Plh_583 { Niektórzy z naszych zwiadowców zauważyli kontyngent wojowników z Ocalonych zmierzających do Lasu Zalewowego. }
+Plh_584 { Jero kuł żelazo, póki było gorące. Dopiero teraz sami się o tym przekonaliśmy... }
+Plh_586 { Jeśli postawimy stopę w Lesie Zalewowym, wojownicy Jero nas zaatakują. I nie będzie to tylko mała potyczka. Wybuchnie jawna wojna między obozami. }
+Plh_745 { Molvina, musimy wykorzystać jedyną przewagę, jaką mamy — Boskość... }
+Plh_578 { Ale nadal potrzebujemy reszty Boskich Kryształów, aby wejść do Czerwonej Wieży. }
+Plh_579 { Nie mogę oszczędzić żadnych wojowników. Co się stanie, jeśli Jero zaatakuje nas, aby schwytać Potężnego Dzika? }
+Plh_588 { Muszę o tym pomyśleć. Pozwól mi medytować nad tym w Świętym Gaju. }
+Plh_589 { Jest nad czym medytować?! Czy mamy po prostu czekać, aż utkniemy w tym coraz głębiej? }
+Plh_590 { Nie mam nic więcej do powiedzenia. }
+Plh_596 { Tak, muszę zaakceptować fakt, że Molvina ma rację. Wysłanie ekspedycji do okupowanego lasu zalewowego mogłoby sprowokować bezpośredni atak. }
+Plh_599 { Moglibyśmy co najwyżej wysłać jedną osobę, aby przemknęła obok żołnierzy Ocalonych i porwała kryształ... }
+Plh_592 { Dlaczego po prostu nie powiesz, że powinienem to zrobić. }
+Plh_593 { Kto prawdopodobnie nadawałby się do tego... }
+Plh_797 { Chciałem tylko - }
+Plh_600 { Należysz do nas, ale jeszcze nie nauczyłeś się podstaw. Więc nadal nie jesteś podstawową częścią naszego kontyngentu. A gdybyś zniknął, nie byłoby to zbyt widoczne. Koniecznie musimy zdobyć ten kryształ! }
+Plh_601 { Czy Molvina mnie wypuści? }
+Plh_602 { Ona nie musi wiedzieć. }
+Plh_603 { Jeśli wszystko pójdzie dobrze, wrócisz z Boskim Kryształem, zanim ona w ogóle się zorientuje, że cię nie ma. }
+Plh_746 { Może uda ci się szybciej dotrzeć na pagórek z Boskim Kryształem, jeśli ktoś ci pomoże. Zapytaj drwali – oni znają okolicę najlepiej. }
+Plh_605 { Odzyskam kryształ. }
+Plh_607 { Nie podoba mi się pomysł skradania się za plecami Molviny... }
+Plh_798 { Mam nadzieję, że uda ci się wykonać to zadanie, zanim Pozostali odnajdą Boski Kryształ. }
+Plh_609 { I wciąż muszę odwdzięczyć się za to, co zrobiłeś w Bibliotece... }
+Plh_610 { Użyj monet, aby nauczyć się nowych zaklęć od Lio lub kupić broń od Chunnaic. Musisz być przygotowany na stojące przed tobą zadanie. }
+Plh_612 { Daj wojownikom Ocalonych jak najszerszy dystans. W tamtych czasach naprawdę dobrych zawodników nadal szkolił sam Angus. Oznacza to, że znają się na swoim rzemiośle i nie okażą litości. }
+Plh_747 { Wszystko dla Nemetona! }
+Plh_613 { Porozmawiam z Molviną... Pospiesz się. }
+Plh_608 { Nie będziesz się skradać za jej plecami. Robisz jedyną rzecz, która jest słuszna. Jestem pewien, że ona też o tym wie. A jeśli ci się uda, nie będzie miała tego przeciwko tobie. }
+Plh_564 { Czas jest najważniejszy! I to na pewno NIE jest po naszej stronie! }
+Plh_567 { Nie możemy się z tym spieszyć. Lio mówi, że magiczna moc jest niewystarczająca. Więc poczekamy. }
+Plh_28 { Porozmawiaj z Dziedziczką Maurów. }
+Plh_799 { *ignoruje cię* }
+Plh_29 { Ukończ swoją misję. }
+Plh_535 { Trzymaj się blisko. Moja iskra odepchnie płomienie. }
+Plh_209 { Zrób to. Naprawdę nie chcesz dowiedzieć się, co cię spotka, jeśli Czarny Płomień cię dotknie... }
+Plh_539 { Nie sądzę... }
+Plh_213 { Wszyscy, patrzcie. $GVAR:EVars_Player.Name$, czy możesz nam pokazać, co robi iskra? }
+Plh_214 { Tak. (krok do przodu) }
+Plh_216 { Wiedziałem to. Wreszcie możemy ruszyć do przodu... }
+Plh_217 { Dobrze. Boskość nie będzie mogła się przed nami ukryć. }
+Plh_328 { C-co? Nie ma mowy, żebym tam weszła! Mombert, powiedziałeś nam, ilu tam zginęło! }
+Plh_329 { $GVAR:EVars_Player.Name$ przetrwał bez szwanku, Karotte. Możemy się przedostać. }
+Plh_330 { A co jeśli iskra nagle zniknie... }
+Plh_331 { Nie ma innego wyboru. $GVAR:EVars_Player.Name$ udowodnił, że to działa. Poprośmy Wielkiego Kruka o ochronę. }
+Plh_332 { Ale... nie wiem... płomienie... }
+Plh_333 { Karotte! Spójrz na mnie. }
+Plh_540 { *stanowczo* Spójrz na mnie, Karotte! }
+Plh_541 { *wzrusza się* Co? CO? }
+Plh_542 { Zaufaj mi. I zaufaj $GVAR:EVars_Player.Name$. Przechodzimy przez to. My wszyscy. }
+Plh_334 { Tak. Razem. Dla Nemetona. }
+Plh_335 { *mruga* ja... ja... }
+Plh_336 { To twój test, Karotte. Mówiłem ci. Masz talent, ale teraz nadszedł czas, aby pokazać, że masz też odwagę. }
+Plh_337 { Chodź, Karotte. Robimy to razem. }
+Plh_338 { *wdycha* Ja... jestem gotowy. }
+Plh_219 { Widzieć? Nie było tak źle. }
+Plh_220 { W porządku, $GVAR:EVars_Player.Name$. Jesteśmy tuż za tobą. }
+Plh_212 { Bądź blisko! (osiągnięcie) }
+Plh_226 { Trzymać się razem. chodźmy! }
+Plh_340 { Już prawie skończyliśmy. Kontynuuj, dopóki płomienie nie zgasną. }
+Plh_221 { *bierze głęboki oddech* Mogę to zrobić! }
+Plh_282 { Płomienie przygasają... }
+Plh_223 { Nie ma czasu do stracenia. $GVAR:EVars_Player.Name$! }
+Plh_224 { Podążaj za mną. (ruszaj się dalej) }
+Plh_227 { Kontynuować! }
+Plh_543 { Udało się! Czy u wszystkich wszystko w porządku? Nietknięty? }
+Plh_544 { *sprawdza się* Wszystko w jednym kawałku. }
+Plh_545 { Wszystko dobrze tutaj. Ale Karotte... hej! }
+Plh_546 { *przełyka* Tak... Wszystko w porządku... Zrobiliśmy to? Nie chcę już nigdy przez to przechodzić... }
+Plh_547 { Być może będziemy musieli. Odtąd wkraczamy w nieznane. Czuję obecność Boskości. To nie jest dużo dalej. }
+Plh_9 { Zatrzymywać się! *podnosi ramię* }
+Plh_98 { *szepcze* Przed nami dzik z dwoma prosiętami. Nie wydawaj żadnego dźwięku — przepuścimy ich. }
+Plh_532 { Nieważne, to tylko świnie. Wyciągnijmy je. }
+Plh_405 { Musimy oszczędzać siły, a mamy już jednego rannego wśród nas. A już niedługo zmierzymy się z Potężnym Dzikiem... }
+Plh_406 { Ranny? Masz na myśli mnie? }
+Plh_407 { *syczy* Cicho! }
+Plh_235 { *szepcze* Będziemy siedzieć cicho. }
+Plh_236 { Myślę, że ich też powinniśmy oczyścić. }
+Plh_237 { *szepcze* Poczekaj chwilę dłużej... }
+Plh_241 { Teraz! Szybko! }
+Plh_238 { Hmm. Przynajmniej nie będziemy tracić czasu… }
+Plh_239 { Dokładnie! I będzie to łatwe. }
+Plh_240 { W porządku. Zróbmy to szybko. Gradan, zostań przy tym! }
+Plh_408 { Jasne, że... }
+Plh_7 { Dotarliśmy do Pradawnej Puszczy. Są ruiny... }
+Plh_272 { Tak wielu... Dawni musieli osiedlić się w całej Drovie. }
+Plh_271 { *kładzie rękę na ścianie* Naprawdę chciałbym wiedzieć, jak tu żyli. Kim byli Bygone... Co myśleli... Dlaczego zniknęli. }
+Plh_274 { Mówią, że żyli w harmonii z Bóstwami. Ale... jak? }
+Plh_313 { Mambert... }
+Plh_94 { Tak, wiem, że mamy mało czasu... }
+Plh_314 { Ostatnie ostrzeżenie: musimy na siebie uważać. Pradawny Las pochłonął wielu odważnych wojowników. I nie wiemy, co się tam teraz czai. }
+Plh_315 { Rozwalę wszystko, co się do nas zbliży. }
+Plh_816 { Dla Nemetona! }
+Plh_317 { Upewnię się, że nic się za nami nie zakradnie. }
+Plh_95 { Znów znajdę drogę przez Czarny Płomień. Pamiętaj: to niebezpieczne. Bądź bardziej ostrożny niż moi towarzysze wtedy. }
+Plh_817 { To tutaj przeszliśmy ostatnim razem... Spróbuję jeszcze raz otworzyć przejście. }
+Plh_818 { To jest to. Teraz zaczyna się prawdziwa wyprawa. }
+Plh_156 { Wyciągnijcie swoje pochodnie. Czy potrzebujesz jednego, $GVAR:EVars_Player.Name$? }
+Plh_308 { Moja iskra oświetla drogę. }
+Plh_309 { Tak, dzięki. }
+Plh_526 { Nie widzę żadnej iskry. Wyciągnij to już. Będziemy go potrzebować, żeby przez to przejść. }
+Plh_634 { Przyjdź na moją stronę. (przywołanie iskry) }
+Plh_310 { Będziemy go potrzebować później. }
+Plh_8 { Pradawna Puszcza... *bierze głęboki oddech* Trzymaj mocno te pochodnie. Jak dotąd wszystko to był spacer po parku w porównaniu z tym, co ma nadejść… }
+Plh_96 { Nie ufajcie cieniom — i uważajcie na siebie! }
+Plh_275 { A więc to jest Pradawny Las. „Potężny Dzik”, jak go nazywają, zmienia ten las. Przekształca to. }
+Plh_276 { Moc Bóstw jest ogromna. Mogą... }
+Plh_318 { ...słyszałeś to? }
+Plh_527 { Tak. Co to było?! }
+Plh_528 { Brzmi jak niedźwiedź... duży. Miej oczy szeroko otwarte! }
+Plh_727 { Niech nadejdzie! }
+Plh_728 { Cichy! Jeśli to naprawdę jest niedźwiedź, twoje gadanie na nic nam się nie przyda! }
+Plh_529 { Ostrożny! Tam! }
+Plh_631 { Do broni! }
+Plh_129 { Przynieś nam w ofierze szczątki dzika i zanieś je do kręgu runicznego. }
+Plh_169 { Mam ze sobą prowiant. Powinniśmy się wzmocnić na walkę z Dzikiem. }
+Plh_159 { Przydałoby mi się coś do jedzenia. }
+Plh_160 { idę spać. }
+Plh_164 { Dobranoc. }
+Plh_350 { Rozejrzę się jeszcze trochę. }
+Plh_351 { Dobra, idę spać. }
+Plh_352 { Możesz to zrobić tam. }
+Plh_165 { Dobranoc. }
+Plh_166 { Hej, obudź się! Mombert chce iść dalej. }
+Plh_812 { (wstawaj) Jestem gotowy! }
+Plh_813 { (wstawaj) ...co? Czy zaspałem? }
+Plh_814 { Pospiesz się, chodź. }
+Plh_815 { *uśmiecha się* Nie tak długo, jak masz mnie. }
+Plh_163 { Jasne? Gdy już odpoczniesz, staniemy twarzą w twarz z Boskością. Nie ma już odwrotu... }
+Plh_353 { Odpocznij. Wyruszyliśmy wcześnie rano. }
+Plh_201 { Nadszedł czas. Boskość jest blisko. }
+Plh_202 { Wreszcie! Czekanie doprowadza mnie do szału. Ja i mój topór. }
+Plh_326 { Pokonaliśmy niedźwiedzia! W końcu nie było to takie trudne! }
+Plh_396 { ARGH! *chwyta mocno jego kostkę* }
+Plh_397 { Dostał mnie. Boli... trochę. Ale hej, co to jest jeszcze jedna blizna. *wzdycha gwałtownie* Nie jest tak źle... }
+Plh_530 { Wygląda to dość paskudnie. Czy możesz iść dalej? }
+Plh_632 { Oczywiście, że mogę! Myślisz, że pozwoliłbym ci bawić się samemu? }
+Plh_398 { Znam cię, Gradanie. Bardzo Cię boli. Może byłoby lepiej, gdybyśmy cię tu zostawili? }
+Plh_399 { Nonsens. *wyciera pot z czoła* }
+Plh_400 { Więc teraz jesteś zabandażowany... Ale nie jestem pewien, czy... }
+Plh_401 { Teraz po prostu przestań. Potrafię walczyć; Chcę walczyć! }
+Plh_729 { Czy możemy iść dalej? Tak? }
+Plh_327 { *wzdycha* Dobra. Naciskamy do przodu. Gradan w następnej walce trzymaj się z tyłu. Nie podejmuj żadnego ryzyka. }
+Plh_730 { Zobaczymy... }
+Plh_533 { ZATRZYMYWAĆ SIĘ! }
+Plh_10 { Czarny Płomień. Prawie słyszę krzyki moich ludzi... $GVAR:EVars_Player.Name$! Nadszedł czas, kiedy potrzebujemy Twojej iskry. }
+Plh_647 { Wyglądają, jakby... nie byli z tego świata. }
+Plh_635 { To jest punkt, w którym ostatnim razem nie mogliśmy pójść dalej. Nigdy bym sobie nie wyobrażała, że ​​tu wrócę... żeby spróbować jeszcze raz. }
+Plh_409 { Boskość nie może być teraz daleko. Czuję, jak jego obecność staje się coraz silniejsza. To tak... przyprawia mnie o ciarki. }
+Plh_410 { Wtedy zaczyna się nasze prawdziwe zadanie. Dobrze- }
+Plh_411 { ARGH! ...Cholera... }
+Plh_412 { Stopień! }
+Plh_413 { Czy to rana? }
+Plh_414 { Tylko trochę uszczypnąłem. Nic mi nie jest. }
+Plh_415 { Ten cholerny niedźwiedź. Przynajmniej to usunęliśmy... }
+Plh_416 { Mombert, musimy rozbić obóz i opatrzyć ranę Gradana. W przeciwnym razie będzie coraz gorzej. Musimy stawić czoła Boskości jako zjednoczony front. }
+Plh_731 { Śmieszny. Nic mi nie jest. Można chodzić kilometrami. }
+Plh_417 { Czy to naprawdę konieczne? }
+Plh_418 { Nie słuchaj go, Mombert. *jęczy i ociera pot z czoła* }
+Plh_419 { Spójrz tylko na siebie, Gradanie! Musisz odpocząć. I musimy zaopiekować się tą raną. Co dobrego ci to przyniesie, jeśli będziesz osłabiony? To naraża nas wszystkich na niebezpieczeństwo! }
+Plh_421 { Cóż, moglibyśmy po prostu jechać nieco wolniej — }
+Plh_345 { Wystarczająco! Henik ma rację. Rozbijamy obóz. }
+Plh_422 { *jęczy* Jeśli musimy... }
+Plh_13 { Więcej Czarnego Płomienia... }
+Plh_120 { Jest przejście. Nie potrzebujemy do tego iskry. }
+Plh_121 { Wkrótce dotrzemy do Boskości... }
+Plh_123 { Wreszcie! Dla Nemetona! }
+Plh_25 { Pokażmy mu na co nas stać! }
+Plh_290 { Zdobądźmy go! }
+Plh_26 { Naprzód. }
+Plh_447 { *oddycha z ulgą* Zostawiliśmy za sobą Pradawną Puszczę! To już nie będzie daleko! }
+Plh_448 { *spogląda na naczynie z runami* Molvina będzie zadowolona. I nie zapomnimy imienia Gradana. }
+Plh_449 { Mocą Boskości raz na zawsze zniszczymy Ocalałych... }
+Plh_450 { *szepcze* Las... Co to jest? Co zrobiliśmy? }
+Plh_722 { Wypędziliśmy ciemność z lasu. }
+Plh_720 { Las umarł... Nie wiem... }
+Plh_721 { Cokolwiek. Najważniejsze, że spadamy stąd. }
+Plh_451 { Wszystko tu jest martwe, jakby potwory wpadły w szał... }
+Plh_723 { Nie wiem, co tu się stało, ale trzeba to zgłosić Molwinie... }
+Plh_452 { Czy to było słuszne, Mombert...? }
+Plh_453 { Nemeton i Dziedziczka Maurów oczekują naczynia z runami. Tylko to się liczy. }
+Plh_454 { Zapomnij o tym, co kryje się za tobą. }
+Plh_377 { Czekać! Coś się wydarzy! }
+Plh_439 { Zwierzęta... Uciekają z Pierwotnej Puszczy. }
+Plh_440 { Boskości już tam nie ma... Las... Zmienia się... }
+Plh_442 { Czy jesteśmy... czy jesteśmy winni? }
+Plh_443 { Wpływ Potężnego Dzika zniknął, Czarny Płomień zniknął... }
+Plh_444 { Ale dokąd uciekają zwierzęta? }
+Plh_445 { Nie mam pojęcia. Nawet gdyby próbowali podbić Nemeton... Mamy palisady i miecze. }
+Plh_715 { Musimy dostarczyć naczynie z runami do Nemetona. }
+Plh_713 { Pradawny Las... Zniszczyliśmy go. }
+Plh_716 { Zgadza się, $GVAR:EVars_Player.Name$. Po to przyjechaliśmy i dokończymy robotę. }
+Plh_446 { Spieszyć się! Albo nastąpi kolejna konfrontacja! }
+Plh_717 { Ale w zamian za to mamy moc Potężnego Dzika! Potrzebowaliśmy tego! Wszyscy to wiecie. Nie było innego sposobu. }
+Plh_719 { I Gradan oddał za to życie... }
+Plh_379 { Tawerna! Udało się. Teraz musimy tylko udać się do... }
+Plh_455 { Zatrzymajmy się tu na chwilę. Musimy pić! Przynajmniej muszę... do Gradan. }
+Plh_456 { Tak. Piwo na cześć Gradana. Albo dwa. }
+Plh_457 { Rozumiem was, naprawdę. Ale naczynie runiczne musi dotrzeć do Molviny, w przeciwnym razie jego śmierć pójdzie na marne. }
+Plh_458 { Zajmę się tym. Pijesz za Gradana, za jego ofiarę. Pożegnamy go razem. W Nemeton — na Święcie Ognia. }
+Plh_459 { Zrobimy to. $GVAR:EVars_Player.Name$, idziesz z nami do tawerny? }
+Plh_462 { Tak. Potrzebuję przerwy... }
+Plh_738 { Czy byłoby lepiej, gdybym poszła z tobą, Mombert? }
+Plh_464 { Wszyscy zasługujecie na chwilę odpoczynku. }
+Plh_465 { Do zobaczenia w Nemetonie. Idź z Ravenem. }
+Plh_739 { Nie ma potrzeby. Mogę sam zabrać naczynie z runami do Molviny. Nie ma tu nic niebezpiecznego. }
+Plh_470 { *krzyczy* Wszyscy, weźcie trochę jedzenia! }
+Plh_471 { Potrzebujemy siły na to, co nas czeka. }
+Plh_472 { Moc Boskości... Wyobraź sobie tylko, co możemy z nią zrobić... }
+Plh_658 { Myślałem, że po prostu będziemy szukać Boskości? }
+Plh_659 { Będziemy z nim walczyć, osłabimy go i sprowadzimy na Nemeton! }
+Plh_660 { Co? Walczyć i... zdobyć go? Ale to niemożliwe! }
+Plh_661 { Jest to możliwe. Z naczyniem runicznym. Kiedy Boskość zostanie wystarczająco osłabiona. }
+Plh_662 { A co z mieszkańcami lasu, którzy żyją w harmonii z Potężnym Dzikiem? }
+Plh_663 { Boskość zadrży przed nami! }
+Plh_671 { Wszystko dla Nemetona, wszystko dla Krainy Legend! }
+Plh_687 { Nie jestem pewien, czy to dobry plan... }
+Plh_664 { Nie możemy się o nich martwić. Będą musieli się dostosować. W końcu chodzi o stworzenie Krainy Legend. }
+Plh_665 { Zwycięstwo nas wszystkich, prawda? }
+Plh_666 { To jest to, o co walczyliśmy od dawna. }
+Plh_667 { Mieszkańcy Schronienia żyją w harmonii z lasem... Co się z nimi stanie? }
+Plh_693 { Każdy skorzysta na Krainie Legend. }
+Plh_694 { Zatem zdobądźmy Boskość. }
+Plh_668 { Najpierw trzeba było znaleźć tę harmonię. Kiedy już będziemy mieli Potężnego Dzika, pojawi się nowa równowaga. }
+Plh_675 { Nie robimy tego tylko dla siebie. Robimy to dla całej Drova! }
+Plh_676 { A jeśli to nie zadziała? }
+Plh_700 { To prawdopodobnie prawda... }
+Plh_677 { Dlaczego to nie miałoby działać? }
+Plh_678 { $GVAR:EVars_Player.Name$, rozumiem Twoje obawy. Ale jeśli pozwolimy, aby rządził nami strach, Drova nigdy się nie zmieni. Musimy coś zrobić. }
+Plh_679 { I musimy to zrobić razem. Jako społeczność. }
+Plh_680 { Porozmawialiśmy wystarczająco dużo. Jutro będzie wielki dzień. }
+Plh_682 { Ale... }
+Plh_683 { To będzie. }
+Plh_686 { Wystarczy na dzisiaj. }
+Plh_681 { Jasne, Gradanie. Odpocznij. Wezmę pierwszy zegarek. }
+Plh_684 { Hej, Karotte, pokażę ci jeszcze kilka ruchów bojowych? }
+Plh_685 { Zawsze! }
+Plh_710 { Potrzebuję teraz trochę odpoczynku... }
+Plh_696 { Widzę zwątpienie w twoich oczach. Dlatego proszę o zaufanie. }
+Plh_692 { Nawet nie wiem, jak wygląda boskość... }
+Plh_688 { To mniej kwestia wyglądu, a bardziej tego, jak jego obecność po prostu zapiera dech w piersiach... Doświadczyłem tego. }
+Plh_689 { Tak. Myślałam, że zesram się w spodnie. }
+Plh_690 { Ale przeżyliśmy, Heniku. Teraz wiemy, co nadchodzi! A skoro nam się udało, wy, Karotte i $GVAR:EVars_Player.Name$, też możecie. }
+Plh_691 { Przeżyliśmy. Ale nie wszyscy to zrobili. Jeśli osiągniemy swój cel, wszystko będzie inne... }
+Plh_701 { Czym ryzykujemy jutro... Robimy to dla naszej przyszłości, ale także by uczcić pamięć naszych zmarłych. }
+Plh_702 { Ruszaj na siano i zbieraj siły na jutro. }
+Plh_698 { Henik mówi prawdę. }
+Plh_699 { Zbierz siły. }
+Plh_673 { jestem zadowolony! Już nie mogę się doczekać walki! }
+Plh_674 { Cierpliwość. Już niedługo dotrze do nas. }
+Plh_802 { Ach, daj spokój! Robimy to DLA Nemetona. }
+Plh_6 { Czy jesteś pewien? Kiedy opuścimy obóz, nie będzie już odwrotu, dopóki nie zakończymy naszej misji — albo nie będziemy martwi. }
+Plh_85 { Tak, jestem pewien. }
+Plh_86 { Będę potrzebował chwili. }
+Plh_620 { No cóż... wojownicy, zbierzcie się! }
+Plh_630 { (przyłącz się) }
+Plh_621 { Wyprawa już blisko. Dziedziczka Maurów wysyła nas, abyśmy odnaleźli Potężnego Dzika z Pierwotnej Puszczy. }
+Plh_88 { Kluczowy krok w kierunku kształtowania Krainy Legend. Czas pokoju. W imieniu Molviny – czy jesteście gotowi? }
+Plh_89 { Tak! Pokażemy Dziedziczce Maurów, co potrafimy! Bóstwa, drżcie! }
+Plh_90 { *mruczy* Spokojnie, Karotte. To nie będzie spacer po parku, dokładnie... }
+Plh_91 { Wszyscy się wspieramy. Nikt nie zostanie pominięty i wszyscy powrócimy do swoich bliskich. Prawidłowy? }
+Plh_248 { Będziemy trzymać się razem. Tak. Wystarczająco dużo ludzi zginęło. Ale kiedy już skonfrontujemy się z Boskością, nie możemy się wahać. Kiedy robi się ciężko, nie poddawaj się! }
+Plh_249 { *klepie go po ramieniu* Karotte. To Twoja pierwsza wyprawa. Masz talent. Masz wolę. Nadszedł czas, aby pokazać swoją prawdziwą wartość. }
+Plh_250 { Zrobię wszystko dla rodziny, Mombert! Chcę, aby Dziedziczka Maurów była ze mnie dumna! Powiedz mi tylko, co mam zrobić, a zrobię to! DLA NEMETONA! }
+Plh_251 { To właśnie chcę usłyszeć. Ale będziesz musiał także zachować spokój, gdy krew zacznie płynąć. Twoi bracia z Nemeton polegają na tobie. }
+Plh_252 { Henik. Cieszę się, że mogę cię mieć u swego boku podczas tej wyprawy. Musisz zwracać uwagę na szerszy obraz w ogniu bitwy. Bądź naszą wieżą mocy. }
+Plh_253 { jestem gotowy. }
+Plh_254 { DLA NEMETONA! }
+Plh_255 { Nadeszła Kraina Legend... Czuję to. }
+Plh_256 { Gradana. Byliśmy razem na wielu wyprawach. Twoja siła wyzwoliła nas z wielu beznadziejnych sytuacji. Niech Twój topór wzmocni nas jeszcze raz. }
+Plh_257 { Miecz, tarcza, pięści... wszystko co mam czeka na Twoje rozkazy. }
+Plh_258 { Ta wyprawa otworzy nowy rozdział w Drova. Dla Nemetona. }
+Plh_259 { Dla każdego. }
+Plh_260 { A potem jesteś ty, $GVAR:EVars_Player.Name$... Byłeś już w Pradawnym Lesie. I wymyśliłeś, jak możemy przedostać się przez Czarny Płomień. }
+Plh_261 { $GVAR:EVars_Player.Name$ należy do tej wyprawy. Bezwarunkowo. Zachowujcie się odpowiednio – jako jedna całość. }
+Plh_645 { Nie zawiodę Cię. }
+Plh_646 { Znajdziemy Boskość. }
+Plh_626 { Oczywiście! Byłem z $GVAR:EVars_Player.Name$ na wrzosowisku i złowiliśmy mandragorę. To coś mówi! }
+Plh_622 { $GVAR:EVars_Player.Name$ również pomógł Rurze! }
+Plh_800 { $GVAR:EVars_Player.Name$ chciał mi pomóc w ostrzeniu mojej broni przez Chunnaic. Mimo że już tego nie potrzebuję, nadal poprawiało mi to humor! }
+Plh_262 { Jestem przekonany, że $GVAR:EVars_Player.Name$ będzie świetnym nabytkiem. }
+Plh_263 { Ludzie Nemetonu! Podążaj za mną! Być może dzisiaj będzie dzień, w którym zamienimy Drovę w Krainę Legend... }
+Plh_624 { Za pomocą $GVAR:EVars_Player.Name$ pokonałem kilka bestii przy Wschodniej Bramie. }
+Plh_625 { $GVAR:EVars_Player.Name$ sumiennie przejął zadania Junali. Jak to przystoi i właściwe we wspólnocie. }
+Plh_623 { Bardzo chcę się dowiedzieć, czy $GVAR:EVars_Player.Name$ ma coś przy piłce. }
+Plh_87 { Przed nami ciężka misja. Spróbuj tego tylko wtedy, gdy jesteś naprawdę pewien. }
+Plh_842 { Krąg runiczny stracił całą swoją magiczną moc. Mieliśmy szczęście, że zostało jeszcze wystarczająco dużo. }
+Plh_867 { W końcu tu jesteśmy. Całe życie próbowaliśmy dostać się do Czerwonej Wieży. Rozejrzyj się wokół siebie – niewiarygodne… }
+Plh_868 { Jesteśmy blisko – czuję to. Wkrótce Nemeton stanie się Krainą Legend. }
+Plh_790 { Czerwona Wieża jest blisko. jestem gotowy. }
+Plh_791 { Masz energię, której potrzebujemy, Mombert? }
+Plh_792 { Całe życie czekałem na ten moment. Już prawie jesteśmy na miejscu, Molvino. jestem gotowy. }
+Plh_793 { Wejdziemy do środka z $GVAR:EVars_Player.Name$, Asmusem i Henikiem. Bądź gotowy. Nie będzie odwrotu. Zgłoś się do mnie, gdy będziesz gotowy. }
+Plh_741 { *jęczy z bólu* }
+Plh_124 { To musi być tutaj – miejsce mocy Boskości. }
+Plh_819 { Tak, bez wątpienia. To jest to. *bierze głęboki oddech* }
+Plh_848 { Po prostu spójrz na to. Cóż za wspaniałość... }
+Plh_849 { Wszystko robi wrażenie, Mombert, ale... Nie po to tu jesteśmy. }
+Plh_820 { Jak możemy teraz złapać Potężnego Dzika? }
+Plh_821 { Muszę sprawić, żeby to się zamanifestowało. Będziesz mnie potrzebował, żeby pilnować moich pleców. }
+Plh_822 { To będzie wymagało ode mnie całej koncentracji. Będzie to wyczerpujące i niebezpieczne, ale jestem przekonany, że nam się uda. }
+Plh_823 { A kiedy się pojawi, meni — munni — cóż, kiedy się pojawi, jak go złapać? }
+Plh_824 { Musimy go zaatakować i osłabić. Jeśli będzie wystarczająco osłabiony, będzie chciał się wycofać. Pomyli naczynie runiczne z miejscem jego mocy. Zatem mamy to. }
+Plh_826 { Ty przejmujesz dowodzenie podczas rytuału, Heniku. }
+Plh_425 { Możesz na mnie polegać. }
+Plh_426 { Karotte, to ty ustawisz naczynie z runami. }
+Plh_636 { M-ja? }
+Plh_427 { Pozwól mi się tym zająć, Mombert. Musimy szybko reagować i nie możemy się wahać... }
+Plh_873 { A ja jestem twoim najbardziej doświadczonym człowiekiem! }
+Plh_429 { Zgadza się. Twoje doświadczenie i Twoja odwaga – zawsze mogliśmy na nich polegać. Karotte, zamiast tego wesprzesz nas w bitwie. }
+Plh_431 { *patrzy w dół* }
+Plh_432 { *szepcze* Gradan — twoja kontuzja — naprawdę myślisz, że dasz radę? }
+Plh_296 { Nie musisz tak szeptać. jestem gotowy. Ta mała, cielesna rana mnie nie powstrzyma. }
+Plh_732 { Dobrze. Mam tylko nadzieję, że nie przeceniasz siebie. Tutaj, weź naczynie z runami. }
+Plh_295 { Koncentrat. Gdy rytuał się rozpocznie, nie ma już odwrotu. }
+Plh_844 { Mam tu dla ciebie coś jeszcze. }
+Plh_827 { Uważaj na siebie, $GVAR:EVars_Player.Name$. Wypij to, jeśli zrobi się ciężko. }
+Plh_833 { Teraz od nas wszystkich zależy, czy przeżyjemy i wrócimy do Nemetonu z Potężnym Dzikiem. Będziemy chronić Momberta własnym życiem i osłabiać Potężnego Dzika, dopóki go nie złapiemy. }
+Plh_828 { I niech nikt z was nie umiera przeze mnie. Rozumiem?! }
+Plh_639 { jestem gotowy. Dla Nemetona! }
+Plh_640 { (nic nie mów i kiwaj głową) }
+Plh_711 { Czy to naprawdę dobry pomysł...? }
+Plh_128 { Wiesz, co musisz zrobić. Nie wahajcie się – inaczej będzie to śmierć nas wszystkich. }
+Plh_830 { Dla Nemetona! }
+Plh_712 { Oczywiście, że tak. Potrzebujemy mocy Potężnego Dzika. Tylko dzięki swojej mocy Drova stanie się Krainą Legend, o którą wszyscy walczymy. }
+Plh_36 { Zaczynam teraz. }
+Plh_835 { A potem przejdź do swoich postów! }
+Plh_38 { Ciemność... Rozprzestrzenia się! }
+Plh_841 { Trzymaj się blisko mnie! }
+Plh_874 { Na swoje stanowiska! }
+Plh_37 { Proszę bardzo – prawie mamy to! }
+Plh_39 { Gradan, uważaj! }
+Plh_130 { GRADAAAAN! }
+Plh_836 { NIEEEEE! }
+Plh_850 { Mamy to! }
+Plh_875 { Naprawdę tego dokonaliśmy, my... }
+Plh_876 { Co do... }
+Plh_374 { *jęczy* Ja — to — gotowe. }
+Plh_863 { Och... Moja głowa... }
+Plh_872 { My – my ich zabiliśmy… Wszyscy – tyle krwi… }
+Plh_355 { Stopień! }
+Plh_655 { Czy on... Henik, proszę - powiedz mi, że on jeszcze żyje... }
+Plh_356 { Nie, Karotte... On nie żyje. *zamyka powieki trupa* }
+Plh_845 { Straciliśmy dobrego człowieka. Oddał swoje życie, abyśmy mogli złapać Boskość... Poświęcił się – dla nas wszystkich – dla Nemetona. }
+Plh_648 { Co się stało z Boskością? }
+Plh_649 { Gradan – nie żyje? To nie może być! }
+Plh_650 { Powinniśmy zabrać go do Nemetona. }
+Plh_652 { Złapaliśmy Boskość. W końcu to mamy. }
+Plh_357 { Czekaj... Coś tu jest nie tak... Ty też tego nie czujesz? Musimy się stąd wydostać. Już teraz! }
+Plh_358 { I chcesz zostawić tutaj leżące ciało Gradana? Właśnie tak? }
+Plh_359 { Heniku, opłakuję Gradana, tak jak wy wszyscy. Ale nie mamy czasu, żeby zabrać go ze sobą. }
+Plh_361 { Heniku, on ma rację. Musimy się stąd natychmiast wydostać. }
+Plh_362 { Gradan poświęcił się! Musimy go zabrać ze sobą. Albo go pochowaj! }
+Plh_363 { Ty też chcesz tak haniebnie oddać Gradana? }
+Plh_365 { Heniku, nie ma innego wyjścia! }
+Plh_366 { Jeśli tu zostaniemy i nie uda nam się przywrócić Boskości, ofiara Gradana pójdzie na marne. W głębi duszy o tym wiesz. Można też poczuć, jak las się zmienia. Po prostu rozejrzyj się wokół siebie. }
+Plh_877 { ... chodźmy już teraz! }
+Plh_367 { *zgrzyta zębami* Daj nam chociaż chwilę. }
+Plh_368 { Spoczywaj w pokoju, stary przyjacielu. Zawsze byłeś taki uparty... Będzie mi tego w Tobie brakowało. }
+Plh_856 { Nigdy Cię nie zapomnimy... }
+Plh_857 { (złóż hołd Gradanowi) }
+Plh_370 { Mombert ma rację, musimy iść... }
+Plh_376 { Boskość... W końcu to zrobiliśmy... }
+Plh_852 { Teraz możemy w końcu spełnić nasze marzenie. }
+Plh_325 { Gradan... Ja... przepraszam. }
+Plh_860 { Karotte, Gradan chciałby, żebyś nadal żył. }
+Plh_861 { Musimy iść, Karotte. Nie mamy na to czasu. }
+Plh_865 { Gdy tylko dotrzemy do tawerny, powinniśmy być bezpieczni. }
+Plh_866 { Podążaj za mną. }
+Plh_862 { Ja wiem... }
+Plh_364 { Tak! Był częścią nas! A co ze społecznością, Mombert? }
+Plh_651 { Ponieśliśmy porażkę. Bardzo mi przykro, Gradanie... }
+Plh_41 { Nadszedł czas! }
+Plh_834 { Statek, teraz! }
+Plh_853 { Zrobię to! }
+Plh_839 { Podnieś broń! }
+Plh_855 { Broń Momberta nawet za cenę życia! }
+Plh_878 { Będę musiał się przygotować. }
+Plh_879 { Pospiesz się i dołącz do mnie, gdy będziesz gotowy. }
+Plh_880 { Teraz nie ma już odwrotu. Czy jesteś gotowy? }

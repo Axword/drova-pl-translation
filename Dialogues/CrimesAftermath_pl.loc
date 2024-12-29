@@ -1,0 +1,77 @@
+Plh_0 { O prawo i porządek. }
+Plh_11 { Złamałeś prawa Nemetonu. Za to odpowiesz. }
+Plh_36 { Daj mi monety [waluty], a wtedy wybaczę ci twoje przewinienia. Dopóki nie oczyszczę twojego imienia, nikt tutaj cię nie będzie chciał. }
+Plh_23 { Proszę, weź monety i przebacz mi moje przewinienia. }
+Plh_10 { W imieniu Kruka wybaczam ci twoje przewinienia. Powiem ludziom, że doszedłeś do rozumu. }
+Plh_63 { Zejdź mi z oczu. Nie zapomnimy tutaj o twoich wykroczeniach. }
+Plh_12 { Jeśli nie będziesz w stanie zapłacić, nic się nie stanie. Wróć, gdy będziesz mieć wystarczającą liczbę monet — lub opuść Nemeton. }
+Plh_21 { Potężny Dzik ci nie ufa. }
+Plh_35 { Daj mi [walutę] znaki pokuty, a przebaczę ci to, co zrobiłeś. }
+Plh_1 { Chciałbym odpokutować za moje zbrodnie. }
+Plh_20 { Och, Potężny Dziku! Przebacz tej osobie jego przewinienia! Oczyść ich z błędów i wskaż im drogę! }
+Plh_64 { Jesteś oczyszczony z wszelkiej winy... }
+Plh_22 { Potężny Dzik obserwuje ciebie i twoje czyny. Wróć, gdy będziesz miał znak pokuty, a ja poproszę Dzika o przebaczenie. }
+Plh_3 { Nie masz za co odpokutować. Wyjechać. }
+Plh_28 { Daj mi [walutę] srebro, a zapomnimy o całej sprawie. }
+Plh_29 { Oto twoje srebro. }
+Plh_65 { W porządku, twoje zbrodnie zostały wybaczone. }
+Plh_62 { Albo zdobądź srebro, albo spadaj. }
+Plh_9 { Wyrzuć [walutę] monety lub spadaj. }
+Atone_Crimes { Oto twoje monety. }
+Plh_13 { Nie mam ci nic do powiedzenia, dopóki nie zobaczę monet. }
+Plh_42 { Skrzywdziłeś naszą społeczność. Tylko Diemo może ci to wybaczyć. }
+Plh_41 { Gerdwin zadecyduje o twoim losie. Dopóki nie powie mi, że jesteś czysty, nie chcę mieć z tobą nic wspólnego. }
+Witnessed_Stealing_00 { Ukradłeś. Zejdź mi z oczu. }
+Witnessed_Stealing_01 { Żałosny złodziej. Spadaj. }
+Witnessed_Stealing_02 { Pokonaj to, zanim sięgniesz po coś innego. }
+Witnessed_Stealing_03 { Nie rozmawiam ze złodziejami. }
+Witnessed_Stealing_04 { Jeśli nie możesz trzymać rąk przy sobie, nie mam ci nic do powiedzenia. }
+Plh_44 { Jeśli rzeczy nie są Twoje, trzymaj ręce z dala od nich! }
+Plh_45 { Nigdy więcej nie próbuj mnie okradać! }
+Plh_52 { Zejdź mi z oczu, brudny złodzieju! }
+Witnessed_HoldingWeapon_00 { Czy chcesz ponownie wyciągnąć broń i sprawić więcej kłopotów? Pokonaj to. }
+Witnessed_HoldingWeapon_01 { Nie chcę mieć nic wspólnego z kimś, kto tak beztrosko wymachuje bronią na wszystkie strony. }
+Witnessed_HoldingWeapon_02 { Zejdź mi z oczu, zanim odważysz się ponownie sięgnąć po tę broń! }
+Witnessed_HoldingWeapon_03 { Błyśnij mi bronią w twarz jeszcze raz, a będziesz miał poważne kłopoty. }
+Witnessed_HoldingWeapon_04 { Lepiej nie wyciągaj tak po prostu swojej cholernej broni. }
+Plh_51 { Schowaj broń! }
+Witnessed_Trespassing_00 { Spadaj, zanim ponownie zaczniesz wdzierać się do jakichkolwiek pomieszczeń. }
+Witnessed_Trespassing_01 { Nie rozmawiam z tobą. Myślisz, że ktoś taki jak ty może wszędzie wejść? }
+Witnessed_Lockpicking_02 { Spadaj, złodzieju. }
+Witnessed_Trespassing_03 { Zostaw mnie w spokoju. Nie chcę, żebyś wpadał do każdego miejsca w okolicy. }
+Witnessed_Trespassing_04 { Nie wydusisz ze mnie ani słowa, dopóki nie przestaniesz się wszędzie włamywać. }
+Plh_49 { Zrób sobie niedostatek. Nie potrzebuję tu włamań. }
+Witnessed_Lockpicking_00 { Złamałeś zamek tak po prostu, przeklęty złodzieju! Pokonaj to! }
+Witnessed_Lockpicking_01 { Zawsze otwieram zamki, co? Spadaj, złodzieju. }
+Plh_30 { Lepiej spróbuj otwierać zamki gdzie indziej. Albo nie daj się złapać. Wynoś się stąd. }
+Witnessed_Lockpicking_03 { Zostaw mnie w spokoju. Nie mam nic do powiedzenia komuś, kto chce mnie oszukać. }
+Witnessed_Lockpicking_04 { Nie chcę mieć nic wspólnego z otwieraczami zamków! }
+Plh_53 { Wrócić ponownie, aby wybrać więcej zamków? Ty głupcze, obserwuję cię. }
+Witnessed_Noise_00 { Obudziłeś mnie! Wysiadać! }
+Witnessed_Noise_01 { Następnym razem zamknij pysk, kiedy będę spał obok ciebie. Spadaj. }
+Witnessed_Noise_02 { Ty sprawiający kłopoty! Nie masz tu żadnego interesu. }
+Witnessed_Noise_03 { Ktoś nie wie, kiedy zamknąć pułapkę. Oto podpowiedź: kiedy ludzie śpią! Wysiadać! }
+Witnessed_Noise_04 { Ty cholerny niezdarny gnoju. Pozbawiasz mnie snu. Wynoś się stąd. }
+Plh_54 { Odejdź, bo nie zmrużę oka! Ponownie! }
+Plh_55 { Wysiadać! Jeśli jest jedna rzecz, której nienawidzę, to ludzie, którzy mnie budzą. }
+Plh_37 { Nie chcę mieć nic wspólnego z ludźmi, którzy łamią zasady. Gerdwin zadecyduje o twoim losie. }
+Plh_38 { Nie przestrzegałeś praw Nemetona. Jeśli chcesz wszystko naprawić, zgłoś się do Gerdwina. }
+Plh_39 { Nie chcę mieć nic wspólnego z bandytami takimi jak ty. Gerdwin wyda na ciebie wyrok. }
+Plh_40 { Tu obowiązują zasady. I złamałeś je. Zapłać karę Gerdwinowi. }
+Plh_56 { Nie powiem ci ani jednego słowa, dopóki nie zapłacisz Gerdwinowi kary za to, co zrobiłeś. }
+Plh_57 { Więc myślisz, że jesteś ponad prawem? Ureguluj swój dług z Gerdwinem albo wypierdalaj stąd. }
+Plh_26 { Rozpocząć bójkę, a potem odlecieć? To po prostu tchórzostwo. Wróciłeś tu, żeby się poddać? }
+Plh_31 { Ty tchórzu! Zrezygnowałeś z tego, zanim mogliśmy to rozstrzygnąć. }
+Plh_32 { Gdybyś nie uciekł, wyglądałbyś znacznie gorzej. Wynoś się stąd! }
+Plh_33 { Myślałem, że chcesz to olać, ale potem stchórzyłeś? Zostaw mnie w spokoju! }
+Plh_34 { Nie będę marnować na ciebie oddechu. Jedyne co możesz zrobić to uciec! }
+Witnessed_BlockingWay_00 { Jeszcze raz wejdź mi na drogę, a nie będę już Miłym Gościem. }
+Witnessed_BlockingWay_01 { Jeśli kiedykolwiek jeszcze raz staniesz na mojej drodze, pożałujesz. Przenosić! }
+Witnessed_BlockingWay_02 { Wróciłeś, żeby znowu stanąć mi na drodze? Ruszaj w drogę! }
+Witnessed_BlockingWay_03 { Nie mogę już patrzeć na twój kubek. Wynoś się stąd i nie wchodź mi w drogę! }
+Witnessed_BlockingWay_04 { Nie stój, blokując drogę. Przenosić! }
+Plh_47 { Zejdź z drogi, bo sytuacja znów się pogorszy. }
+Plh_27 { Myślałeś, że po prostu zniosę wszystko? A może jesteś tu, żeby przeprosić? }
+Plh_59 { Przeproś lub odejdź. }
+Plh_60 { Nie ustąpię, dopóki nie przeprosisz. }
+Plh_61 { Pokaż kilka monet lub uderz w cegły. Nie chcę mieć z tobą nic wspólnego. }

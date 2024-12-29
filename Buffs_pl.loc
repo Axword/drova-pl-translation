@@ -1,0 +1,13 @@
+SleepBuff { Wypoczęty }
+SleepBuffDescription { Zwiększa twoją prędkość poruszania się o [MovementPercent]. }
+Poison { Trucizna }
+PoisonDescription { Zmniejsza twoją prędkość poruszania się o [MovementPercent]. }
+Bleeding { Krwawienie }
+BleedingDescription { Co sekundę tracisz zdrowie. }
+SleepBuff_T2 { Dobrze Wypoczęty }
+Veil_Name { Czarny Płomień }
+Veil_Desc { Ciągle otrzymujesz obrażenia. }
+Intoxicated_Name { Pijany }
+Intoxicated_Desc { Wszystko wygląda trochę zamazane... }
+NoFood_Name { Pusty żołądek }
+NoFood_Desc { Zjedz coś, aby napełnić żołądek. Jeśli jesteś syty, będziesz z czasem regenerował utracone zdrowie. }

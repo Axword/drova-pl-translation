@@ -1,0 +1,100 @@
+Achievement_ImmersiveMod_name { Ironman }
+Achievement_ImmersiveMod_desc { Ukończ grę z trybem zapisu ustawionym na Ironman. }
+Achievement_CengizWoodcampQuest_name  {  Niezły początek }
+Achievement_CengizWoodcampQuest_desc { Upewnij się, że wszyscy ludzie Cengiza pracują na moście. }
+Achievement_LeftDeepMine_name { Na dole }
+Achievement_LeftDeepMine_desc  {  Ucieknij z kopalni głębinowej w obozie Ocalonych. }
+Achievement_HelpedGeorg_name { O walkach i lisach }
+Achievement_HelpedGeorg_desc { Pomóż każdej osobie w Georgefarm. }
+Achievement_JoinNemeton_name  {  Część rodziny }
+Achievement_JoinNemeton_desc { Dołącz do Nemetona. }
+Achievement_JoinRuinenlager_name { Dołączenie do Ocalonych }
+Achievement_JoinRuinenlager_desc  {  Dołącz do Ocalonych. }
+Achievement_GotFamiliar_name { Moja musująca mała Iskra }
+Achievement_GotFamiliar_desc { Daj się wybrać przez Iskrę. }
+Achievement_CaughtBoar_name  {  Boskość jest nasza! }
+Achievement_CaughtBoar_desc { Pokonaj Potężnego Dzika. }
+Achievement_GotYourRunestone_name { Tylko z Runą }
+Achievement_GotYourRunestone_desc  {  Odbierz swój Kamień Runiczny. }
+Achievement_CompletedLibrary_name { Mól książkowy }
+Achievement_CompletedLibrary_desc { Ukończ bibliotekę. }
+Achievement_CompletedAuwald_name  {  Samotnie w lesie }
+Achievement_CompletedAuwald_desc { Znajdź Boski Kryształ w Lesie Zalewowym. }
+Achievement_CompletedCityDungeon_name { Śledzenie przeszłości }
+Achievement_CompletedCityDungeon_desc  {  Znajdź Boski Kryształ w Pierwotnym Lesie. }
+Achievement_EnteredRedTower_name { W Czerwonej Wieży! }
+Achievement_EnteredRedTower_desc { Wejdź do Czerwonej Wieży. }
+Achievement_FirstDeath_name  {  Witamy w Drova }
+Achievement_FirstDeath_desc { Ugryź kurz po raz pierwszy. }
+Achievement_FirstArenaFight_name { Czy nie zabawiam Cię? }
+Achievement_FirstArenaFight_desc  {  Wygraj swoją pierwszą bitwę na arenie. }
+Achievement_GraWonArenaFight_name { Dla Underdoga }
+Achievement_GraWonArenaFight_desc { Pomogłeś Gra wygrać bitwę. Esterka jest szczęśliwa. }
+Achievement_BloodborneAchievement_name  {  Strzeż się Starej Krwi }
+Achievement_BloodborneAchievement_desc { Myśliwy musi polować. }
+Achievement_BertineRevenge_name { Oko za oko, ząb za ząb }
+Achievement_BertineRevenge_desc  {  Pomóż Bertine dokonać ostatecznej zemsty. }
+Achievement_Schnitzeljagd_name { Polowanie na padlinożerców }
+Achievement_Schnitzeljagd_desc { Stwórz swój własny talizman. }
+Achievement_ArenaMaster_name  {  Gladiator }
+Achievement_ArenaMaster_desc { Awansuj na górę podczas walk na arenie w obozie Ocalonych. }
+Achievement_Blackboard_name { Dla Wspólnoty }
+Achievement_Blackboard_desc  {  Wykonaj wszystkie zadania z tablicy ogłoszeń. }
+Achievement_LastManStandingFeuertaufe_name { Ostatni stojący }
+Achievement_LastManStandingFeuertaufe_desc { Bądź ostatnią osobą, która przetrwa chrzest bojowy Eugena. }
+Achievement_CompletedBrutusMine_name  {  Wolność! }
+Achievement_CompletedBrutusMine_desc { Uwolnij więźniów. }
+Achievement_KilledRipperWoodcampAct1_name { Prawa ręka Cengiza }
+Achievement_KilledRipperWoodcampAct1_desc  {  Zabij przywódcę stada Rozpruwaczy w pobliżu Obozu Drwali w Akcie 1. }
+Achievement_HelpedSickSister_name { Samarytanin }
+Achievement_HelpedSickSister_desc { Pomóż chorej siostrze bandyty. }
+Achievement_KilledBearBeforeAct2_name  {  Niedźwiedź strach }
+Achievement_KilledBearBeforeAct2_desc { Zabij niedźwiedzia w Akcie 1. }
+Achievement_KilledOlafRipper_name { O jednego zwierzaka mniej }
+Achievement_KilledOlafRipper_desc  {  Zajmij się problemem Rozpruwacza Olafa. }
+Achievement_KilledDiemo_name { Nie miałem wyboru }
+Achievement_KilledDiemo_desc { Zmierz się z zemstą Diemo. }
+Achievement_GaveCayFamiliar_name  {  Prosiaczek o imieniu Cay }
+Achievement_GaveCayFamiliar_desc { Oddaj część siebie, aby ocalić Cay. }
+Achievement_StoppedMurtaghAndMursel_name { Jestem Prawem }
+Achievement_StoppedMurtaghAndMursel_desc  {  Przynieś sprawiedliwość Otchłani w obozie Ocalonych. }
+Achievement_LeftMine100Silver_name { To srebro jest moje! }
+Achievement_LeftMine100Silver_desc { Opuść Otchłań w obozie Ocalonych, mając w kieszeni 100 sztuk srebra. }
+Achievement_UndertookJourneyToRoots_name  {  Jeden z Pradawnym Lasem }
+Achievement_UndertookJourneyToRoots_desc { Wyrusz w podróż do korzeni Matki. }
+Achievement_FedMikesch10Fish_name { Mikesch Pożeracz }
+Achievement_FedMikesch10Fish_desc  {  Nakarm Mikescha 10 rybami. }
+Achievement_InteractedWithAllUniqueCritters_name { Zaklinacz zwierząt }
+Achievement_InteractedWithAllUniqueCritters_desc { Wejdź w interakcję z każdym wyjątkowym zwierzęciem w Drova. }
+Achievement_LearnedFromBady_name  {  Zdobył Arenę }
+Achievement_LearnedFromBady_desc { Pokonaj Bady'ego w uczciwej walce. }
+Achievement_TookAllDrugs_name { Nie marnuj, nie chcesz }
+Achievement_TookAllDrugs_desc  {  Odurz się każdym narkotykiem w Drova. }
+Achievement_GotRelicFromRuinenraeuber_name { Poza zasięgiem wzroku, ale nie poza umysłem }
+Achievement_GotRelicFromRuinenraeuber_desc { Skompletuj relikt dla Najeźdźców Zniszczeń. }
+Achievement_FinishedPwyllConversation_name  {  Wszystko zaczęło się, gdy... }
+Achievement_FinishedPwyllConversation_desc { Otrzymaj wyjątkowy prezent od Pwyll. }
+Achievement_FoundAtlanterWeapon_name { Dziedzictwo minionych czasów }
+Achievement_FoundAtlanterWeapon_desc  {  Znajdź starożytną broń. }
+Achievement_CraftedEpicArmor_name { Nic nie może Ci zaszkodzić! }
+Achievement_CraftedEpicArmor_desc { Otrzymaj zbroję minionych czasów. }
+Achievement_WonAgainstBrutus_name  {  Ostatni władca minionych czasów }
+Achievement_WonAgainstBrutus_desc { Pokonaj Drivaniusa. }
+Achievement_JoinedRustmossBusiness_name { Część umowy }
+Achievement_JoinedRustmossBusiness_desc  {  Wejdź do handlu rdzawym mchem. }
+Achievement_TrustedGawan_name { Całkowite zaufanie }
+Achievement_TrustedGawan_desc { Zaufaj Gawanowi i jego zmysłowi biznesowemu. }
+Achievement_DefaultEnding_name  {  Wszystko się kończy }
+Achievement_DefaultEnding_desc { Doświadczyłeś tej historii aż do jej gorzkiego końca. Rozpętałeś gniew Bóstw i rozproszyłeś Śmierciową Mgłę. }
+Achievement_OptionalEnding_name { Nowe ścieżki }
+Achievement_OptionalEnding_desc  {  Doświadczyłeś tej historii aż do jej gorzkiego końca. Ułagodziłeś Bóstwa i rozproszyłeś Śmierciową Mgłę. }
+Achievement_EnteredNemeton_name { Znajdę sposób! }
+Achievement_EnteredNemeton_desc { Znajdź drogę do Nemetonu. }
+Achievement_AllAchievements_name  {  Drovastic! }
+Achievement_AllAchievements_desc { Zdobądź wszystkie osiągnięcia. }
+Achievement_ExplorerMode_name { Odkrywca }
+Achievement_ExplorerMode_desc  {  Ukończ Drovę w trybie eksploratora. }
+Achievement_HardcoreMode_name { Hardkor }
+Achievement_HardcoreMode_desc { Ukończ grę z trybem zapisu ustawionym na Hardkor. }
+Achievement_ClassicMode_name  {  Klasyczny }
+Achievement_ClassicMode_desc { Ukończ Drovę w trybie klasycznym. }

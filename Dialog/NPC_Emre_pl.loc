@@ -1,0 +1,30 @@
+Plh_10 { Czy naprawdę masz na imię Snake? }
+Plh_12 { Naprawdę? Tak cię nazywała mama? }
+Plh_11 { Jasne. Tak mnie nazwała moja mama. Wąż. }
+Plh_13 { Powiedz mi, upadłeś i uderzyłeś się w głowę czy co? }
+Plh_14 { Uwierz mi, nie chcesz znać mojego prawdziwego imienia. }
+Plh_6 { Co tam jest? }
+Plh_8 { Dostanę monety ot tak? }
+Plh_7 { Tyle, ile możesz potrzebować. }
+Plh_9 { Oczywiście. Friedel chętnie ci coś da. }
+Plh_5 { Wejdź. Snake ma na ciebie oko. }
+Plh_34 { Cóż za miły wieczór w tawernie Bernolda. Snake też lubi odpoczywać. }
+Plh_16 { No cóż... pomyślałeś, że możesz po prostu pożyczyć trochę monet i uciec z nimi? }
+Plh_17 { Wydaj monety $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$, które jesteś winien Friedelowi, w przeciwnym razie zamienię cię na drewno na opał. }
+Plh_22 { Co? Ale nie pożyczyłem aż tak dużo! }
+Plh_19 { Dobrze, dobrze. Weź je. (Przekaż monety $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$) }
+Plh_20 { Dobrze, dobrze. Weź je. (Przekaż monety $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$) }
+Plh_21 { Po prostu przyjdź i weź monety. }
+Plh_23 { Poważnie? }
+Plh_24 { Myślisz, że Friedel chce tylko odzyskać swoje monety? Jak możesz oczekiwać od niej zysków? Powinienem dać ci solidnego klapsa za tak głupie pytanie. }
+Plh_25 { No dalej. Następnym razem zapłać bez zadawania pytań. }
+Plh_28 { Próbujesz coś na mnie naciągnąć? Nie masz przy sobie wystarczającej liczby monet! Będę musiał dać ci nauczkę. }
+Plh_29 { Ostrzegałem cię, ale nie słuchałeś. Teraz naprawdę się w to wkręcisz! }
+Plh_30 { Jestem EMRE! A ludzie dostają ode mnie niezłe klapsy, gdy brakuje monet. }
+Plh_27 { Miałem nadzieję, że to powiesz. *uśmiecha się* }
+Plh_18 { Wydaj monety $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$, które jesteś winien Friedelowi, inaczej posiekam cię na drewno na opał. }
+Plh_31 { Skopałeś mi tyłek. }
+Plh_32 { Wynoś się stąd. }
+Plh_15 { Jeśli potrzebujesz monet, wejdź do środka i porozmawiaj z Friedelem. }
+Plh_33 { Nic nie przebije browarka po pracy. }
+Nickname { Wąż }

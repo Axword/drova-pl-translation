@@ -1,0 +1,38 @@
+Plh_25 { *marszczy brwi* Nie pomyślałbym, że będziesz miał tyle monet. }
+Plh_30 { Cóż, więc... nie ma nic w manifeście ładunkowym. }
+Plh_31 { Co masz na myśli mówiąc, że w manifeście ładunkowym nic nie ma? Co to ma znaczyć? }
+Plh_32 { Po to dałem ci monety?! }
+Plh_34 { Nigdy nie otrzymaliśmy żadnej broni, co oznacza, że ​​rzemieślnicy nigdy nam żadnej broni nie dostarczyli. Co oznacza, że ​​broń musi nadal być przy nich. Albo cokolwiek... }
+Plh_35 { Jeśli chcesz się dowiedzieć, gdzie jest ta broń, powinieneś rozejrzeć się po jej kwaterze. }
+Plh_36 { Zrobiłem, co do mnie należało, a teraz muszę wracać do pracy. }
+Plh_33 { Hej. łatwy. Jeśli w manifeście ładunkowym nic nie ma, oznacza to, że nic nie dotarło. }
+Plh_27 { Hej, nie chcę żadnych kłopotów! Powiem ci wszystko. }
+Plh_57 { A co z tą bronią? Czy są w obozie? }
+Plh_4 { [LOCA] Nie znaleziono klucza: Plh_4. Path: Dialogues/DialogueTemplate }
+
+Plh_5 { Mam co robić. Znajdź kogoś innego do pogawędki. }
+Plh_12 { Widziałeś, jak broń wnoszono do magazynu? }
+Plh_13 { Wreszcie. Przerwa. To muzyka dla moich uszu. }
+Plh_17 { Dopasuj się. Wiesz, gdzie mnie znaleźć. }
+Plh_18 { Oto twoje monety. Co jest w manifeście ładunkowym? }
+Plh_23 { Wreszcie dzień wolny. Żadnej pracy. Dobrze się spisałeś! *uśmiecha się* }
+Plh_38 { *wzdycha* Węszysz tu czy co? Nie twoja sprawa. }
+Plh_39 { Fiaa powiedziała, że ​​jest manifest ładunkowy. Powinien zawierać zapis tego. }
+Plh_40 { PRAWDA. Ale to nadal nie twoja sprawa. Czy jesteś głuchy? }
+Plh_42 { Chciałem tylko wiedzieć, co się dzieje z bronią. }
+Plh_43 { Chcę dołączyć do Nemetona i muszę się wykazać. }
+Plh_44 { Monety $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$. }
+Plh_45 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ monety, a dam ci podpowiedź. To powinno ci pomóc. }
+Plh_46 { Co? $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ monety? }
+Plh_47 { Czy jesteś szalony? }
+Plh_48 { Nie mam tylu monet. }
+Plh_49 { Mógłbym po prostu wydobyć z ciebie aluzję. }
+Plh_50 { Nie jesteśmy w obozie Ocalonych. Jeśli chociaż położysz na mnie rękę, strażnicy wyrwą ci nową. Przemyśl to. }
+Plh_51 { Oto monety. (przekaż monety $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$) }
+Plh_52 { *mruczy* Zawrę z tobą umowę. Ciężko pracuję, a Fia wywiera na mnie coraz większą presję. Jeśli nie masz żadnych monet, równie dobrze możesz mi pomóc w pracy. }
+Plh_53 { Ty przejmiesz moją pracę, rozładujesz cały ładunek z wózka do odpowiednich pudeł, a ja zrobię sobie przerwę. }
+Plh_54 { Gdy praca zostanie ukończona, dotrzymam słowa. *uśmiecha się* }
+Plh_55 { Pomogę w Twojej pracy. }
+Plh_56 { Po prostu weź srebro z wózka i przechowuj je w skrzyniach. }
+Plh_58 { A co z tym manifestem ładunkowym? }
+Plh_59 { Jeśli po prostu przekażesz monety $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$, oszczędzisz sobie wielu kłopotów. }

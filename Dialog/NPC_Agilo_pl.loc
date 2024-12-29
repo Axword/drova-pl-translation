@@ -1,0 +1,193 @@
+Plh_184 { O dołach magazynowych... }
+Plh_147 { Dlaczego w ogóle musisz gotować? }
+Plh_148 { Dlaczego ludzie stąd uciekają? }
+Plh_9 { O Gero... }
+Plh_10 { Spotkałem Gero. }
+Plh_34 { Szukam Kory. Czy wiesz gdzie ona jest? }
+Plh_263 { Próbowałem tego z korzeniem ziemnym... }
+Plh_149 { Nie MUSZĘ gotować. Ale tylko moje potrawy nie wracają drogą powrotną przez gardło. Jak to mówią - albo wymiotujesz, albo pracujesz. }
+Plh_150 { Byliśmy połączeni trasą z Nemeton. Ale potem nastąpiło trzęsienie ziemi, most się zepsuł i zostaliśmy od siebie odcięci. I myślisz, że Nemeton nadal wysyła pomoc? Nie ma mowy... }
+Plh_307 { Kilku z nas nie chciało skończyć jako żarcie dla rozpruwaczy, więc udali się do obozu Ocalonych. Każdy, kto pracuje nie robiąc przy tym burdy jest tam mile widziany... }
+Plh_193 { Lepiej idź i porozmawiaj z Cengizem. Znajdziesz go w dużym namiocie. Powie Ci, jak najlepiej możesz nam pomóc. }
+Plh_346 { Gero i ja gadamy tu teraz częściej. Jak na razie nie jest źle – pod warunkiem, że będę płacić Murselowi za miejsce do spania. }
+Plh_347 { Zobaczymy, jak sobie poradzę w Wyrobisku. Może spotkam Gero! }
+Plh_318 { Co za mnóstwo bzdur! Jeśli tak się stanie, następnym razem nie będzie tu nikogo z Nemeton — i wszyscy będziemy smakoszami! }
+Plh_319 { Nawet nie chcę sobie tego wyobrażać... }
+Plh_100 { Ocaleni potrzebują więcej Kopaczów. Chcesz porozmawiać z Jolą? }
+Plh_320 { Poza tym, czy wszystko u ciebie w porządku? }
+Plh_323 { A może ugotujesz coś dla każdego? Aby się zrelaksować. }
+Plh_321 { Poza tym? Jakbym kiedykolwiek radził sobie dobrze! Właściwie nie mogłam trafić gorzej! Potrzebuję ramienia do rąbania drewna! }
+Plh_324 { *rzuca ci paskudne spojrzenie* Nigdy więcej nie stanę przy tym garnku. Wolę przepracować swój ból. }
+Plh_326 { *oddycha ciężko, trzymając go za ramię* Potrzebuję przerwy. }
+Plh_317 { Musimy wykończyć te stworzenia. Na pewno będzie ich więcej. }
+Plh_88 { *zgrzyta zębami* Od czasu ataku naprawdę nie jest tu bezpiecznie. A jeśli już szukają ludzi... }
+Plh_89 { Z Jolą możesz tworzyć własne monety... tylko dla siebie. }
+Plh_92 { Coś w tym jest. Tak wielu uciekło. I słyszę, że nie są w gorszej sytuacji. Wręcz przeciwnie... }
+Plh_94 { Dobry! Zdecydowano! *przełyka i wygina plecy* }
+Plh_348 { Porozmawiam z Jolą! Cengiz mnie znienawidzi, ale muszę zacząć nowy rozdział! Tylko dla siebie! }
+Plh_140 { Co znowu? Mówiłem ci, że nie będzie gotowe na... }
+Plh_188 { *podnosi wzrok* Kim dotysiąca wyjących rozpruwaczy jesteś? }
+Plh_141 { Nie bój się. Nie zamierzam cię skrzywdzić. }
+Plh_142 { Nazywam się $GVAR:EVars_Player.Name$. }
+Plh_313 { Skrzywdzić? Myślisz, że mnie przestraszyłeś? }
+Plh_143 { Nowy tutaj, co? Rozglądasz się jak kretyn. }
+Plh_189 { Jestem Agilo. Z zawodu drwal. Cóż, kiedyś byłem. Teraz jestem kucharzem. *mamrocze do siebie* Ktoś musi dopilnować, żebyśmy wszyscy nie umrzeli z głodu. }
+Plh_284 { Właściwie Gero miał zająć się gotowaniem. Mała łasica. Jedno maleńkie trzęsienie ziemi i rozpłynął się w powietrzu! }
+Plh_285 { A kto teraz musi dzierżyć nóż do siekania zamiast siekiery? JA! }
+Plh_144 { *patrzy sennie w dal* Mógłbym rąbać tyle drewna - tyle drewna... }
+Plh_191 { A co się gotuje? }
+Plh_192 { Cholera, wszystko znów się pali! Przestań mnie rozpraszać! Jeśli nie będzie dobre, każdy będzie narzekać! }
+Plh_136 { Cengiz mówi, że masz pomóc przy moście. }
+Plh_194 { *uśmiecha się* Im dłużej będziesz go rozpraszać, tym dłużej da mi spokój. }
+Plh_314 { Wymyśliłeś to, prawda? Cóż, każdego trzeba jakoś nazwać. }
+Plh_196 { *parska* Co mam teraz zrobić, sam zawieźć całe drewno na swoich plecach do Nemeton? I może przy okazji zamienić się w Bóstwo? }
+Plh_197 { Niech o tym zapomnij. Ludzie potrzebują żarcia. }
+Plh_198 { Potrzebujesz pomocy? }
+Plh_199 { Ale most też wymaga pilnego remontu... }
+Plh_202 { W garnku skwierczą już resztki mięsa Lareai. Możemy przyspieszyć gotowanie. Idź na górę do naszych dołów magazynowych. Wiesz, czym są doły magazyny, prawda? Hm. Może nie, sądząc po tym pustym wyrazie twarzy... }
+Plh_286 { Dół. Do przechowywania rzeczy. Wbudowany w ziemię. Idź na wzgórze, a znajdziesz doły magazynowe. Większość z nich jest pusta, ale w jednym jest jeszcze trochę jabłek. Przynieś je do mnie. Wtedy będę mógł pójść na most. }
+Plh_349 { Zapisz to w swoim dzienniku, jeśli boisz się, że zapomnisz. Tak czy inaczej, zawsze dobrze jest wszystko śledzić. Zawsze możesz sprawdzić swój dziennik, aby zobaczyć, co musisz zrobić. }
+Plh_203 { Co to znowu za magazyn? }
+Plh_204 { I wolno mi po prostu coś wyjąć z dołów magazynowych? }
+Plh_205 { Zajmę się tym. }
+Plh_206 { Nie mam na to czasu. }
+Plh_137 { Oto jabłka $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$. }
+Plh_114 { Już ci mówiłem. Cholerna dziura w ziemi. Z jedzeniem w środku. Mam Ci jeszcze raz przypomnieć gdzie to? }
+Plh_115 { A więc jeszcze raz: idź na wzgórze na wschód stąd, a znajdziesz doły magazynowe. Jeśli ich nie widzisz, po prostu otwórz oczy. Wyjmij trochę jabłek. Przynieś je do mnie. Nie proszę o wiele... }
+Plh_208 { Oczywiście, że nie! Ale teraz dałem ci pozwolenie. Więc nie będziemy musieli odcinać ci ręki. Prawdopodobnie. }
+Plh_116 { No dobrze... Ruszaj się! }
+Plh_207 { Och, czyli masz ważniejsze rzeczy do zrobienia? Chyba w takim razie nie pójdę na most. Cengizowi prawdopodobnie też się to nie spodoba. Więc zastanów się długo i intensywnie, czy przyniesiesz mi te jabłka. }
+Plh_351 { Co? Więc po prostu pomogłeś sobie w dołach magazynowych. W każdym razie. Najważniejsze, że jest teraz tutaj. }
+Plh_210 { $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ jabłka? }
+Plh_329 { Co mam z nimi zrobić? Te kilka jabłek może odstraszyć uzdrowiciela, ale ledwo stanowią posiłek. }
+Plh_211 { Zrobiłem to, o co mnie prosiłeś. }
+Plh_212 { Co mam zrobić? W dołach magazynowych nie było ich już więcej. Spójrzcie sami. }
+Plh_214 { Niewiarygodne. Cengiz podejrzewał kogoś o kradzież z dołów magazynowych. Prawdopodobnie ma rację. Wczoraj było w nich o wiele więcej... }
+Plh_219 { Złodziej? }
+Plh_221 { Co powinienem teraz zrobić? }
+Plh_220 { Nieważne – już się tym zająłem. Cengiz chce, żebyś natychmiast udał się na most. }
+Plh_222 { Cengiz powiedział, że ktoś czai się w nocy. Ale kto byłby na tyle nikczemny, by okradać społeczność? Niewiarygodny. }
+Plh_223 { Tysiące wyjących rozpruwaczy, co za katastrofa! }
+Plh_224 { Daj mi pomyśleć... }
+Plh_288 { Mam to! Jagody w pobliżu! Gero zawsze coś zbierał. Oczywiście nie stanowią pełnego posiłku, ale lepsze to niż nic. }
+Plh_225 { Najpierw jabłka, teraz jagody? }
+Plh_226 { Gero też nie potrafi gotować? }
+Plh_229 { Ta twoja głowa nadaje się do czegoś więcej niż tylko napełniania hełmu! }
+Plh_227 { Spodziewam się, że będziesz musiał mi przynieść... $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ jagód. Nawet trochę ci zostanie. }
+Plh_230 { *wzdycha* Dobra. A gdzie znajdę te jagody? }
+Plh_138 { Oto twoje jagody. Czy będzie coś jeszcze, jaśnie panie kucharzu? }
+Plh_231 { Zajmę się tym. }
+Plh_232 { Gdziekolwiek poza obozem. Nie jest trudno je znaleźć. Należy jednak zachować ostrożność podczas wyprawy na południe. Koczuje tam banda rozpruwaczy i nie chcesz z nimi zadzierać. Zostawmy je w spokoju, a one też nas zostawią. }
+Plh_127 { W końcu! Jedzenie! }
+Plh_283 { *wrzuca jagody do garnka* Gotowe! }
+Plh_235 { Uh, nie powinieneś ich najpierw posiekać? }
+Plh_237 { I jesteś pewien, że wszystkie są jadalne? }
+Plh_236 { (...) }
+Plh_239 { Wiem co robię! Oglądałem Gero wystarczająco często i jestem pewien, że robił to dokładnie w ten sam sposób. }
+Plh_238 { *miesza garnek chochelką* Ładnie pachnie. Powinno też smakować. A jeśli nikt się nie umrze, to wszystko zrobiłem poprawnie. }
+Plh_240 { *bierze chochlę i zlizuje trochę* Mmmm... *kaszle* OK, przynajmniej jest gorące... }
+Plh_290 { Uff! Uhh... Cóż, wyszło naprawdę nieźle. Powoduje jedynie niewielki ból brzucha. Chcesz spróbować? }
+Plh_245 { *podaje chochelkę wypełnioną ciemnobrązową cieczą o zapachu wody z bagien* }
+Plh_242 { Nie, dziękuję, właśnie jadłem. }
+Plh_243 { Jasne. Do dna! (wypij płyn) }
+Plh_244 { Och, myślisz, że jesteś za dobry dla mojego jedzenia? Hmph. Oznacza to dla nas więcej. }
+Plh_327 { Proszę bardzo. Dzięki za pomoc }
+Plh_328 { To przepis Gero. Nie sądzę, że zrobiłem to dobrze. Ale smakuje dobrze. Jeśli jesteś w pobliżu ogniska, możesz zrobić to samo. }
+Plh_357 { Pamiętaj: Możesz szybko się wyleczyć za pomocą maści leczniczych, roślin lub mikstur, ale pełny żołądek czyni cuda dla twojego zdrowia. Nie działa tak szybko, ale na dłuższą metę jest bardziej zrównoważony. Niektóre potrawy również Cię orzeźwiają – w zależności od tego, co gotujesz. }
+Plh_252 { W porządku. Nie mogę zrobić nic więcej. Spakuję sprzęt i ruszam w stronę mostu. Możesz powiedzieć Cengizowi. }
+Plh_246 { i jak? }
+Plh_247 { Idealne! }
+Plh_248 { Przydałoby się trochę więcej goździków. }
+Plh_249 { Chyba muszę zwymiotować... }
+Plh_250 { Hm. Czy mógłbym być naprawdę dobrym kucharzem i czy powinienem...? Nie, nigdy nie mógłbym tego zrobić! Moje serce należy do mojego topora! }
+Plh_251 { Nie chcę słyszeć żadnych skarg! Dopóki obudzisz się jutro rano, jedzenie spełni swoje zadanie! }
+Plh_234 { *wrzuca jagody i jabłko do garnka* Gotowe! }
+Plh_228 { Gero jest jednym z tchórzy, którzy uciekli do Ocalonych. Jak myślisz, dlaczego muszę mieszać w tym gównianym garnku, zamiast rąbać drewno – całe to wspaniałe drewno… }
+Plh_201 { A jedzenie? Jeśli powiem, że coś gotuje, to znaczy, że coś gotuje. }
+Plh_200 { Lepiej się na coś przydaj. W przeciwnym razie wszyscy w okolicy skończą z pustym żołądkiem! }
+Plh_355 { Byłem w dołach magazynowych. }
+Plh_356 { Więc przestań paplać i daj mi to, co znalazłeś. }
+Plh_209 { Doły magazynowe były puste. }
+Plh_216 { Co?! Czy dobrze zaglądałeś? Do KAŻDEGO magazynu? }
+Plh_217 { Cóż... znalazłem jabłka $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$. }
+Plh_218 { Doły magazynowe, które znalazłem, były puste. }
+Plh_12 { Jedzenie Gero było zawsze pyszne. Nie wiem jak on to zrobił... }
+Plh_261 { Hej, wyświadcz mi przysługę. Będziesz mijał obóz Ocalonych. Może i tak cię nie wpuszczą, ale jeśli tak... }
+Plh_291 { Gero i ja byliśmy dobrymi przyjaciółmi i chętnie dowiem się, jak sobie teraz radzi. Możesz sprawdzić co u niego? Od tego czasu zrobiło się tu dość niebezpiecznie... }
+Plh_13 { Co będę z tego miał? }
+Plh_255 { Czy możesz mi powiedzieć coś więcej o Ocalałych? }
+Plh_14 { Gdzie mogę znaleźć Ocalałych? }
+Plh_15 { Niebezpiecznie? }
+Plh_16 { Będę go mieć na oku. }
+Plh_262 { Kiedy dotrę do obozu Ocalonych, zapytam w okolicy. }
+Plh_18 { Jak myślisz, co taki prosty drwal jak ja ma do zaoferowania? Hmph. Podałem już sekretny przepis Gero. Nie mam nic innego. Pogódź się z tym. }
+Plh_256 { Wiesz, nie wszyscy w Drovie są tak pewni, że Nemeton może stać się Krainą Legend. Każdy, kto już w to nie wierzy, uciekł do obozu Ocalonych. }
+Plh_292 { Może też byłoby mi tam lepiej. Słyszałem, że jeśli naprawdę się postarasz to żyje się całkiem nieźle. My lubimy ciężką pracę — to znaczy ja i mój topór. }
+Plh_19 { Kieruj się na zachód. Po prostu podążaj ścieżką. Jeśli widzisz ruiny, jesteś na dobrej drodze. }
+Plh_293 { Jeszcze raz: trzymajcie się ścieżki! Nie wędruj przez pustynię! Chyba, że masz zamiar umrzeć. }
+Plh_20 { Dokładnie! Przynajmniej dla wszystkich idiotów! Nadal nie wiem, czy jesteś jednym z nich. }
+Plh_22 { Dobrze. Uspokoiłbym się, gdybym znów usłyszał Gero... }
+Plh_23 { Jeśli tam dotrzesz, prawdopodobnie znajdziesz go w pobliżu jakiegoś kotła, ubijającego coś - tak jak to robił tutaj. }
+Plh_26 { Dobrze? Czy nadal jest z Ocalałymi? Co powiedział? Jak on się ma? }
+Plh_27 { Rozbija sobie tyłek w Otchłani w obozie Ocalonych. }
+Plh_28 { Kopie go w tyłek? Więc... On nie gotuje? On naprawdę używa rąk? To zabawne. Tak naprawdę jedyne, czego kiedykolwiek pragnął, to gotować. }
+Plh_29 { Powiedział, że chce najpierw zarobić kilka monet. }
+Plh_30 { Monety? Co by zrobił Gero… och, chwileczkę. Zawsze mówił o tym, że w końcu chciałby mieć własną tawernę i kuchnię. Prawdopodobnie łatwiej jest to osiągnąć w obozie Ocalonych niż tutaj... }
+Plh_294 { W każdym razie dziękuję, że zajrzałeś do niego. Może powinienem się stąd wynieść, jeśli kiedykolwiek będzie taka szansa... }
+Plh_176 { Wróciłeś. Zobaczmy, co się tutaj dzieje. }
+Plh_281 { Ach, Larea... Biedna sprawa. Ale co możesz zrobić – muszę dalej pracować. }
+Plh_153 { Wyniosłeś towar z dołów magazynowych? }
+Plh_174 { Wreszcie znowu mogę naprawdę pracować! Koniec z wygłupami przy kotle! }
+Plh_4 { *mruczy* To nie jest dobry moment. Co znowu? }
+Plh_36 { Właściwie to szukam Kory, ale Cengiz powiedział, że możesz mi w czymś pomóc... }
+Plh_37 { Kora? Nie ma jej tutaj. Została zabrana do obozu Ocalonych. Hmph. Może też powinienem tak zrobić... }
+Plh_39 { Czy wiesz jak prawidłowo leczyć rany? }
+Plh_40 { Mam pytanie odnośnie rany. Czy wiesz coś na ten temat? }
+Plh_41 { Jasne, wiem wszystko o ranach. Odpowiedź brzmi... }
+Plh_297 { Tak...? }
+Plh_298 { Piwo! }
+Plh_309 { Co?! }
+Plh_300 { Och, nie mam pojęcia, jak prawidłowo leczyć rany. Ale kilka razy resetowałem ramię, więc mogę ci pokazać, jak to zrobić. Najpierw musimy zwichnąć twoje ramię, ale to proste. }
+Plh_44 { Załóżmy — hipotetycznie — że kogoś ugryzł rozpruwacz. Co można na to zrobić? }
+Plh_48 { Lara doznała kontuzji. Nie chce jednak wracać na obóz, bo wtedy wszyscy zobaczą jej kontuzję. }
+Plh_45 { Ugryziony przez rozpruwacza? To dość bolesne. Musisz się po prostu przełamać. A każdy, kto był na tyle głupi, by zbliżyć się tak blisko rozpruwacza, miał to w planach. }
+Plh_46 { Co może pomóc złagodzić ból? }
+Plh_47 { Larea odczuwa POWAŻNY ból i pilnie potrzebuje coś z tym zrobić. }
+Plh_50 { Zrywak? Przeklęte stworzenia z ostrymi jak brzytwa pazurami. Hmmm... }
+Plh_51 { Była jedna rzecz... }
+Plh_53 { Pewnego razu Kora zrobiła tę maść, która dobrze działała na rany. Nie wiem, co się w tym znalazło… Korzeń Ziemi był jednym ze składników, tyle wiem. Więc na coś takiego powinno pomóc. }
+Plh_52 { Możesz przywiązać trochę korzenia do rany. To może pomóc. Wydaje się prawdopodobne, ponieważ jest również w maści. }
+Plh_55 { Jesteś tego pewien? }
+Plh_60 { Gdzie mogę znaleźć Korzeń Ziemi? }
+Plh_56 { Dzięki. Zobaczymy... }
+Plh_57 { Jak mógłbym być pewien? Jedyne, co mogę zrobić, to zresetować kości. I jestem głodny! Larea, lepiej się pospiesz z mięsem! }
+Plh_62 { Jedyne, co mogę powiedzieć, to to, że Kora podczas przygotowywania maści bawiła się korzeniem ziemnym. Nie wiem, do czego to służy i nie mam ochoty próbować tego na sobie. }
+Plh_61 { Gdziekolwiek jest woda. Można trochę odciąć i przywiązać do rany. Goi się dość szybko. Myślę, że. }
+Plh_58 { Więc zrób to. }
+Plh_59 { Nie tak szybko. Coś tu jest nie tak... Czuję szczura. Więc rozlej to! }
+Plh_63 { Byłem po prostu ciekawy. }
+Plh_64 { Nie twój cholerny interes. }
+Plh_65 { Larea jest kontuzjowana, ale nie chce, żeby ktokolwiek się o tym dowiedział. }
+Plh_67 { Ciekawość jest niebezpieczna w Drova. Ciekawość cię zabije. Więc... uważaj, gdzie chodzisz, wtykając nos. }
+Plh_66 { Hej, zwolnij. Pytałeś MNIE, pamiętasz? Hmph. }
+Plh_49 { Lara? Ona nie czuje bólu. Ona po prostu ignoruje takie rzeczy. Lepiej się pospiesz z mięsem. }
+Plh_54 { Więc powinna przełknąć swoją dumę i przyjść tutaj. Inaczej nikt nie będzie w stanie jej pomóc. Kontuzja naprawdę nie jest powodem do wstydu... }
+Plh_70 { Więc idź. }
+Plh_38 { Zależy czego chcesz. }
+Plh_266 { Dobrze? Czy to zadziałało? }
+Plh_267 { Leczyłem Lareę ziemistą, ale... Nie pomogło. Ona nie żyje. }
+Plh_268 { Zrobiłem to co poleciłeś. Teraz Larea nie żyje. Z twojego powodu! }
+Plh_269 { To nic nie dało. Korzeń ziemi nie miał żadnego wpływu. }
+Plh_270 { Co-co? Larea nie żyje? Jak...? }
+Plh_311 { Czy jesteś pewien, że korzeń ziemny był właściwym lekarstwem? }
+Plh_303 { Tak! No cóż – przynajmniej tak myślałam… Ale dlaczego do nas nie trafiła, skoro była w tak okropnym stanie? }
+Plh_275 { Ważne było dla niej, aby nikt nie widział, jak ciężko jest ranna... }
+Plh_276 { Rana zadana jej przez Rozpruwacza wyglądała straszliwie. Może po prostu nie było już sposobu, żeby ją uratować... }
+Plh_277 { *patrzy w dół* To bezlitosny świat. Mogła przyjść do nas po pomoc. Nie, Larea jest sama sobie winna. Ja... muszę wracać do pracy... }
+Plh_278 { Nie chcesz o tym rozmawiać? }
+Plh_280 { Nie. Teraz idź. Zostaw mnie w spokoju. }
+Plh_271 { Nie waż się próbować zrzucać winy na MNIE! Nie jestem uzdrowicielem! }
+Plh_312 { To ty kazałeś mi używać Korzeń Ziemi. }
+Plh_305 { A mówiłam Ci też, że nie wiem, jakie są jego skutki! Jak mogła przez to umrzeć... }
+Plh_306 { Rzeczywiście ktoś by jej pomógł – gdyby do nas przyszła… }
+Plh_272 { Hm. Cóż, nie jestem uzdrowicielem. Dziwne jednak, że nie miało to żadnego wpływu... }

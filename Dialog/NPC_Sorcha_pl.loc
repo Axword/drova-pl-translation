@@ -1,0 +1,34 @@
+Inf_DaWarNochWas { Czy możesz mi powiedzieć coś o Conorze? }
+Plh_8 { Czy wiesz coś o Eugenie? }
+Plh_36 { O Conorze? Hm, zobaczmy... }
+Plh_39 { Wydaje się samotny. Każdej nocy pije przy ognisku i wydaje się nieszczęśliwy. }
+Plh_40 { Nie mówi dużo. }
+Plh_41 { Sam siedzi przy ognisku? }
+Plh_44 { Co masz na myśli, samotny? }
+Plh_42 { Tak, właśnie to powiedziałem, prawda? *chichocze* }
+Plh_43 { Pewnie przydałoby mu się towarzystwo, ale niestety ze mną nie rozmawia. }
+Plh_46 { Może mógłbyś spróbować. *uśmiecha się* }
+Plh_45 { Nie pozwala nikomu się zbliżyć. Przynajmniej tak to wygląda. }
+Plh_31 { Wróć wkrótce. }
+Plh_32 { Wróciłeś! Wreszcie! }
+Plh_4 { Sorka to moje imię. *uśmiecha się* Jak leci? }
+Plh_0 { Cudowny dzień. }
+Plh_1 { To idzie. }
+Plh_2 { Nie chcę o tym rozmawiać. }
+Plh_3 { ...o ile nie gardzisz Drovą, tak. Haha. }
+Plh_7 { Dobry dzień na relaks... }
+Plh_6 { Ty żyjesz, ja żyję... Mogło być gorzej, prawda? }
+Plh_37 { Rozejrzyj się, jeśli chcesz. }
+Plh_10 { Eugeniusz? Trochę samotnik. Zawsze ma ochotę albo się pokłócić, albo napić. Lub oba. }
+Plh_11 { Niedawno wszedł zataczając się do tawerny z oderwaną głową rozpruwacza. Potem pośliznął się w kapiącej z niego krwi. Dlatego przez kilka następnych dni chodził z gigantycznym guzem na czole. To jest Eugeniusz. }
+Plh_12 { Czy możesz mi powiedzieć coś więcej na jego temat? }
+Plh_13 { Dziękuję. }
+Plh_14 { Nie. Trzymam się od niego z daleka. Nie jest najlepszym towarzystwem do trzymania. }
+Plh_15 { Chętnie dotrzymam Ci towarzystwa. *uśmiecha się* }
+Plh_20 { Czy nie jesteś dawnym kochankiem Jendrika? }
+Plh_21 { Jendrika? Już dawno nie słyszałem tego imienia. }
+Plh_22 { Tak, Jendrik i ja poznaliśmy się... bardzo dobrze. Jeśli złapiesz mój dryf. *mruga* }
+Plh_23 { Był całkiem przyzwoitym wojownikiem. Ale on chciał zaangażowania, a ja nie byłam gotowa na takie zobowiązanie. }
+Plh_27 { Cóż, to się stało. Nie mogę tego zmienić. Muszę już wracać do pracy. }
+Plh_29 { Spraw, żebyśmy byli dumni, Eugen! }
+Plh_30 { $GVAR:EVars_Player.Name$ bezpiecznie wrócił? }

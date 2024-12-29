@@ -1,0 +1,4 @@
+Title { Ktoś to musi zrobić! }
+Entry_01 { Z konieczności Agilo jest odpowiedzialny za jedzenie. Potrzebuje, żebym przyniósł mu jabłka z magazynów, żeby mógł kontynuować pracę. Magazyny znajdują się na wzgórzu na północny wschód od Agila. }
+Entry_02 { Podobno ktoś majstrował przy magazynach, a Agilo jest z tego powodu wściekły. Mówi, że wczoraj wieczorem było tam o wiele więcej zapasów. Teraz jedzenie się kończy, a ja mam przynieść mu $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ jagód. }
+Entry_03 { Agilo teraz pracuje nad mostem. }

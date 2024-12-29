@@ -1,0 +1,90 @@
+Key_Shift { Shift }
+control_mousebutton_left { Lewy Przycisk }
+control_mousebutton_right { Prawy Przycisk }
+control_keycode_space { SPACJA }
+control_keycode_control { Ctrl }
+control_keycode_tab { TAB }
+control_keycode_return { ENTER }
+control_keycode_alt { Alt }
+control_keycode_up { Góra }
+control_keycode_down { Dół }
+control_keycode_left { Lewo }
+control_keycode_right { Prawo }
+action_MoveX_Pos { Ruch w prawo }
+action_MoveX_Neg { Ruch w lewo }
+action_MoveY_Pos { Ruch do góry }
+action_MoveY_Neg { Ruch w dół }
+action_LookX_Pos { Spójrz w prawo }
+action_LookX_Neg { Spójrz w lewo }
+action_LookY_Pos { Spójrz do góry }
+action_LookY_Neg { Spójrz w dół }
+action_Attack_Primary { Atak }
+action_Block { Akcja pomocnicza }
+action_Attack_And_Interaction { Wejdź w interakcję (normalna postawa) /<br> Atak (postawa bojowa) }
+action_Block_And_Perception { Tryb Śledztwa (normalna postawa) /<br> Akcja pomocnicza (postawa bojowa) }
+action_Dodge { Unik }
+action_DrawWeapon { Dobyj/Schowaj broń }
+action_GameMenu { Menu Gry }
+action_PauseMenu { Pauza }
+action_Interact { Wejdź w interakcję }
+action_Inventory { Ekwipunek }
+action_LootAll { Zabierz wszystko }
+action_Journal { Dziennik }
+action_PerceptionMode { Tryb Śledztwa }
+action_QuickSave { Szybki zapis }
+action_QuickLoad { Szybkie wczytanie }
+action_SwapWeaponSet { Zmień zestaw broni }
+action_Walk { Chodzenie }
+action_Trade_All { Wymień wszystko }
+action_Trade_Ten { Wymień dziesięć }
+action_Screenshot { Zrzut ekranu }
+action_ReportBug { Zgłoś błąd }
+action_UseSpell { Użyj Umiejętności }
+action_RingMenu { Menu Koła }
+action_OpenMap { Mapa }
+action_MarkObject { Oznacz Przedmiot }
+action_TalentMenu { Talenty }
+action_MarkAsGarbage { Oznacz jako Śmieci }
+action_Flow_1 { Umiejętność 1 }
+action_Flow_2 { Umiejętność 2 }
+action_Flow_3 { Umiejętność 3 }
+action_Flow_4 { Umiejętność 4 }
+action_Flow_5 { Umiejętność 5 }
+action_Flow_6 { Umiejętność 6 }
+action_Flow_7 { Umiejętność 7 }
+action_Flow_8 { Umiejętność 8 }
+action_Quickbar_1 { Skrót 1 }
+action_Quickbar_2 { Skrót 2 }
+action_Quickbar_3 { Skrót 3 }
+action_Quickbar_4 { Skrót 4 }
+action_QuickslotAssignment { Przypisz do Skrótu }
+action_DeleteQuickbarItem { Opróżnij Skrót }
+action_PrevPanel { Poprzednia zakładka }
+action_NextPanel { Następna zakładka }
+action_Lockpick_Left { Mini-gra w lewo }
+action_Lockpick_Right { Mini-gra w prawo }
+action_GuiScrollY { Przewiń Interfejs }
+action_PlayNote_1 { Notatka 1 }
+action_PlayNote_2 { Notatka 2 }
+action_PlayNote_3 { Notatka 3 }
+action_PlayNote_4 { Notatka 4 }
+action_MoveX { Ruch }
+action_MoveY { Ruch }
+action_LookX { Rozglądaj się }
+action_lookY { Rozglądaj się }
+action_HelpUp { Podnieś }
+action_Abilities { Umiejętności }
+action_Squat { Kucnij }
+action_DialogSkip { Pomiń Dialog }
+action_CraftingMenu { Menu Rzemiosła }
+action_ToggleGarbageVisibility { Pokaż/Ukryj Śmieci }
+action_UIDelete { Usuń }
+
+dialogoption_1 { Opcja dialogowa 1 }
+dialogoption_2 { Opcja dialogowa 2 }
+dialogoption_3 { Opcja dialogowa 3 }
+dialogoption_4 { Opcja dialogowa 4 }
+dialogoption_5 { Opcja dialogowa 5 }
+dialogoption_6 { Opcja dialogowa 6 }
+action_toggleCraftables { Przełącz: Wyświetlaj tylko przepisy, które można wytworzyć }
+action_minigameSubmit { Akcja w minigrach }

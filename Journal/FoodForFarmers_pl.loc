@@ -1,0 +1,9 @@
+Entry_01 { Delani chce, żebym przygotował „Posiłek Rolnika” dla jej pracowników. Składniki są wymienione w przepisie, który mi dała. Najważniejsze składniki znajdę w skrzyni. Ale mam wziąć wystarczająco tylko na siedem posiłków. Ani więcej! }
+Entry_02 { Przygotowałem jedzenie. Teraz muszę tylko roznieść je wszystkim. }
+Entry_03 { Dałem Jurekowi i Jerzemu po jednej porcji. }
+Entry_04 { Dylara i Mirron również są teraz nasyceni. }
+Entry_05 { Raya i Fleur też otrzymały swoje jedzenie. }
+Entry_06A { Delani jest zadowolona z mojej pracy. Poinformuje Georga, który ma mi zapłacić. }
+Entry_06B { Delani zauważyła, że coś podkradłem ze skrzyni. Powie Georgowi o mojej pomocy, ale muszę zaakceptować to, co ukradłem, jako moją nagrodę. Jest naprawdę zła. }
+Title { Jedzenie dla pracowników  }
+Entry_04B { Przyniosłem Dylarze posiłek.  }

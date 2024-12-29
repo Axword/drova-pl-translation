@@ -1,0 +1,61 @@
+Plh_50 { Oto monety, które wciąż jestem ci winien. }
+
+Plh_9 { Hej, teraz ja też walczę na arenie. }
+
+Plh_30 { Trenujmy. }
+
+Plh_14 { *spogląda lekceważąco* Do tej pory Proximus wpuszcza wszelkiego rodzaju szumowiny... }
+
+Plh_18 { Jaki masz problem? }
+
+Plh_20 { Nie twój interes. }
+
+Plh_21 { *śmieje się* Chcesz się założyć? Jak główne wydarzenie na arenie! Kto przegra, musi wyłożyć 30 monet. Co ty na to? A może jesteś tchórzem? }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? Nie wstanę nawet z łóżka za mniej niż $GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$ monet. Niech to będzie $GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$! }
+
+Plh_23 { Za $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ monet, wchodzę w to. }
+
+Plh_26 { Nie mam tylu monet. }
+
+Plh_27 { Po prostu trenujmy. }
+
+Plh_25 { Brzmi dobrze, więc chodźmy. }
+
+Plh_28 { Znajdź monety. Możesz pracować w Pit. }
+
+Plh_29 { Czy wyglądam, jakbym potrzebował treningu? Żadnych monet, żadnej walki. Wtedy będziesz miał trochę wyczucia areny. *Plh_33 {}
+
+Plh_33 { TY zapomnij! }
+
+Plh_16 { Jak miałoby mnie to zainteresować? Co mam zrobić, zatańczyć dla ciebie radosny taniec czy coś? }
+
+Plh_31 { Więc monety $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? }
+
+Plh_5 { Hej, nowa twarz. }
+
+Plh_6 { Mówisz o mnie? }
+
+Plh_7 { Czego chcesz? }
+
+Plh_8 { Plh_8 }
+
+Plh_35 {Dobra walka! Naprawdę możesz być kimś! }
+
+Plh_45 { Oto twoje monety. Jest ich tu więcej. Jeśli chcesz walczyć na arenie. }
+
+Plh_36 { Niezła próba, ale musisz się jeszcze wiele nauczyć. I wisisz mi kilka monet. }
+
+Plh_40 { Oto twoje monety. }
+
+Plh_38 { Nie dostaniesz ode mnie ani grosza. }
+
+Plh_39 { Nie mam przy sobie wystarczającej ilości monet. }
+
+Plh_43 { Powinieneś był wziąć to pod uwagę wcześniej. Teraz zobaczysz, co z tego będziesz miał... }
+
+Plh_48 { Nie będę z tobą walczył, jeśli nie masz monet. Długi to kwestia honoru. *Plh_41 {}
+
+Plh_41 { Podoba mi się to. Daj mi znać, jeśli chcesz znowu walczyć. }
+
+Plh_42 { Te monety nie wystarczą. Wykrztuś je! }

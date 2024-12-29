@@ -1,0 +1,85 @@
+Plh_50 { Pomoc w zadaniu... }
+Plh_20 { Agnessa musi odpocząć. Daj jej odpocząć kilka dni. }
+Plh_51 { Czy wiesz, że w Wyrobisku znajduje się tajna prycza? }
+Plh_52 { Hm. Aha, a tak przy okazji – jeśli zakopiesz się naprawdę głęboko w Otchłań, znajdziesz sekretne wyjście z Drova. }
+Plh_53 { Ale... }
+Plh_54 { Nie mam czasu na twoje bajki. Bierz się do pracy! }
+Plh_4 { Hej, ty. Ciężki dzień? Wyglądasz na wyczerpanego. }
+Plh_82 { Zbudowaliśmy tu dla Was bunkier, Kopacz. Jest tam ciepło i przytulnie. Połóż się i odpocznij. Potem praca będzie znacznie łatwiejsza. }
+Plh_0 { Bardzo bym tego chciał... }
+Plh_1 { Jaki jest haczyk? }
+Plh_2 { Nie teraz. }
+Plh_27 { Po prostu znajdź sobie łóżko i zamknij oczy. }
+Plh_5 { Nie ma haczyka. Ci, którzy pracują, zasługują na odpoczynek. Po prostu zdejmij obciążenie. }
+Plh_6 { W porządku. Możesz wrócić, kiedy tylko będziesz zmęczony i potrzebujesz snu. }
+Plh_55 { Hej. Wciąż jesteś mi winien monety! Już ci się to nie uda! }
+Plh_68 { Haha, widziałeś tych frajerów leżących w ziemi? }
+Plh_69 { Dokonałeś właściwego wyboru. A ponieważ Mursel to taki miły facet, mogę teraz spać tutaj za darmo. }
+Plh_70 { A ty, Emko, zapłacisz podwójnie. *uśmiecha się* }
+Plh_71 { Jesteś najgorszą szumowiną na świecie. }
+Plh_73 { Sam to na siebie sprowadziłeś. }
+Plh_72 { Gdybyś nie próbował mnie oszukać, cała sytuacja potoczyłaby się zupełnie inaczej. }
+Plh_74 { *czerwieni się* Ty... TY...! }
+Plh_76 { Po prostu spadaj. Wszystko zostało tutaj powiedziane. }
+Plh_59 { Że Emko zawsze był palantem. Ale musimy wracać do pracy. Srebro samo się nie poszuka. Niestety. }
+Plh_75 { Słuchaj, to nie było nic osobistego. Wszyscy tu jesteśmy przyjaciółmi! }
+Plh_77 { O cholera... }
+Plh_78 { Teraz wy dwa szczury znacie swoje miejsce! Moje srebro należy do MNIE i nie dostaniesz z niego ŻADNEGO! }
+Plh_79 { W porządku, łatwo... }
+Plh_80 { Dziękuję za nic. }
+Plh_44 { Uch. To ty. }
+Plh_57 { Mam nadzieję, że nie będziesz cały czas myślał o tym kopaniu tyłka, kiedy tu będziesz spać. Powinieneś odpocząć, hehe. *uśmiecha się* }
+Plh_8 { Więc śpij dobrze? *uśmiecha się* To będzie $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ srebrne. }
+Plh_28 { Chcesz srebra do spania? Levin powiedział, że zapewnimy nam miejsce do spania. }
+Plh_45 { Nie możemy tego zrobić w inny sposób? }
+Plh_29 { Zdobyłeś miejsce do spania. Czy Levin tu jest? Nie. Więc zapłać staremu, dobremu Murselowi, a my pozostaniemy przyjaciółmi. }
+Plh_60 { A może dam ci $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ w srebrze i nigdy więcej nie będziesz musiał płacić? }
+Plh_62 { W porządku, oto $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$$. Od teraz będziesz się ode mnie trzymać z daleka. }
+Plh_9 { Uch. Tutaj, na ostatnią noc. (przekaż $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ srebrny) }
+Plh_10 { Nie mam $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ srebra. }
+Plh_11 { Do cholery, zrobię to! }
+Plh_61 { Sądząc po twoim wyglądzie, i tak nie zostaniesz tu długo. Zróbmy tak. *uśmiecha się* }
+Plh_63 { *uśmiecha się szeroko* Ach, racja! Dostałem wiadomość od Levina, że ​​mam dla ciebie zrobić jakiś wyjątek. }
+Plh_65 { Możesz tu spać, ile chcesz. Odpoczywaj, kiedy tylko potrzebujesz trochę spokoju. *mruga do ciebie* }
+Plh_64 { Myślisz, że jesteś zabawny czy co? Przynieś wystarczająco dużo srebra! }
+Plh_13 { To jest lepsze. Jesteś dobrym kosiarzem. Po prostu walcz dalej. *uśmiecha się* }
+Plh_15 { Trzeba było o tym pomyśleć przed spaniem tutaj. Teraz wezmę to, co mi się prawnie należy. }
+Plh_16 { Wtedy wezmę to, co mi się prawnie należy. }
+Plh_46 { Srebro jest odpowiedzią na wszystko. Oddaj to albo. }
+Plh_84 { Najpierw przychodzisz tutaj, robiąc falę, starając się być kutasem, a potem po prostu rezygnujesz. Cholernie żałosne. }
+Plh_85 { Na razie odpuszczę to sobie... Wy, Kopacze, macie czasami śmieszne pomysły. }
+Plh_86 { Chciałeś walczyć u mojego boku z tymi głupimi Kopaczami, a potem po prostu rzuciłeś kaucję? }
+Plh_17 { Nie będziesz znowu ze mną zadzierać. A tak przy okazji, już wziąłem srebro, które do mnie przyjdzie. }
+Plh_95 { Możesz spać spokojnie. }
+Plh_56 { Biedactwo, nie miałeś przy sobie nawet srebra. A teraz pokonaj to i do dzieła. }
+Plh_18 { Uch. *mruczy* W porządku, możesz się tu rozbić. }
+Plh_47 { Mam nadzieję, że odrobiłeś lekcję. Nie dostaniesz ode mnie srebra. }
+Plh_48 { Od teraz będę tu spać za darmo, rozumiesz? }
+Plh_49 { Jasne, jasne. Zrozumiałem. }
+Plh_19 { Uch. Co słychać? }
+Plh_96 { Co słychać? Idź kopać lub spać. Nie przejmuj się. }
+Plh_34 { Odpocznij trochę. Dobrze się tobą zaopiekuję, Kopacz. }
+Plh_21 { Co? Ta baba nadal jest mi winna kupę srebra, które jej pożyczyłem na nowy sprzęt. Jaki to mój problem, że ona obija się od dwóch dni z powodu kontuzji? }
+Plh_22 { Czy znowu muszę cię zmartwić? }
+Plh_90 { Nie możesz dać Agnessie trochę luzu? Bardzo cierpi. }
+Plh_91 { Czy nie możemy dojść do innego porozumienia w sprawie problemu Agnessy? }
+Plh_30 { Jeśli nie zostawisz Agnessy w spokoju, będziesz tego żałować. }
+Plh_33 { Zostaw już Agnessę w spokoju! (wyciągnij broń) }
+Plh_35 { Ile srebra Agnessa jest ci winna? }
+Plh_37 { Tutaj $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ srebro. To powinno zająć się długiem Agnessy. }
+Plh_23 { W porządku. Po prostu o tym zapomnij. (Zakończ rozmowę) }
+Plh_24 { Uch. W porządku. Wygrywasz. Dam Agnessie trochę luzu. Ale nadal będę chciał odzyskać moje srebro, kiedy znów będzie mogła pracować! }
+Plh_89 { Zapomnij o tym. Jeśli rozejdzie się wieść, że zmiękłem z jakąś głupią Agnessą, to nikt już nie będzie mnie traktował poważnie. }
+Plh_93 { Nie ma mowy. }
+Plh_92 { Jasne. Jest proste rozwiązanie. }
+Plh_94 { Musi rozdać srebro, które jej pożyczyłem. Wtedy wszystko będzie znowu w porządku i elegancko. }
+Plh_31 { Chcesz kawałek mnie? }
+Plh_87 { Bardzo chciałbym to zobaczyć! }
+Plh_32 { Szukasz sekund? W każdej chwili. }
+Plh_36 { Pożyczyłem jej $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ srebrne. Potem przyszła, płaszcząc się i powiedziała... }
+Plh_83 { *naśladuje piskliwy głos* „Proszę, Mursel, proszę! Nie mogę tak pracować! Niedługo ci się odwdzięczę!” }
+Plh_88 { A poza tym jest za głupia, żeby ciąć... }
+Plh_38 { *uśmiecha się szeroko* Tak jest lepiej. W porządku, zostawię Agnessę w spokoju. Więc nikt nie może powiedzieć, że nie jestem rozsądnym facetem! }
+Plh_39 { I przynieś dość srebra! }
+Plh_25 { Już zrobione. }
+Plh_40 { Znowu ty. *wzdycha* }

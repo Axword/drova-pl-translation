@@ -1,0 +1,41 @@
+LoadingScreen_01 { Aby wchodzić w interakcje z ludźmi lub przedmiotami, musisz schować swoją broń. }
+LoadingScreen_02 { Naciśnij $INPUT:DrawWeapon$ aby dobyć lub schować broń. }
+LoadingScreen_05 { Możesz użyć $INPUT:PerceptionMode$ , aby dokładniej przyjrzeć się otoczeniu. Niektóre rzeczy można odkryć tylko w ten sposób! }
+LoadingScreen_06 { Możesz atakować tylko wtedy, gdy dobyłeś broń. Najpierw naciśnij $INPUT:DrawWeapon$, a potem $INPUT:Attack_Primary$. }
+LoadingScreen_07 { Śpij w łóżkach, aby się zregenerować. Im lepsze łóżko, w którym śpisz, tym bardziej wypoczęty będziesz. }
+LoadingScreen_08 { Zabierz wszystko, co znajdziesz. Możesz wytwarzać przedmioty, używając innych rzeczy. }
+LoadingScreen_09 { Możesz smażyć mięso lub gotować posiłki na ognisku. }
+LoadingScreen_11 { Gdy ktoś leży na ziemi, możesz pomóc mu wstać. }
+LoadingScreen_12 { Różni handlarze sprzedają różne towary. Wypatruj dobrych okazji! }
+LoadingScreen_14 { Noszenie włóczni pozwala ci łowić ryby w niektórych miejscach. Krążące ryby wskazują najlepsze miejsca do łowienia. }
+LoadingScreen_15 { Jeśli masz wytrych, możesz otwierać zamki. Po prostu nie daj się złapać! }
+LoadingScreen_16 { Bądź ostrożny przy podnoszeniu przedmiotów! Przedmioty z czerwoną obwódką już do kogoś należą. Nikt nie lubi złodziei! }
+LoadingScreen_17 { W walce możesz unikać ataków, używając $INPUT:Dodge$. Pamiętaj jednak o swoim pasku wytrzymałości! }
+LoadingScreen_18 { Jeśli popełniłeś przestępstwo, ludzie nie będą chcieli mieć z tobą do czynienia. W Nemeton, Gerdwin może wybaczyć przestępstwo. W obozie Ocalonych, będziesz musiał dogadać się z osobą, która jest na ciebie zła. }
+LoadingScreen_19 { Twoja postać notuje wszystkie ważne wydarzenia. Jeśli utkniesz, zajrzyj do swojego dziennika. }
+LoadingScreen_20 { Jeśli natkniesz się na przeciwników, którzy są dla ciebie zbyt trudni, warto rozważyć udanie się gdzieś indziej najpierw. }
+LoadingScreen_21 { Biegłość to suma twoich atrybutów. Niektóre bronie wymagają określonego poziomu biegłości, aby można było ich używać. }
+LoadingScreen_22 { Ludzie nie lubią, gdy spacerujesz z wyciągniętą bronią. Kiedy jesteś wśród ludzi, schowaj broń za pomocą $INPUT:DrawWeapon$. }
+LoadingScreen_23 { Niektórzy ludzie chcą podróżować z tobą. Zwykle poczekają na ciebie, jeśli oddalisz się za bardzo. }
+LoadingScreen_24 { Przemyśl dokładnie, do której frakcji chcesz dołączyć. Gdy dokonasz wyboru, nie będzie odwrotu. }
+LoadingScreen_25 { Możesz pozyskiwać pazury z niektórych zwierząt lub zdzierać z nich skóry. Musisz jednak najpierw nauczyć się odpowiednich talentów. }
+LoadingScreen_26 { Jeśli chcesz nauczyć się talentu lub zwiększyć swoje atrybuty, musisz znaleźć nauczyciela. }
+LoadingScreen_28 { Przytrzymaj $INPUT:RingMenu$, aby otworzyć menu koła. Możesz tam wybrać aktywną umiejętność. }
+LoadingScreen_29 { Umiejętności ze zwojów można użyć tylko raz. Mogą być przydatne, więc korzystaj z nich mądrze. }
+LoadingScreen_30 { Użycie umiejętności zużywa koncentrację. Koncentrację generujesz, atakując, ale tracisz ją, gdy otrzymujesz cios lub długo nie atakujesz. }
+LoadingScreen_32 { Za pomocą $INPUT:SwapWeaponSet$ możesz przełączać się między dwoma zestawami broni w walce. Naciśnij $INPUT:MENU-Inventory$, aby skonfigurować swoje dwa zestawy broni. }
+LoadingScreen_34 { Możesz komunikować się z niektórymi zwierzętami. Dlaczego nie spróbować z którymś porozmawiać? }
+LoadingScreen_35 { Aby wytworzyć niektóre przedmioty, potrzebujesz odpowiedniego miejsca pracy. }
+LoadingScreen_36 { Nie lubisz walczyć? Trzymaj się ścieżki, a powinieneś być względnie bezpieczny. }
+LoadingScreen_37 { Drugorzędny atak sztyletów zadaje znacznie więcej obrażeń, im wyższa jest twoja koncentracja. }
+LoadingScreen_38 { Możesz umieszczać znaczniki na wszystkich swoich mapach. Musisz jednak najpierw znaleźć tusz. }
+LoadingScreen_39 { Możesz oznaczać niepotrzebne przedmioty jako śmieci za pomocą $INPUTANIM:Garbage$. Możesz je wyświetlić lub ukryć w ekwipunku oraz dodać je do wymiany w menu wymiany jednym kliknięciem. }
+LoadingScreen_40 { Ciosy krytyczne powodują krwawienie (krwawienie zadaje obrażenia w czasie, równe obrażeniom ataku). }
+LoadingScreen_41 { Trucizna spowalnia ruch celu, który został nią dotknięty. }
+LoadingScreen_42 { Jedzenie leczy cię w czasie, ale regeneracja zostaje wstrzymana, gdy masz pełne zdrowie. Wiele potraw daje ci pasywne efekty, gdy jesteś pełny. Jeśli jesteś już pełny i zjesz coś, aktywny efekt pełności zostanie nadpisany. }
+LoadingScreen_43 { Kiedy używasz przedmiotu leczniczego, otrzymujesz efekt leczenia i regularnie odzyskujesz punkty zdrowia. Możesz mieć aktywnych kilka efektów leczenia jednocześnie, ale tylko jeden na przedmiot leczniczy. }
+LoadingScreen_44 { Zajrzyj do menu opcji. Mamy tam dodatkowe funkcje i ustawienia, które mogą ci się przydać. }
+LoadingScreen_45 { Wrogowie mają różną odporność na obrażenia fizyczne i magiczne. Zaklęcia są więc szczególnie skuteczne na dobrze opancerzonych przeciwników! }
+LoadingScreen_46 { Każda broń ma drugorzędny atak, który wykonujesz, używając $INPUTANIM:Block$. Możesz go używać tylko w przypadku broni jednoręcznych, jeśli masz wolną drugą rękę. }
+LoadingScreen_47 { Jeśli masz jakieś uwagi lub chcesz się z nami skontaktować, dołącz do naszego Discorda. Możesz tam porozmawiać z nami osobiście. Będzie nam miło cię tam zobaczyć! }
+LoadingScreen_48 { Przedmioty jednorazowego użytku, takie jak pułapki, bomby i noże do rzucania, przebijają pancerz wrogów. }

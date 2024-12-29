@@ -1,0 +1,11 @@
+Title { Droga do Czerwonej Wieży }
+Entry_00_Nemeton { Istnieje podróż runiczna, która może wykorzystać Boski Kryształ, a z pomocą Potężnego Dzikiego możemy dostać się do Czerwonej Wieży. Ale Potężny Dzik nie ma wystarczającej mocy magicznej. Mam udać się do Biblioteki Minionych Czasów i znaleźć informacje o dodatkowych Boskich Kryształach w Drovie. }
+Entry_00_Ruinenlager { Nie udało nam się otworzyć drzwi do Czerwonej Wieży. Potężny Dzik nie był wystarczająco silny. Aby uzyskać więcej mocy, mam przeszukać Bibliotekę Minionych Czasów w poszukiwaniu informacji o miejscach, gdzie znajdują się dodatkowe Boskie Kryształy w Drovie. }
+Entry_01 { Dowiedziałem się, że istnieją dodatkowe Boskie Kryształy. Podobno jeden można znaleźć na wzgórzu, na północ od Obozu Drwali. }
+Entry_02 { Znalazłem Boski Kryształ. Kolejny ma znajdować się głęboko w Prastarym Lesie, na zachód od obozu Ocalonych. }
+Entry_03 { Mocy wystarczy, ale Boskie Kryształy nie są naładowane. Minione Czasy ładowały kryształy głęboko na Czerwonym Torfowisku, na południowy wschód od Nemeton. Muszę się tam rozejrzeć. }
+Entry_04_1_NemetonQuest { Mamy naładowane Boskie Kryształy i Potężnego Dzikiego. Jesteśmy gotowi na Czerwoną Wieżę! Mam poinformować Momberta w domu druidów. }
+Entry_04_2_NemetonQuest { Mombert jest gotowy. Czerwona Wieża, nadchodzimy! Zmienimy Drovę w Krainę Legend! }
+Entry_04_3_NemetonQuest { Wszystko gotowe. Powinienem dobrze się przygotować. Nie ma już odwrotu! Kiedy będę gotowy, mam zgłosić się do Molviny. }
+Entry_04_1_RuinenlagerQuest { Wszystko gotowe. Powinienem dobrze się przygotować. Nie ma już odwrotu! Kiedy będę gotowy, mam zgłosić się do Jero. }
+Entry_05 { Udało się! Jesteśmy wewnątrz Czerwonej Wieży! }

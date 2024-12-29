@@ -1,0 +1,105 @@
+talent_sword_01 { Podstawowa walka mieczem }
+talent_sword_01_desc { Poprawia Twoją postawę bojową, zwiększa obrażenia zadawane o [DamageValuePercent]. Nauczysz się zdolności Egzekucja. }
+talent_sword_02 { Wytrenowana walka mieczem }
+talent_sword_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent] i odblokowuje trzeci atak w kombinacji. }
+talent_sword_03 { Mistrzowska walka mieczem }
+talent_sword_03_desc { Poprawia Twoją postawę bojową i zwiększa obrażenia zadawane o [DamageValuePercent]. }
+talent_sneak_01 { Skradanie }
+talent_sneak_01_desc { Możesz poruszać się bardziej skrycie, co utrudnia przeciwnikom zauważenie Cię. }
+talent_shield_02 { Wytrenowana walka tarczą }
+talent_shield_02_desc { Perfekcyjna blokada tymczasowo ogłusza przeciwników. }
+talent_shield_01 { Podstawowa walka tarczą }
+talent_shield_01_desc { Możesz teraz wykonać Perfekcyjną Blokadę tarczą. }
+talent_shield_01_additionale_headline { Perfekcyjna blokada }
+talent_shield_01_additionale_desc { Wykonujesz Perfekcyjną Blokadę, która zużywa bardzo mało wytrzymałości, jeśli blokujesz tuż przed uderzeniem. }
+talent_spear_01 { Podstawowa walka włócznią }
+talent_spear_01_desc { Poprawia Twoją postawę bojową, zwiększa obrażenia zadawane o [DamageValuePercent]. Nauczysz się zdolności Przebicie. }
+talent_spear_02 { Wytrenowana walka włócznią }
+talent_spear_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent]. Normalne ataki włócznią regenerują [StaminaValueAbsolut] wytrzymałości. }
+talent_spear_03 { Mistrzowska walka włócznią }
+talent_spear_03_desc { Poprawia Twoją postawę bojową. Zwiększa obrażenia zadawane o [DamageValuePercent] oraz ilość regenerowanej wytrzymałości z każdym uderzeniem do [StaminaValueAbsolut]. }
+talent_dagger_01 { Podstawowa walka sztyletem }
+talent_dagger_01_desc { Poprawia Twoją postawę bojową, zwiększa obrażenia zadawane o [DamageValuePercent]. Nauczysz się zdolności Zarażenie. }
+talent_dagger_02 { Wytrenowana walka sztyletem }
+talent_dagger_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent], zwiększa ilość generowanego skupienia z każdym uderzeniem o [FocusValueAbsolut]. }
+talent_dagger_03 { Mistrzowska walka sztyletem }
+talent_dagger_03_desc { Poprawia Twoją postawę bojową, zwiększa obrażenia zadawane o [DamageValuePercent], zwiększa ilość generowanego skupienia z każdym uderzeniem o [FocusValueAbsolut]. }
+talent_bow_01 { Podstawowa walka łukiem }
+talent_bow_02 { Mistrzowska walka łukiem }
+talent_bow_01_additionale_headline { Potężny Strzał }
+talent_bow_01_additionale_desc { Podczas celowania z łuku, wystrzeliwujesz Potężny Strzał w idealnym momencie, który zadaje obrażenia broni o wartości [WeaponDamagePercent]. }
+talent_bow_01_desc { Zwiększa obrażenia zadawane o [DamageValuePercent]. Możesz teraz wykonać Potężny Strzał z łuku. }
+talent_bow_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent] i skraca czas celowania. Nauczysz się zdolności Strzał Ogłuszający. }
+talent_slingshot_01 { Podstawowa walka z procy }
+talent_slingshot_02 { Mistrzowska walka z procy }
+talent_slingshot_01_desc { Zwiększa obrażenia zadawane o [DamageValuePercent] oraz obrażenia postawy o [PoiseValuePercent]. Nauczysz się zdolności Rykoszet. }
+talent_slingshot_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent] oraz obrażenia postawy o [PoiseValuePercent]. }
+talent_axe_01 { Podstawowa walka toporem }
+talent_axe_01_desc { Poprawia Twoją postawę bojową, zwiększa obrażenia zadawane o [DamageValuePercent]. Nauczysz się zdolności Krwawe Szał. }
+talent_axe_02 { Wytrenowana walka toporem }
+talent_axe_02_desc { Zwiększa obrażenia zadawane o [DamageValuePercent] i odblokowuje trzeci atak w kombinacji. }
+talent_axe_03 { Mistrzowska walka toporem }
+talent_axe_03_desc { Poprawia Twoją postawę bojową i zwiększa obrażenia zadawane o [DamageValuePercent]. }
+talent_alchemy { Warzenie mikstur }
+talent_alchemy_desc { Możesz warzyć mikstury, które pomagają w walce lub zwiększają Twoje statystyki. }
+talent_lockpicking_01 { Otwieranie skomplikowanych zamków }
+talent_lockpicking_01_desc { Żaden zamek nie jest już przed Tobą bezpieczny. }
+talent_extractsecretion { Wydobywanie Ichoru }
+talent_extractsecretion_desc { Możesz wydobywać ichor od niektórych zwierząt. Ichor jest potrzebny do warzenia mikstur oraz do rzemiosła. }
+talent_tearclaws { Patroszenie zwierząt }
+talent_tearclaws_desc { Możesz usuwać pazury i zęby niektórych zwierząt. Pazury można sprzedawać; zęby można wykorzystać do rzemiosła. }
+talent_melting_01 { Wytapianie }
+talent_melting_01_desc { Możesz przetwarzać rudy w kuźniach. }
+talent_smith_01 { Rzemiosło }
+talent_smith_01_desc { Możesz wytwarzać różne przedmioty. }
+talent_smith_02 { Mistrzowskie Rzemiosło }
+talent_smith_02_desc { Możesz wytwarzać niebezpieczne pułapki, przedmioty i amunicję. }
+talent_stripfur { Oprawianie zwierząt }
+talent_stripfur_desc { Możesz oprawiać niektóre zwierzęta. Skóry można sprzedawać lub wykorzystać do rzemiosła. }
+talent_shield_CritAfterBlock { Brak Równowagi }
+talent_shield_CritAfterBlock_desc { Jeśli perfekcyjnie zablokujesz atak, Twój następny atak będzie trafieniem krytycznym. }
+talent_shield_flow_afterblock { To wszystko co potrafisz? }
+talent_shield_flow_afterblock_desc { Jeśli perfekcyjnie zablokujesz atak, generujesz [FocusValueAbsolut] skupienia. }
+talent_axe_adddmgflow { Szał Bitewny }
+talent_axe_adddmgflow_desc { Po udanym trafieniu, ataki generują dodatkowe [FocusValueAbsolut] skupienia. }
+talent_axe_critonpoise { Coup de Grace }
+talent_axe_critonpoise_desc { Twój pierwszy atak toporem na przeciwniku, którego postawa została złamana, zakończy się trafieniem krytycznym. }
+talent_axe_decreasestamina { Pełny Gaz }
+talent_axe_decreasestamina_desc { Ciężkie ataki zużywają o [StaminaValuePercent] mniej wytrzymałości. }
+Talent_Daggers_CritAfterDodge { Niespodzianka! }
+Talent_Daggers_CritAfterDodge_desc { Twój pierwszy atak sztyletem po uniku ma [CritPercent] większą szansę na trafienie krytyczne. }
+Talent_Daggers_DecreaseFlow { Pełne skupienie! }
+Talent_Daggers_DecreaseFlow_desc { Po użyciu zdolności, zyskasz [FocusValueAbsolut] skupienia. }
+Talent_Daggers_RegenerateStamina { Skuteczne Uderzenie }
+Talent_Daggers_RegenerateStamina_desc { Zwykłe ataki generują [StaminaValueAbsolut] wytrzymałości. }
+Talent_Sword_NextSpellLesserFlow { Oportunista }
+Talent_Sword_NextSpellLesserFlow_desc { Po trafieniu krytycznym mieczem, odzyskasz [FocusValuePercent] kosztu skupienia następnej zdolności wymagającej skupienia. }
+Talent_Sword_ChargeAttacksDecreaseStamina { Mocne Uderzenie }
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { Ciężkie ataki mieczem zużywają o [StaminaValuePercent] mniej wytrzymałości. }
+Talent_Sword_AddCritChance { Precyzja }
+Talent_Sword_AddCritChance_desc { Podczas ataku mieczem masz [CritValuePercent] większą szansę na trafienie krytyczne. }
+Talent_Spear_GenerateFlow { Skupione Uderzenie }
+Talent_Spear_GenerateFlow_desc { Każdy atak włócznią na tego samego przeciwnika zwiększa generowane skupienie o [FocusValueAbsolut]. }
+Talent_Spear_MoreDmgOnHead { Szczytowa Wydajność }
+Talent_Spear_MoreDmgOnHead_desc { Czubek włóczni zadaje do [DamageValuePercent] dodatkowych obrażeń. }
+Talent_Spear_PoiseOnCrit { Zatruta Końcówka }
+Talent_Spear_PoiseOnCrit_desc { Trafienia krytyczne włócznią zatruwają przeciwnika. }
+Talent_Bow_InstantAfterDodge { Szybki Strzał }
+Talent_Bow_InstantAfterDodge_desc { Po uniku możesz wystrzelić strzałę bez celowania. }
+Talent_Bow_IncreaseCritDamage { Oko Byka }
+Talent_Bow_IncreaseCritDamage_desc { Trafienia krytyczne z łuku zadają [DamageValuePercent] więcej obrażeń. }
+Talent_Sling_MultipleProjectiles { Podwójny Ładunek }
+Talent_Sling_MultipleProjectiles_desc { Istnieje [TriggerPercent] szansa, że podczas wystrzelenia pocisku wystrzelony zostanie drugi bez zużycia amunicji. }
+Talent_Sling_AddDmgOnPoise { Bicz }
+Talent_Sling_AddDmgOnPoise_desc { Jeśli złamiesz postawę przeciwnika przy pomocy procy, Twój następny atak zada [DamageValuePercent] dodatkowych obrażeń. }
+Talent_Sling_Ricochet_Name { Rykoszet }
+Talent_Sling_Ricochet_Desc { Rzucasz pocisk, który zadaje [WeaponDamagePercent] obrażeń, a następnie rykoszetuje od przeciwnika, trafiając pobliskich przeciwników. }
+Talent_Sling_HeavyShot_Name { Strzał Ogłuszający }
+Talent_Sling_HeavyShot_Desc { Ciężki strzał, który zadaje [WeaponDamagePercent] obrażeń i ogłusza przeciwników na [StunTime] sekund. }
+teachers { Nauczyciel }
+talent_mining_desc { Zwiększa ilość surowca uzyskanego z poszukiwania rudy. }
+talent_mining_01 { Górnictwo 1 }
+talent_mining_02 { Górnictwo 2 }
+talent_mining_03 { Górnictwo 3 }
+talent_mining_04 { Górnictwo 4 }
+talent_mining_05 { Górnictwo 5 }

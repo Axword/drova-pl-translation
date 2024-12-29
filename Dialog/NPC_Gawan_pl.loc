@@ -1,0 +1,110 @@
+Plh_28 { Znalazłem Hansiego. Nie wygląda dobrze. }
+Plh_77 { O kamieniu glifowym... }
+Plh_109 { O owcach... }
+Plh_110 { Czy masz monety $GVAR:QuestVars_RipperAmbush.SheepCosts$? }
+Plh_119 { O żabach... }
+Plh_120 { Czy masz monety $GVAR:QuestVars_RipperAmbush.YCosts$? }
+Plh_60 { Witaj, mój przyjacielu. Jestem Gawan. Zauważyłem, że ty i ten Faol polowaliście na Rozpruwaczy na północ stąd. Dobra robota! }
+Plh_61 { Piwo na mnie! }
+Plh_62 { Nie przestawaj ich przybywać! (pić piwo) }
+Plh_63 { Czego ode mnie chcesz? }
+Plh_64 { Zasłużyłeś na to. Ci przeklęci rozpruwacze sprawiają po prostu tyle kłopotów. }
+Plh_65 { Powiedz... szukam Hansiego. Nie znalazłeś przypadkiem zwłok tam, gdzie byli rozpruwacze? Taki z dziwnym żółtym kamieniem glifowym? }
+Plh_72 { Czekaj, o co chodzi? }
+Plh_8 { Hansi i ja jechaliśmy do Nemeton z obozu Ocalonych. Zrobiliśmy tam niezły interes. *uśmiecha się* }
+Plh_56 { Po drodze zaatakowali nas rozpruwacze. Ledwo mogłem się obronić, ale... }
+Plh_9 { Hansiego nie było. Został rozerwany na strzępy. Udało mi się ocalić swoje rzeczy, ale Hansi miał przy sobie kamień glifowy. To był powód, dla którego w pierwszej kolejności pojechaliśmy do Nemeton. }
+Plh_59 { Te stworzenia zaciągnęły Hansiego na pagórek. Prawie nie zjedliby kamienia glifowego, więc nadal powinien być przy nim. Jeśli mi go przyniesiesz, sprzedam go w Nemeton. I dostaniesz cięcie. }
+Plh_10 { Do czego służy kamień glifowy? }
+Plh_11 { Co dokładnie stało się z Hansim? }
+Plh_14 { Twój przyjaciel nie żyje i nie przeszkadza Ci to?! }
+Plh_18 { Może mógłbym rozejrzeć się za kamieniem glifowym? }
+Plh_58 { Nie chcę mieć z tym nic wspólnego. }
+Plh_12 { To naprawdę stary kamień. Hansi spotkał kupca w Nemeton, który chciał nam za to dać masę monet. }
+Plh_66 { Przynieś mi kamień, a sprzedam go w Nemeton. Działając razem, możemy zarobić niezłą monetę. }
+Plh_13 { Mówiłem, że to kupił! Czy to nie wystarczy? Chcesz, żebym ci wyjaśnił, jak go wypatroszyli? }
+Plh_15 { Cóż, przyjacielu... a raczej powinienem powiedzieć, kretyn. To ja musiałem z nim pracować. On nie żyje, a ja jestem spłukany. Świetnie, po prostu świetnie. }
+Plh_20 { Od razu wiedziałam, że mogę na Tobie polegać! Mam nadzieję, że kamień nadal jest przy Hansi... }
+Plh_34 { Pomyśl o tym. Jeśli dostaniemy kamień glifowy, oboje będziemy bogaci. }
+Plh_29 { Nikt nie będzie wyglądał tak wspaniale po rozdarciu na strzępy. Tak czy inaczej, co z kamieniem glifowym? }
+Plh_30 { Nie było tego na jego ciele. (kłamstwo) }
+Plh_31 { Oto kamień glifowy. }
+Plh_74 { Nie jestem pewien. Muszę się jeszcze trochę rozejrzeć. }
+Plh_32 { Co za kretyn! Dziękuję za nic. Teraz muszę zobaczyć, gdzie mogę się zatrzymać... }
+Plh_78 { A co z nagrodą? }
+Plh_79 { Powodzenia. }
+Plh_80 { Jestem spłukany! Nie mam nic, co mógłbym ci dać! }
+Plh_81 { Szkoda... }
+Plh_33 { Nie mogę w to uwierzyć! Na Bóstwa! Uratowałeś mnie! Uczyniłeś nas bogatymi! }
+Plh_37 { Och, nagroda... cóż... Kiedy sprzedam kamień glifowy, dostaniesz swoją część. A wtedy będziemy bogaci! Masz moje słowo! }
+Plh_38 { W takim razie miej oczy szeroko otwarte na mnie w Nemeton! A teraz idź, ruszaj w drogę! }
+Plh_75 { Jeśli znajdziemy kamień glifowy, oboje będziemy bogaci! }
+Plh_76 { Czy masz kamień glifowy? }
+Plh_73 { *mruczy* Zostaw mnie w spokoju... }
+Plh_130 { Dobrze nam się współpracowało, ale teraz nasze drogi muszą się rozejść. }
+Plh_121 { Proszę bardzo! Dotrzymam słowa, w przeciwnym razie nie nazywam się Gawan. }
+Plh_132 { Sprzedałem kamień glifowy. Przyniosło tyle monet, ile się spodziewałem. Od razu zainwestowałem je w nowy biznes, dzięki któremu się pomnożą. }
+Plh_133 { Zrób też coś wartościowego ze swoim udziałem. *uśmiecha się* }
+Plh_122 { Napotkałem sporo problemów. Nie wszystko poszło dokładnie tak, jak chciałem, ale i tak mam dla Ciebie bardzo fajną porcję zmian. *uśmiecha się* }
+Plh_123 { Więc teraz dostanę monety? }
+Plh_124 { Jaki jest haczyk? }
+Plh_151 { Spójrz na moich nowych przyjaciół. Hansi i $GVAR:EVars_Player.Name$. Kupiłem je za wszystkie monety. Warte każdego grosza! }
+Plh_152 { Jedna żaba ma imię — po mnie? Nie wiem co powiedzieć... }
+Plh_153 { A monety? }
+Plh_125 { Powinieneś być zaszczycony! Dowód mojego uznania za pomoc! Dla Ciebie mam... }
+Plh_126 { $GVAR:QuestVars_RipperAmbush.YMoney$ monety! }
+Plh_128 { Teraz oboje jesteśmy naprawdę gotowi! }
+Plh_129 { Robienie z tobą interesów to przyjemność. Ale teraz musimy pójść własnymi drogami. Pomyśl o mnie, kiedy będziesz wydawać te monety. }
+Plh_127 { $GVAR:QuestVars_RipperAmbush.SheepMoney$ monety! }
+Plh_154 { Tak, oczywiście. Ściśle biznesowe, prawda? Dla Ciebie mam... }
+Plh_113 { Szukałem cię! Mam świetną wiadomość! }
+Plh_114 { Hodowla owiec zakończyła się pełnym sukcesem! Mamy mnóstwo monet! }
+Plh_115 { Następnie oddaj je! }
+Plh_139 { Ale moglibyśmy potroić nasze monety! Dostałem od kogoś radę jak to zrobić... }
+Plh_140 { Żaby! }
+Plh_141 { Żaby...? }
+Plh_142 { W całym Czerwonym Wrzosowisku można znaleźć zaginiony skarb. Nawet w wodzie. Nikt nie ma odwagi tam zajrzeć. Ale kto to zrobi? }
+Plh_143 { Żaby! }
+Plh_146 { To genialne! }
+Plh_144 { Czekaj... Żaby mogą szukać dla nas skarbów? }
+Plh_145 { To naprawdę głupie. }
+Plh_147 { O tak! }
+Plh_149 { Jak to ma działać? }
+Plh_150 { Kupię trochę żab. Szukają skarbu na Czerwonym Wrzosowisku i przynoszą go nam. Na północ od Georgefarm jest duże jezioro. Od tego zacznę. Szybko się wzbogacimy! }
+Plh_116 { Owce przyniosły przyzwoity zysk, ale to nie wystarczy. Nadal potrzebuję monet $GVAR:QuestVars_RipperAmbush.YCosts$. Jesteś w środku? }
+Plh_148 { Każdy nowy pomysł jest głupi, prawda? Każda zmiana jest zła, prawda? Ale jedna wizja może zmienić cały świat! }
+Plh_131 { Sprzedałem kamień glifowy za mnóstwo monet i kupiłem owcę, a potem sprzedałem owcę! }
+Plh_83 { Ach, tu jesteś! Wspaniale cię widzieć! }
+Plh_84 { Masz moje monety? }
+Plh_85 { Co tu robisz z owcami? }
+Plh_86 { OK... więc... Wysłuchaj mnie. Udało mi się sprzedać kamień glifowy i zdobyć za niego dużo monet. }
+Plh_87 { Ale żeby robić monety, musisz wydawać monety. Więc zawarłem umowę z Gerionem, że wysadzi cię z wody. Więc trzymaj kapelusz. Monety... }
+Plh_88 { PODWÓJMY ICH! }
+Plh_90 { Chcę tylko moje monety, tak jak ustaliliśmy. }
+Plh_91 { Jak to będzie działać? }
+Plh_89 { Dostaniesz je. Ale posłuchaj... }
+Plh_92 { Kupiłem owce od Gerion po najniższej cenie. Zamierzam prowadzić hodowlę owiec. }
+Plh_137 { Więc będziesz – pasterzem? }
+Plh_135 { Nie, musisz myśleć nieszablonowo. Spójrz na duży obraz. Owce to czyste złoto. Owce ROBIĄ prawdziwe złoto. }
+Plh_138 { Wpychasz trawę w owcę, a owca wyhoduje wełnę, którą zamieniam na monety. A gdzie dostanę trawę? Dobrze? ROŚNIE SAMODZIELNIE! WŁAŚNIE TAK! }
+Plh_93 { Ale żeby rozpocząć... hm, NASZĄ hodowlę owiec, potrzebuję jeszcze tylko kilku monet. Ja już dołożyłem swoją część. Ale musisz mieć jakieś monety...? }
+Plh_95 { Ile potrzebujesz? }
+Plh_96 { Nie wiem... }
+Plh_97 { Słuchaj, potrzebuję tylko monet $GVAR:QuestVars_RipperAmbush.SheepCosts$. }
+Plh_98 { Tak, wiem. To więcej niż kilka. Ale już ci to wyjaśniłem. Nieskończone ilości trawy. Nieskończone ilości wełny... }
+Plh_99 { PODWÓJ MONETY! }
+Plh_108 { Miej cierpliwość. Nie mam jeszcze monet. }
+Plh_52 { Hej, ty tam. Jestem Gawan. Poszukuję osób, które pomogą mi w prowadzeniu biznesu. I wyglądasz, jakbyś miał na swoim koncie kilka bitew. Biznes to także walka. Chcesz zarobić trochę monet? }
+Plh_53 { Zawsze. Jaka jest umowa? }
+Plh_54 { Nie, dzięki. }
+Plh_55 { Nie możesz mówić poważnie. Każdy potrzebuje monet. Przynajmniej mnie wysłuchaj... }
+Plh_6 { *mruczy* Czego chcesz? }
+Plh_117 { Wchodzę w to. (Daj monety $GVAR:QuestVars_RipperAmbush.YCosts$) }
+Plh_101 { Pozwól mi się nad tym zastanowić. }
+Plh_102 { Nie chcę mieć z tym nic wspólnego. Wyszedłem. }
+Plh_106 { Będziemy robić monety szybciej, niż będziemy mogli je wydać. Powiem ci, kiedy nadejdzie czas żniw. *uśmiecha się* }
+Plh_103 { Nie trwaj zbyt długo. Oferta nie będzie na stole wiecznie. }
+Plh_104 { Potem spadaj. Potrzebuję tylko ludzi, którzy we mnie wierzą. Znajdę kogoś innego. }
+Plh_100 { Wchodzę w to. (Daj monety $GVAR:QuestVars_RipperAmbush.SheepCosts$) }
+Plh_155 { *pluje na ziemię* Nie chcę mieć z tobą nic wspólnego. Spadaj. }
+Plh_156 { Miałem nowy pomysł na biznes, ale nigdzie nie mogłem Cię znaleźć. Musiałem zainwestować własne monety. }

@@ -1,0 +1,10 @@
+Title { Droga do Pierwotnego Lasu }
+Entry_01_A { Potężny Dzik żyje w Pierwotnym Lesie, otoczony morzem Czarnego Płomienia. Ludzie mieszkający w Pierwotnym Lesie przetrwali pośród niego. Muszę wymyślić sposób, jak przejść przez Czarny Płomień bez szwanku. Podobno kupiec o imieniu Tristan wie o tym więcej. Mogę go znaleźć w tawernie znanej jako Karczma Bezgłowego Rozpruwacza. }
+Entry_02 { Tristan od jakiegoś czasu nie był w karczmie i nigdy nie zapłacił rachunku. Olaf zaproponował, że wpuści mnie do jego pokoju, pod warunkiem, że zapłacę $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ monet, które Tristan jest mu winien. }
+Entry_04 { W pokoju Tristana znalazłem mapę, która pokazuje, jak mogę bezpiecznie wejść do Pierwotnego Lasu. Mapa przedstawia również obóz w lesie. Powinienem się tam udać. }
+Entry_05 { Znalazłem Schronienie. Ludzie tutaj żyją z iskrą, która ich chroni i pozwala przejść przez Czarny Płomień. Potrzebuję jednej z tych iskier. }
+Entry_06 { Tristan mówi, że tylko członkowie Schronienia mogą otrzymać taką iskrę. Mam porozmawiać z Diemo. }
+Entry_07 { Najwyraźniej iskra, którą otrzymałem, odpycha Czarny Płomień. Powinienem wrócić do mojej frakcji i to zgłosić. }
+Entry_08 { Po podzieleniu się informacjami o Czarnym Płomieniu i iskrze mam dołączyć do ekspedycji do Pierwotnego Lasu. }
+Entry_02_A { Otrzymałem klucz i teraz mogę wejść do pokoju. }
+Entry_09 { Mam mapę Pierwotnego Lasu. Jestem pewien, że będzie pomocna. }

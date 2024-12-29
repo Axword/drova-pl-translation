@@ -1,0 +1,6 @@
+Title { Miejsce w Głębokiej Kopalni }
+Entry_01 { Murtagh zawsze bierze ogromną część srebra, które Almar wydobywa w Głębokiej Kopalni. Jeśli mogę odwieść Murtagha od tego, Almar podzieli się ze mną swoim miejscem w kopalni. }
+Entry_02A { Zająłem się Almarem. Jeśli nie będzie mógł pracować, Jendra będzie potrzebować kogoś innego do Głębokiej Kopalni. To moja szansa. }
+Entry_02B { Murtagh nie będzie już sprawiać kłopotów Almarowi. Powinienem powiedzieć Almarowi. }
+Entry_02C { Jendra chciał $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ srebra za miejsce Almara. Zapłaciłem i teraz mam jego miejsce. }
+Entry_03 { Dzielę miejsce w Głębokiej Kopalni z Almarem. Teraz robi sobie przerwę. Jendra powinna być teraz gotowa zabrać mnie ze sobą. }
